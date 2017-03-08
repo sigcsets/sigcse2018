@@ -14,13 +14,17 @@ On the Mac, I followed the installation instructions on the Jekyll website.
 
     gem install jekyll bundler
 
-I also have had success with this Ruby-based software on Linux, and have never tried building this site on Windows. I think many things would fail if you try, and cannot recommend it.
+On Linux, the installation command is:
+	
+	sudo apt-get install jekyll
+
+Windows might work, too, but neither the 2017 nor 2018 webmaster have tried.
 
 ### Developing
 
 To develop the site, I run
 
-    jekyll s
+    jekyll start
 
 which renders the site on a local test server. You should then be able to connect using your browser:
 
@@ -28,19 +32,17 @@ which renders the site on a local test server. You should then be able to connec
 
 Now, as you edit, you can save your work, Jekyll will automatically render the changes, and you can refresh your browser page to see what you've done.
 
-### Publishing
+### Publishing (2017)
 
-There used to be a Makefile. It did a lot of things. Then, I got lazy, so I wrote a small bash script. I should probably write a Makefile again. The makefile used to minify pages and do many other things... this site is smaller and simpler than the site from last year, so I haven't worked those things into the build yet. This is a form of laziness, as it introduces platform dependencies and possible points of breakage between machines.
-
-To upload the site to the staging area, I use
+To upload the site to the staging area, use
 
     ./_tools/upload.bash staging
 
-To upload to the live site, I use
+To upload to the live site, use
 
     ./_tools/upload.bash live
 
-To upload to both, I use
+To upload to both, use
 
     ./_tools/upload.bash all
 
@@ -48,7 +50,11 @@ It is a good idea to make sure, when publishing live, to make sure to update the
 
 The upload should happen via rsync over SSH, so if you have a valid key loaded, there should be no issues.
 
-### Managing the Site Year to Year
+The 2017 webmaster notes:
+
+"There used to be a Makefile. It did a lot of things. Then, I got lazy, so I wrote a small bash script. I should probably write a Makefile again. The makefile used to minify pages and do many other things... this site is smaller and simpler than the site from last year, so I haven't worked those things into the build yet. This is a form of laziness, as it introduces platform dependencies and possible points of breakage between machines."
+
+### Managing the Site Year to Year (2017 webmaster notes)
 
 These might also be read as "points of gotcha" when working with the current site. Fragility of naming abounds in any rendering framework: beware!
 
