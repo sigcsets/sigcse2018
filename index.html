@@ -8,7 +8,7 @@ layout: default
 
 <div class="row" style="margin-bottom: 20px;">
   <div class="col-sm-6"> <!-- Start Left Hand Side -->
-    <h3 style="margin-top:-6px;">CS For All</h3>
+    <h3 style="margin-top:-6px;">{{site.data.sigcse.slogan}}</h3>
     <h4>{{site.data.sigcse.date.month}}
         {{site.data.sigcse.date.start}} - {{site.data.sigcse.date.end}},
         {{site.data.sigcse.location.city}}, {{site.data.sigcse.location.state}},
@@ -17,35 +17,70 @@ layout: default
   The SIGCSE Technical Symposium is the largest computing education conference worldwide organized by ACM SIGCSE. It attracts around 1,300 researchers, educators, and others interested in improving computing education in K-12 and higher education.
   </p>
 
+  <div class="row"> <!-- start supporters -->
+    {% for category in site.data.supporters %}
+      <div class="row">
+          <h3 class="text-center" style="text-shadow: 1px 1px 1px; border-bottom: 1px solid #ccc;">{{category[0]}} Supporters</h1>
+      </div>
+      {% assign mod = 0 %}
+      {% assign modulus = 3 %}
+      {% capture span %}{{ 12 | divided_by: modulus }}{% endcapture %}
+      {% capture subone %}{{modulus | minus: 1}}{% endcapture %}
+      <!-- SPAN: {{span}} SUBONE: {{subone}} -->
+
+      {% for supporter in category[1]  %}
+        {% capture mod %}{{ forloop.index0 | mod: modulus }}{% endcapture %}
+        {% if mod == '0' or forloop.first %}
+          <div class="row">
+        {% endif %}
+
+        <!-- SPONSOR: {{mod}} -->
+        <div class="col-md-{{span}}" >
+      	  <div class="thumbnail" style="border: 0px; padding-top: 40px;">
+            <h5 class="text-center" style="margin-top: -25px; color: black;">{{supporter.name}}</h3>
+            <a href="{{supporter.link}}">
+      		    <img alt="{{supporter.name}}"
+                   src="images/supporters/200s/{{supporter.image}}"
+                   />
+            </a>
+      	  </div>
+        </div>
+
+        {% if mod == subone or forloop.last %}
+        </div> <!-- end row -->
+        {% endif %}
+
+      {% endfor %}
+    {% endfor %}
+  </div> <!-- end supporters -->
+
 	</div> <!-- End Left Hand Side -->
 
   <div class="col-sm-5 col-sm-offset-1"> <!-- Start Right Hand Side -->
     <div class="row">
       <img  class="img-responsive"
-            src="images/venue/seattle-mountain-tiffany98101-500.png"
-            alt="Seattle with a mountain in the background.
-                   The mountain has snow on it.
-                   A building, which might be a UFO, is in the foreground.
-                   Picture CC-BY tiffany98101."/>
+            src = "images/venue/ursus_dave_baltimore.jpg"
+            alt = "A sugar factory on a river in Baltimore.                   
+                   Picture CC-BY ursusdave."/>
     </div>
 
 		<!-- Start PDF Program -->
-    <div class="alert alert-success" style="margin-top: 23px">
-      <a href="{{ '/docs/sigcse2017-program.pdf' | prepend: site.baseurl }}">
+    <!--<div class="alert alert-success" style="margin-top: 23px">
+      <a href="{{ '/docs/sigcse2018-program.pdf' | prepend: site.baseurl }}">
         <img src="/images/sigcse-program-cover.png"
         width="150px"
-        alt="SIGCSE 2017 Program Cover"
+        alt="SIGCSE 2018 Program Cover"
         style="margin-right: 15px; float: left;"/></a>
         View Program:<br/>
-        <a href="http://easychair.org/smart-program/SIGCSE2017/">online version</a>,<br/>
-        <a href="{{ '/docs/sigcse2017-program.pdf' | prepend: site.baseurl }}">PDF version</a>,<br/>
-        <a href="{{ '/docs/sigcse2017-best-paper-and-exemplary-paper-awards.pdf' | prepend: site.baseurl }}">Best Papers and Exemplary Papers</a>
+        <a href="http://easychair.org/smart-program/SIGCSE2018/">online version</a>,<br/>
+        <a href="{{ '/docs/sigcse2018-program.pdf' | prepend: site.baseurl }}">PDF version</a>,<br/>
+        <a href="{{ '/docs/sigcse2018-best-paper-and-exemplary-paper-awards.pdf' | prepend: site.baseurl }}">Best Papers and Exemplary Papers</a>
         <div style="clear:both"></div>
     </div>
     <div class = "alert alert-info" style="margin-top: 23px">
       <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
         <a href="http://dl.acm.org/citation.cfm?id=3017680">Conference Proceedings</a>
-    </div>
+    </div>-->
 		<!-- End PDF Program -->
 
 	<!-- Start News -->
@@ -59,7 +94,7 @@ layout: default
           </tr>
         </thead>
         <tbody>
-          <tr>
+       <!--   <tr>
             <td> <s>Feb 7th</s> </td>
             <td> <s>Hotel Conference Rate Ends</s></td>
           </tr>
@@ -70,14 +105,14 @@ layout: default
           <tr>
             <td> <s>Feb 28th</s> </td>
             <td> <s>Late Registration Ends</s> </td>
-          </tr>
+          </tr>-->
           <tr>
-            <td> March 8th </td>
+            <td> Feb 21st </td>
             <td> On-Site Registration Begins </td>
           </tr>
           <tr>
-            <td> March 8th </td>
-            <td> <b>SIGCSE TS 2017</b> </td>
+            <td> Feb 21st </td>
+            <td> <b>SIGCSE TS 2018</b> </td>
           </tr>
 
         </tbody>

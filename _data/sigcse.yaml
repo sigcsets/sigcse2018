@@ -1,17 +1,18 @@
-year: 2017
+year: 2018
+slogan: CS For All
 date:
-  month: March
-  start: 8th
-  end: 11th
+  month: February
+  start: 21st
+  end: 24th
 location:
-  city: Seattle
-  state: Washington
+  city: Baltimore
+  state: Maryland
   country: USA
 airport:
-  code: SEA
-  name: Seattle-Tacoma International
-  url: http://www.portseattle.org/Sea-Tac/Pages/default.aspx
-  phone: +1-800-544-1965​
+  code: BWI
+  name: Baltimore/Washington International Thurgood Marshall Airport
+  url: http://www.bwiairport.com/en
+  phone: +1-800-435-9294
 
 deadlines:
   - items:
@@ -19,23 +20,23 @@ deadlines:
       - Panel
       - Special Session
       - Workshop
-    date: "Friday, August 26, 2016"
+    date: "Friday August 25, 2017"
   - items:
       - Student Research Competition
-    date: "Monday, September 26, 2016"
+    date: "TBA"
   - items:
       - Birds of a Feather
       - Demo
       - Lightning Talk
       - Poster
-    date: "Friday, October 21, 2016"
+    date: "Friday, October 20, 2017"
   - items:
-      - Pre-Symposium and Affiliated Event
-    date: "Tuesday, November 1, 2016"
+      - Pre-Symposium Events
+    date: "Friday, October 20, 2017"
 
 registration:
-  isopen: true
-  url: http://www.regonline.com/sigcse2017
+  isopen: false
+  url: http://www.regonline.com/sigcse2018
 
 volunteers:
   url: https://www.cs.ubc.ca/~sig-cse/sigcse/user/index.php

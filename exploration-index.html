@@ -8,7 +8,7 @@ layout: default
 <div class = "row" style = "margin-bottom: 20px;">
 
   <div class = "col-sm-6">
-    <h3>CS For All</h3>
+    <h3>{{site.data.sigcse.slogan}}</h3>
     <h4>{{site.data.sigcse.date.month}}
     {{site.data.sigcse.date.start}} - {{site.data.sigcse.date.end}},
     {{site.data.sigcse.location.city}}, {{site.data.sigcse.location.state}},
@@ -48,11 +48,9 @@ layout: default
   <div class = "col-sm-5 col-sm-offset-1">
     <div class = "row">
       <img  class = "img-responsive"
-            src = "images/venue/seattle-mountain-tiffany98101-500.png"
-            alt = "Seattle with a mountain in the background.
-                   The mountain has snow on it.
-                   A building, which might be a UFO, is in the foreground.
-                   Picture CC-BY tiffany98101."/>
+            src = "images/venue/ursus_dave_baltimore.jpg"
+            alt = "A sugar factory on a river in Baltimore.                   
+                   Picture CC-BY ursusdave."/>
     </div>
 
     <div class = "row">
@@ -71,9 +69,9 @@ layout: default
       </div>
     </div>
     {% endfor %}
-    <div class = "alert alert-success" style="margin-top: 0.5em">
+    <!-- <div class = "alert alert-success" style="margin-top: 0.5em">
       <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span> <a href = "{{ '/docs/sigcse2017-draft-program.pdf' | prepend: site.baseurl }}">Preliminary program (PDF)</a>
-    </div>
+    </div> -->
 
 
   <div class = "row">
@@ -86,10 +84,10 @@ layout: default
   </div>
   
   <img
-    src = "{{ '/images/sigcse2017-logo-300x200.png' | prepend: site.baseurl }}"
-    width = "300"
-    height  = "200"
-    alt = "The Amazing SIGCSE 2017 Logo, in blueish and greenish.">
+    src = "{{ '/images/sigcse_temp_logo.png' | prepend: site.baseurl }}"
+           width = "405" 
+            height = "82" 
+    alt = "The Amazing SIGCSE 2018 Logo, yet to be chosen.">
     
   </div>
 

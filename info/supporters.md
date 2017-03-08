@@ -15,7 +15,5 @@ title: Prospectus
 </p>
 <p>  In addition to selecting the textbooks and support materials for their courses, conference attendees  influence the choice of computing equipment for their laboratories as well as for their departments. They select the tools that support teaching and their own scholarly work. They also determine what languages will be used in their courses and what compilers and development environments will be installed. These professionals set aside the time of the Symposium to review what is available and make their choices for the coming years. This is the most efficient way to interact with the most active teaching faculty in computing and information science.
 </p>  </div>
-  <div class = "col-md-6">
-    <img src = "{{ '/images/mec/chihuly-tall-600.png' | prepend: site.baseurl }}" />
-  </div>
+
 </div>

@@ -1,54 +1,8 @@
 Platinum:
-  - name: "Google, Inc."
-    image: google-200.png
-    link: "https://www.google.com/edu/cs/"
-  - name: "IBM"
-    image: ibm-200.png
-    link: "https://www.ibm.com/"
-  - name: "Intel"
-    image: intel-200.png
-    link: "https://intel.com/"
-  - name: "Microsoft"
-    blurb: ""
-    image: microsoft-200.png
-    link: "http://research.microsoft.com/"
-  - name: "Vocareum, Inc"
-    image: vocareum-new-200.png
-    link: "https://www.vocareum.com/"
     
 Gold:
-  - name: "Oracle Academy"
-    image: oracle-200.png
-    link: "http://www.oracle.com/academy/"
-  - name: "zyBooks"
-    image: zybooks-200.png
-    link: "https://www.zybooks.com/"
 
 Silver:
-  - name: ABET
-    image: abet-new-100.png
-    link: "http://www.abet.org/"
-  - name: "CODIO"
-    image: codio-200.png
-    link: "https://codio.com/"
-  - name: GitHub
-    image: github-200.png
-    link: "https://github.com/"
-  - name: Gradescope
-    blurb: ""
-    image: gradescope-200.png
-    link: "https://gradescope.com/"
-  - name: LEGO Education
-    blurb: ""
-    image: lego-200.png
-    link: "https://education.lego.com/en-us"
-  - name: "Teradata University Network"
-    blurb: "Providing students with hands-on software experiences with the worlds' largest companies."
-    image: teradata-200.png
-    link: "http://www.teradatauniversitynetwork.com/"
+
 Bronze:
-  - name: "NVIDIA"
-    blurb: ""
-    image: nvidia-200.png
-    link: "https://developer.nvidia.com/academia"
 
