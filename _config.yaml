@@ -1,11 +1,11 @@
 # Site settings
-title: SIGCSE 2017
+title: SIGCSE 2018
 
-email: your-email@domain.com
+email: webmaster@sigcse2018.org
 
 description: > # this means to ignore newlines until "baseurl:"
-  Website for the SIGCSE 2017 annual technical symposium.
-  Concerns may be directed to jadudm@berea.edu.
+  Website for the SIGCSE 2018 annual technical symposium.
+  Concerns may be directed to webmaster@sigcse2018.org.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
