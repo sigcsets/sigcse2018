@@ -27,7 +27,7 @@ fi
 
 if [ "$1" == "live" ];
 then
-  pylinkcheck.py -P http://www.sigcse2018.sigcse.org/
+  pylinkcheck.py -P http://sigcse2018.sigcse.org/
 fi
 
 if [ "$1" == "staging" ];
