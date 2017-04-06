@@ -34,7 +34,7 @@
   #   link: http://dl.acm.org/citation.cfm?id=3017680
   #   divider: true
   - name: 2018 Call for Participation
-   link: /docs/SIGCSE2018CFP-final.pdf
+    link: /docs/SIGCSE2018CFP-final.pdf
 - name: For Reviewers
   subheads:
     # - name: Review Process
