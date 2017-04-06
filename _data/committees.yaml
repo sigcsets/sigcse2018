@@ -1,196 +1,196 @@
-# sigcse2018-*@cs.vt.edu
+# *@sigcse2018.org
 - name: Symposium Co-Chairs
   members:
     - name: Tiffany Barnes
       # role: Symposium Co-Chair
       inst: North Carolina State University
-      email: sigcse2018-symposium@cs.vt.edu
+      email: symposium@sigcse2018.org
 
     - name: Daniel Garcia
       # role: Symposium Co-Chair
       inst: University of California, Berkeley
-      email: sigcse2018-symposium@cs.vt.edu
+      email: symposium@sigcse2018.org
 
 - name: Program Co-Chairs
   members:
   - name: Elizabeth K. Hawthorne
     # role: Program Co-Chair
     inst: Union County College
-    email: sigcse2018-program@cs.vt.edu
+    email: program@sigcse2018.org
 
   - name: Manuel Pérez-Quiñones
     # role: Program Co-Chair
     inst: UNC Charlotte
-    email: sigcse2018-program@cs.vt.edu
+    email: program@sigcse2018.org
 
 - name: Program Committee
   members:
   - name: Jian Zhang
     role: Panels and Special Sessions
     inst: "Texas Woman's University"
-    email: sigcse2018-panels@cs.vt.edu
+    email: panels@sigcse2018.org
 
   - name: Michelle Craig
     role: Workshops
     inst:  University of Toronto
-    email: sigcse2018-workshops@cs.vt.edu
+    email: workshops@sigcse2018.org
 
   - name: Brett Becker
     role: Workshops
     inst:  University College Dublin
-    email: sigcse2018-workshops@cs.vt.edu
+    email: workshops@sigcse2018.org
 
   - name: Sarah Heckman
     role: Posters
     inst:  North Carolina State University
-    email: sigcse2018-posters@cs.vt.edu
+    email: posters@sigcse2018.org
 
   - name: Jennifer Campbell
     role: Birds Of A Feather
     inst:  University of Toronto
-    email: sigcse2018-bofs@cs.vt.edu
+    email: bofs@sigcse2018.org
 
   - name: Lina Battestilli
     role: Birds Of A Feather
     inst:  North Carolina State University
-    email: sigcse2018-bofs@cs.vt.edu
+    email: bofs@sigcse2018.org
 
   - name: Peter-Michael Osera
     role: Demos
     inst: Grinnell College
-    email: sigcse2018-demos@cs.vt.edu
+    email: demos@sigcse2018.org
 
   - name: S. Monisha Pulimood
     role: Lightning Talks
     inst: The College of New Jersey
-    email: sigcse2018-lightning@cs.vt.edu
+    email: lightning@sigcse2018.org
 
 - name: Organizing Committee
   members:
   - name: Ann Sobel
     role: Student Research Competition
     inst:  Miami University (Ohio)
-    email: sigcse2018-src@cs.vt.edu
+    email: src@sigcse2018.org
 
   - name: Jessica Schmidt
     role: Student Research Competition
     inst:  North Carolina State University
-    email: sigcse2018-src@cs.vt.edu
+    email: src@sigcse2018.org
 
   - name: Alison Clear
     role: Pre-Symposium Events
     inst: Christchurch Polytechnic Institute of Technology
-    email: sigcse2018-events@cs.vt.edu
+    email: events@sigcse2018.org
 
   - name: Lynn Degler
     role: Registration
     inst: Rose-Hulman Institute of Technology
-    email: sigcse2018-reg@cs.vt.edu
+    email: registration@sigcse2018.org
 
   - name: Cary Laxer
     role: Registration
     inst:  Rose-Hulman Institute of Technology
-    email: sigcse2018-reg@cs.vt.edu
+    email: registration@sigcse2018.org
 
   - name: Larry Merkle
     role: Registration
     inst: Air Force Institute of Technology
-    email: sigcse2018-reg@cs.vt.edu
+    email: registration@sigcse2018.org
 
   - name: Ruth Anderson
     role: Publications
     inst:  University of Washington
-    email: sigcse2018-publications@cs.vt.edu
+    email: publications@sigcse2018.org
 
   - name: Leen-Kiat Soh
     role: Database Administrator
     inst:  University of Nebraska,Lincoln
-    email: sigcse2018-database@cs.vt.edu
+    email: database@sigcse2018.org
 
   - name: Mark Sherriff
     role: Database Administrator
     inst:  University of Virginia
-    email: bmiller@luther.edu
+    email: database@sigcse2018.org
 
   - name: Josh Hug
     role: Webmaster
     inst:  University of California, Berkeley
-    email: sigcse2018-webmaster@cs.vt.edu
+    email: webmaster@sigcse2018.org
 
   - name: Mark Sherriff
     role: Webmaster
     inst:  University of Virginia
-    email: sigcse2018-webmaster@cs.vt.edu
+    email: webmaster@sigcse2018.org
 
   - name: Scott McElfresh
     role: Treasurer
     inst:  Longwood University
-    email: sigcse2018-treasurer@cs.vt.edu
+    email: treasurer@sigcse2018.org
 
   - name: Phil East
     role: Evaluations Chair
     inst:  University of Northern Iowa
-    email: sigcse2018-evaluations@cs.vt.edu
+    email: evaluations@sigcse2018.org
 
   - name: Dave Musicant
     role: Supporter/Exhibitor Liaison
     inst:  Carleton College
-    email: sigcse2018-exhibitor@cs.vt.edu
+    email: exhibitor@sigcse2018.org
 
   - name: Ben Schafer
     role: Supporter/Exhibitor Liaison
     inst:  University of Northern Iowa
-    email: sigcse2018-exhibitor@cs.vt.edu
+    email: exhibitor@sigcse2018.org
 
   - name: Sara Melnick
     role: Student Volunteers & Activities
     inst: Independent
-    email: sigcse2018-volunteers@cs.vt.edu
+    email: volunteers@sigcse2018.org
 
   - name: Samuel A. Rebelsky
     role: Student Volunteers & Activities
     inst:  Grinnell College
-    email: sigcse2018-volunteers@cs.vt.edu
+    email: volunteers@sigcse2018.org
 
   - name: Leigh Ann Sudol-DeLyser
     role: K-12 Liaison
     inst:  CSNYC
-    email: sigcse2018-k12@cs.vt.edu
+    email: k12@sigcse2018.org
 
   - name: Elizabeth Patitsas
     role: International Liaison
     inst:  University of Toronto
-    email: sigcse2018-international@cs.vt.edu
+    email: international@sigcse2018.org
 
   - name: Dale-Marie Wilson
     role: Kids’ Camp Chair
     inst:  UNC Charlotte
-    email: sigcse2018-kidscamp@cs.vt.edu
+    email: kidscamp@sigcse2018.org
 
   - name: Steven Wolfman
     role: Social and Board Games
     inst:  University of British Columbia
-    email: sigcse2018-boardgames@cs.vt.edu
+    email: boardgames@sigcse2018.org
 
   - name: Adam Blank
     role: Publicity and Social Media
     inst:  University of Washington
-    email: sigcse2018-publicity@cs.vt.edu
+    email: publicity@sigcse2018.org
 
   - name: Leigh Ann Sudol-DeLyser
     role: Publicity and Social Media
     inst:  CSNYC
-    email: sigcse2018-publicity@cs.vt.edu
+    email: publicity@sigcse2018.org
 
   - name: Katie Gibson
     role: Local Arrangements Chair
     inst:  University of Maryland, Baltimore County
-    email: sigcse2018-local@cs.vt.edu
+    email: local@sigcse2018.org
 
   - name: Stacy Branham
     role: Local Arrangements Chair
     inst:  University of Maryland, Baltimore County
-    email: sigcse2018-local@cs.vt.edu
+    email: local@sigcse2018.org
 
 
 # - name: International Committee Members
