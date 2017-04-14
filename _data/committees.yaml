@@ -26,8 +26,13 @@
 - name: Program Committee
   members:
   - name: Jian Zhang
-    role: Panels and Special Sessions
+    role: Special Sessions
     inst: "Texas Woman's University"
+    email: specialsessions@sigcse2018.org
+
+  - name: Christina Gardner-McCune
+    role: Panels
+    inst: "University of Florida"
     email: panels@sigcse2018.org
 
   - name: Michelle Craig
@@ -128,7 +133,7 @@
     email: treasurer@sigcse2018.org
 
   - name: Phil East
-    role: Evaluations Chair
+    role: Evaluations
     inst:  University of Northern Iowa
     email: evaluations@sigcse2018.org
 
@@ -137,14 +142,14 @@
     inst:  Carleton College
     email: exhibitor@sigcse2018.org
 
-  - name: Ben Schafer
-    role: Supporter/Exhibitor Liaison
-    inst:  University of Northern Iowa
-    email: exhibitor@sigcse2018.org
-
   - name: Sara Melnick
     role: Student Volunteers & Activities
     inst: Independent
+    email: volunteers@sigcse2018.org
+
+  - name: Darakhshan Mir 
+    role: Student Volunteers & Activities
+    inst: Bucknell University
     email: volunteers@sigcse2018.org
 
   - name: Samuel A. Rebelsky
@@ -157,23 +162,33 @@
     inst:  CSNYC
     email: k12@sigcse2018.org
 
+  - name: Ria Galanos
+    role: K-12 Liaison
+    inst:  Thomas Jefferson High School for Science and Technology 
+    email: k12@sigcse2018.org
+
   - name: Elizabeth Patitsas
     role: International Liaison
     inst:  University of Toronto
     email: international@sigcse2018.org
 
   - name: Dale-Marie Wilson
-    role: Kids’ Camp Chair
+    role: Kids’ Camp
+    inst:  UNC Charlotte
+    email: kidscamp@sigcse2018.org
+
+  - name: Meghan Allen
+    role: Kids’ Camp
     inst:  UNC Charlotte
     email: kidscamp@sigcse2018.org
 
   - name: Steven Wolfman
-    role: Social and Board Games
+    role: Puzzles, Social, & Board Games
     inst:  University of British Columbia
     email: boardgames@sigcse2018.org
 
   - name: Zach Butler
-    role: Social and Board Games
+    role: Puzzles, Social, & Board Games
     inst:  Rochester Institute of Technology
     email: boardgames@sigcse2018.org
 
@@ -188,12 +203,12 @@
     email: publicity@sigcse2018.org
 
   - name: Katie Gibson
-    role: Local Arrangements Chair
+    role: Local Arrangements
     inst:  University of Maryland, Baltimore County
     email: local@sigcse2018.org
 
   - name: Stacy Branham
-    role: Local Arrangements Chair
+    role: Local Arrangements
     inst:  University of Maryland, Baltimore County
     email: local@sigcse2018.org
 
