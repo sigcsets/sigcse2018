@@ -69,9 +69,7 @@
     role: Lightning Talks
     inst: The College of New Jersey
     email: lightning@sigcse2018.org
-
-- name: Organizing Committee
-  members:
+  
   - name: Ann Sobel
     role: Student Research Competition
     inst:  Miami University (Ohio)
@@ -82,6 +80,18 @@
     inst:  North Carolina State University
     email: src@sigcse2018.org
 
+  - name: Nick Parlante
+    role: Nifty Assignments
+    inst:  Stanford University
+    email: nifty@sigcse2018.org
+
+  - name: Julie Zelenski
+    role: Nifty Assignments
+    inst:  Stanford University
+    email: nifty@sigcse2018.org
+
+- name: Organizing Committee
+  members:
   - name: Alison Clear
     role: Pre-Symposium Events
     inst: Christchurch Polytechnic Institute of Technology

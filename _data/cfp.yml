@@ -1,39 +1,39 @@
 submissionopen: true
-submissionurl: "https://easychair.org/conferences/?conf=sigcse2017"
+submissionurl: "https://easychair.org/conferences/?conf=sigcse2018"
 track1open: false
-track1url: https://easychair.org/conferences/?conf=sigcse2017
+track1url: https://easychair.org/conferences/?conf=sigcse2018
 track2open: true
-track2url: https://easychair.org/conferences/?conf=sigcse2017
-track3url: https://easychair.org/conferences/?conf=sigcse2017
+track2url: https://easychair.org/conferences/?conf=sigcse2018
+track3url: https://easychair.org/conferences/?conf=sigcse2018
 track3open: true
-track4url: https://easychair.org/conferences/?conf=sigcse2017
+track4url: https://easychair.org/conferences/?conf=sigcse2018
 track4open: true
 
-# Friday, August 26, 2016
+# Friday, August 26, 2017
 track1:
-  timestamp: "2016-08-26T00:23:59"
-  date: "Friday, August 26, 2016"
+  timestamp: "2017-08-26T00:23:59"
+  date: "Friday, August 26, 2017"
 track2:
-  timestamp: "2016-10-21T00:23:59"
-  date: "Friday, October 21, 2016"
+  timestamp: "2017-10-21T00:23:59"
+  date: "Friday, October 21, 2017"
 # This is the SRC
 track3:
-  timestamp: "2016-09-26T00:23:59"
-  date: "Monday, September 26, 2016"
+  timestamp: "2017-09-26T00:23:59"
+  date: "Monday, September 26, 2017"
 # This is the affiliated events deadline
 track4:
-  timestamp: "2016-11-01T00:23:59"
-  date: "Tuesday, November 1, 2016"
+  timestamp: "2017-11-01T00:23:59"
+  date: "Tuesday, November 1, 2017"
 
-presymposiumdates: "Tuesday, March 2nd, 2016"
+presymposiumdates: "Tuesday, March 2nd, 2017"
 presymposiumformurl: "docs/sigcse-pre-symposium-events.docx"
 
 master:
   - time: "23:59 AoE (Baker Island, UTC-12h)"
-    notification: "Friday, October 14, 2016"
+    notification: "Friday, October 14, 2017"
     updates:
     cameraready: "Sunday, December 11th"
-    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+Paper+Deadline&iso=20160826T2359&p1=3399"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2018+Paper+Deadline&iso=20170826T2359&p1=3399"
     track: track1
     types:
       - plural: Papers
@@ -41,10 +41,10 @@ master:
         include: papers
 
   - time: "23:59 AoE (Baker Island, UTC-12h)"
-    notification: "Friday, October 14, 2016"
+    notification: "Friday, October 14, 2017"
     updates:
     cameraready: "Sunday, December 11th"
-    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+BOF%2C+Poster%2C+LT%2C+and+Demos+Deadline&iso=20161021T2359&p1=3399"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2018+BOF%2C+Poster%2C+LT%2C+and+Demos+Deadline&iso=20171021T2359&p1=3399"
     track: track1
     types:
       - plural: Panels
@@ -58,10 +58,10 @@ master:
         include: workshops
 
   - time: "23:59 AoE (Baker Island, UTC-12h)"
-    notification: "Monday, November 28th, 2016"
+    notification: "Monday, November 28th, 2017"
     updates:
     cameraready: "Sunday, December 11th"
-    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+SRC+Deadline&iso=20160926T2359&p1=3399"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2018+SRC+Deadline&iso=20170926T2359&p1=3399"
     track: track3
     types:
       - plural: Student Research Competition
@@ -69,10 +69,10 @@ master:
         include: src
 
   - time: "23:59 in Pago Pago, American Samoa (UTC-11h)"
-    notification: "Tuesday, November 15th, 2016"
+    notification: "Tuesday, November 15th, 2017"
     updates:
     cameraready: "TBA"
-    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+Pre-Symposum+Deadline&iso=20161101T235959&p1=1033"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2018+Pre-Symposum+Deadline&iso=20171101T235959&p1=1033"
     track: track4
     types:
       - plural: Pre-Symposium and Affiliated Events
@@ -80,10 +80,10 @@ master:
         include: presymposium
 
   - time: "23:59 AoE (Baker Island, UTC-12h)"
-    notification: "Monday, November 28th, 2016"
+    notification: "Monday, November 28th, 2017"
     updates:
     cameraready: "Sunday, December 11th"
-    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2016+BOF%2C+Poster%2C+LT%2C+and+Demos+Deadline&iso=20151023T235959&p1=3399"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+BOF%2C+Poster%2C+LT%2C+and+Demos+Deadline&iso=20151023T235959&p1=3399"
     track: track2
     types:
       - plural: Birds of a Feather
@@ -169,6 +169,6 @@ studentResearchCompetition:
 #lightningtalks: "Monday, October 27th, 2014"
 #demos: "Monday, October 27th, 2014"
 
-html: "sigcse-2017-cfp.html"
-pdf: "sigcse-2017-cfp.pdf"
+html: "sigcse-2018-cfp.html"
+pdf: "sigcse-2018-cfp.pdf"
 lastupdate: "July 2, 2014"
