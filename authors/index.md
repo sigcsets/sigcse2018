@@ -27,17 +27,17 @@ We have broken out submission guidelines by type. There are many ways to share t
         </b> </td>
         <td>
           {% for sub in submission.types %}
-              {% capture link %}<a href = "{{sub.plural | remove: ' ' | downcase}}.html">{{sub.plural}}</a>{% endcapture %}
+              {% capture link %}<a href = "{{sub.include | remove: ' ' | downcase}}.html">{{sub.plural}}</a>{% endcapture %}
               {% capture entry %}{% if forloop.first %}{% else %}<br/> {% endif %}{{link}}{% endcapture %}
               {{entry}}
           {% endfor %}
         </td>
       </tr>
     {% endfor %}
-      <tr>
+     <!-- <tr>
         <td><b>Sunday December 11, 2016</b></td>
         <td>Camera-ready submissions due to publisher</td>
-      </tr>
+      </tr> -->
         </tbody>
       </table>
     </div>

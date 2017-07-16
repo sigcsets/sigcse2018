@@ -1,5 +1,6 @@
 ---
 title: "Guidelines: Panels"
+showTitle: true
 ---
 
 {% include submissiondetails.html plural="Panels" %}

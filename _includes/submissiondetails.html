@@ -3,7 +3,9 @@
   {% for type in submission.types %}
     {% if type.plural == plural %}
       {% assign subtrack = submission.track %}
-      {% if subtrack == "track1" %}
+      {% if subtrack == "track0" %}
+        {% assign subdate = site.data.cfp.track0.date %}
+      {% elsif subtrack == "track1" %}
         {% assign subdate = site.data.cfp.track1.date %}
       {% elsif subtrack == "track2" %}
         {% assign subdate = site.data.cfp.track2.date %}
@@ -19,6 +21,8 @@
       {% assign subcameraready = submission.cameraready %}
       {% assign subtimelink = submission.link %}
       {% assign specialsubmission = site.data.cfp.details[plural].specialsubmission %}
+      {% assign abstractdue = submission.abstractdue %}
+      {% assign abstractlink = submission.abstractlink %}
     {% endif %}
   {% endfor %}
 {% endfor %}
@@ -45,6 +49,16 @@ time: {{subtime}}
 <div class="table-responsive" style="margin-top: 20px;">
   <table class="table">
       <tbody>
+        {% if abstractdue %}
+        <tr>
+          <td><b>Abstract Due Date </b></td>
+          <td>{{abstractdue}}</td>
+        </tr>
+        <tr>
+          <td><b>Abstract Due Time </b></td>
+          <td> <a href="{{abstractlink}}">{{subtime}}</a> </td>
+        </tr>
+        {% endif %}
         <tr>
           <td><b>Date Due </b></td>
           <td>{{subdate}}</td>
