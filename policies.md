@@ -3,8 +3,6 @@ title: Conference Policies
 showTitle: true
 ---
 
-<h1>{{page.title}}</h1>
-
 <h3>SIGCSE Welcomes and Embraces All</h3>
 
 In keeping with the [ACM Policy Against Discrimination and Harassment for Members and Event Attendees](http://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment), SIGCSE advocates the following:
