@@ -19,25 +19,25 @@ Papers describe an educational research project, classroom experience, teaching 
 <div class="row">
   <div class="col-md-3 col-md-offset-1">
     <strong>Computing Topics</strong>
-    <ul class="list-group">
+    <ul>
     {% for type in site.data.computingtopics %}
-      <li class="list-group-item">{{type}}</li>
+      <li>{{type}}</li>
     {% endfor %}
     </ul>
   </div>
   <div class="col-md-3 col-md-offset-1">
     <strong>Experience Topics</strong>
-    <ul class="list-group">
+    <ul>
     {% for type in site.data.experiencetopics %}
-      <li class="list-group-item">{{type}}</li>
+      <li>{{type}}</li>
     {% endfor %}
     </ul>
   </div>
   <div class="col-md-3 col-md-offset-1">
     <strong>Curriculum Topics</strong>
-    <ul class="list-group">
+    <ul>
     {% for type in site.data.curriculumtopics %}
-      <li class="list-group-item">{{type}}</li>
+      <li>{{type}}</li>
     {% endfor %}
     </ul>
   </div>

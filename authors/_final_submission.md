@@ -33,7 +33,7 @@ ACM is introducing the [ACM Author-Izer](http://www.acm.org/publications/acm-aut
 1. **Verify Conformance to All Formatting Guidelines:**
 
     **SIGCSE Guidelines** - Double-check that your submission adheres to the
-      [ACM publication instructions]({{site.data.main.acmpubguidelines}}) and includes
+      [ACM publication instructions]({{site.data.publishing.acmpubguidelines}}) and includes
        all required sections (i.e., Abstract, Categories & Subject Descriptors,
        General Terms, and Keywords), including details on the ACM Reference
        Guidelines.  These are the same formatting guidelines published when you

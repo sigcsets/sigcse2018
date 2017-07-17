@@ -38,7 +38,7 @@ to participate in the session.
 The paper is limited to a maximum of {{site.data.cfp.details[plural].limits}} and must adhere to ACM's publication guidelines:
 
 <div class="text-center" style="margin-top: 10px; margin-bottom: 10px;">
-<a href="{{site.data.main.acmpubguidelines}}">Formatting requirements, MS Word template, and LaTeX template</a>
+<a href="{{site.data.publishing.acmpubguidelines}}">Formatting requirements, MS Word template, and LaTeX template</a>
 </div>
 
 The following modifications and exceptions apply:
