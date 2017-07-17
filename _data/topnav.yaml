@@ -49,6 +49,8 @@
     #   link: /reviewers/signup.html
 - name: For Attendees
   subheads:
+  - name: Conference Policies
+    link: http://sigcse2018.sigcse.org/policies.html
     # - name: Venue
     #   link: /attendees/index.html
     # - name: Rates and Registration
