@@ -1,5 +1,6 @@
 ---
 title: "Guidelines: Special Sessions"
+showTitle: true
 ---
 
 {% include submissiondetails.html plural="Special Sessions" %}

@@ -1,5 +1,6 @@
 ---
 title: "Guidelines: Workshops"
+showTitle: true
 ---
 
 {% include submissiondetails.html plural="Workshops" %}

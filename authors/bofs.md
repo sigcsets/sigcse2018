@@ -1,5 +1,6 @@
 ---
 title: "Guidelines: BOFs"
+showTitle: true
 ---
 {% include submissiondetails.html plural="Birds of a Feather" %}
 

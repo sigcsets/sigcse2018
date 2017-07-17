@@ -49,6 +49,14 @@ master:
       - plural: Papers
         singular: Paper
         include: papers
+
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
+    notification: "Sunday, October 22, 2017"
+    updates:
+    cameraready: "Monday, December 11th"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2018+Paper+Deadline&iso=20170901T2359&p1=3399"
+    track: track1
+    types:
       - plural: Panels
         singular: Panel
         include: panels
@@ -59,25 +67,39 @@ master:
         singular: Workshop
         include: workshops
 
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
+    notification: "Monday, November 27th, 2017"
+    updates:
+    cameraready: "Monday, December 11th"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2018+SRC+Deadline&iso=20171013T2359&p1=3399"
+    track: track2
+    types:
+      - plural: Student Research Competition
+        singular: Student Research Competition
+        include: src
+      - plural: Pre-Symposium and Affiliated Events
+        singular: Pre-Symposium and Affiliated Event
+        include: presymposium
+      - plural: Birds of a Feather
+        singular: Birds of a Feather
+        include: bofs
+      - plural: Posters
+        singular: Poster
+        include: posters
+      - plural: Lightning Talks
+        singular: Lightning Talk
+        include: lightningtalks
+        new: false
+      - plural: Demos
+        singular: demo
+        include: demos
+        new: false
+      - plural: Nifty Assignments
+        singular: Nifty Assignment
+        include: nifty
+        new: false
 
 # ------------
-  # - time: "23:59 AoE (Baker Island, UTC-12h)"
-  #   notification: "Friday, October 14, 2017"
-  #   updates:
-  #   cameraready: "Sunday, December 11th"
-  #   link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2018+BOF%2C+Poster%2C+LT%2C+and+Demos+Deadline&iso=20171021T2359&p1=3399"
-  #   track: track1
-  #   types:
-  #     - plural: Panels
-  #       singular: Panel
-  #       include: panels
-  #     - plural: Special Sessions
-  #       singular: Special Session
-  #       include: specialsessions
-  #     - plural: Workshops
-  #       singular: Workshop
-  #       include: workshops
-
   # - time: "23:59 AoE (Baker Island, UTC-12h)"
   #   notification: "Monday, November 28th, 2017"
   #   updates:

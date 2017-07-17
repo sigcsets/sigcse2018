@@ -1,5 +1,6 @@
 ---
 title: "Guidelines: Posters"
+showTitle: true
 ---
 
 {% include submissiondetails.html plural="Posters" %}

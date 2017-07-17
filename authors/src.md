@@ -1,5 +1,6 @@
 ---
 title: "Guidelines: Student Research Competition"
+showTitle: true
 ---
 
 {% include submissiondetails.html plural="Student Research Competition" %}

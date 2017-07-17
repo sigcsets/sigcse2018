@@ -1,5 +1,6 @@
 ---
 title: "Guidelines: Lightning Talks"
+showTitle: true
 ---
 
 {% include submissiondetails.html plural="Lightning Talks" %}

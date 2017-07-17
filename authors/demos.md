@@ -1,5 +1,6 @@
 ---
 title: "Guidelines: Demos"
+showTitle: true
 ---
 {% include submissiondetails.html plural="Demos" %}
 
