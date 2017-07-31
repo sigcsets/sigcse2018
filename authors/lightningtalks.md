@@ -37,6 +37,21 @@ The abstract is the summary of the Lightning talk that will appear on the confer
 
 * [Sample proposal (Word)]({{site.base}}/docs/sigcse-sample-lightning-talk.docx)
 
+### 2017 Lightning Talks
+
+* Joel Ross, Andrew Ko, David Stearns - [Accessibility as a First-Class Concern in Teaching GUIs and Software Engineering]({{site.base}}/docs/2017-lightning-talks/01-Ross-SIGCSE-ligtning-talk-v2.pdf)
+* Megan Lawrence and Mary Bellard - [Teach Access: Preparing Computing Students for Industry]({{site.base}}/docs/2017-lightning-talks/02-SIGCSE_Teach-Accessv2.pdf)
+* Julia Bernd and Jonathan Corley - [Teach Global Impact: A Resource for CSP (or Any CS Class!)]({{site.base}}/docs/2017-lightning-talks/03-Bernd_Corley_Teach_Global_Impact_revised.pdf)
+* Saty Raghavachary - [Curriculum design for 'Explorations in Computing' (a new General Education course at USC)]({{site.base}}/docs/2017-lightning-talks/04-slides_saty-v2.pdf)
+* Brian Broll and Ákos Lédeczi - [Bringing Real-Time Collaboration to Visual Programming]({{site.base}}/docs/2017-lightning-talks/05-Broll-Updated-SIGCSE17-Lightning-Talk.pdf)
+* Patty Hicks - [Moving From Business Education to Computer Science Concepts in the Middle Grades]({{site.base}}/docs/2017-lightning-talks/06-P-Hicks-Slides-for-Lightning-Talk.pdf)
+* Dee A. B. Weikle - [Using the 5 Practices to Improve Facilitation of POGIL Activities]({{site.base}}/docs/2017-lightning-talks/07-Intersection5P-POGILWeikle0309.pdf)
+* Chen-Hsiang (Jones) Yu - [Lessons learned from an EPIC course - Mobile Application Development for Mobile Health]({{site.base}}/docs/2017-lightning-talks/08-2017_SIGCSE_Lightning_Talk_Yu.pdf)
+* Douglas H. Fisher - [Establishing conventions for citing educational materials]({{site.base}}/docs/2017-lightning-talks/09-DougFisherSIGCSEPresentation.pdf)
+* Kendra Walther - [Class-Sourcing Exams: Student-Generated Exam Questions]({{site.base}}/docs/2017-lightning-talks/10-walther-classSourcing.pdf)
+* Anurag Nagar - [Developing Big Data Curriculum with Open Source Infrastructure]({{site.base}}/docs/2017-lightning-talks/DevelopingBigDataCurriculum.pdf)
+* John MacCormick - [Seeking evidence for basing the CS theory course on non-decision problems]({{site.base}}/docs/2017-lightning-talks/11-maccormick-lightning-talk-slides.pdf)
+
 ## How Do I Submit My Proposal?
 
 {% include generic-submission-block.html %}
