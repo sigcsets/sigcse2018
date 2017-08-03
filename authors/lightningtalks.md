@@ -39,7 +39,7 @@ The abstract is the summary of the Lightning talk that will appear on the confer
 
 ### 2017 Lightning Talks
 
-* Joel Ross, Andrew Ko, David Stearns - [Accessibility as a First-Class Concern in Teaching GUIs and Software Engineering]({{site.base}}/docs/2017-lightning-talks/01-Ross-SIGCSE-ligtning-talk-v2.pdf)
+* Joel Ross, Andrew Ko, David Stearns - [Accessibility as a First-Class Concern in Teaching GUIs and Software Engineering]({{site.base}}/docs/2017-lightning-talks/01-Ross-SIGCSE-lightning-talk-v2.pdf)
 * Megan Lawrence and Mary Bellard - [Teach Access: Preparing Computing Students for Industry]({{site.base}}/docs/2017-lightning-talks/02-SIGCSE_Teach-Accessv2.pdf)
 * Julia Bernd and Jonathan Corley - [Teach Global Impact: A Resource for CSP (or Any CS Class!)]({{site.base}}/docs/2017-lightning-talks/03-Bernd_Corley_Teach_Global_Impact_revised.pdf)
 * Saty Raghavachary - [Curriculum design for 'Explorations in Computing' (a new General Education course at USC)]({{site.base}}/docs/2017-lightning-talks/04-slides_saty-v2.pdf)
