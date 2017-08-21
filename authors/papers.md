@@ -53,6 +53,10 @@ Papers describe an educational research project, classroom experience, teaching 
 {% endfor %}
 {% cycle 'close rows': nil, '</div>', '</div>' %} -->
 
+## Details about your abstract
+
+Your abstract can be up to 250 words and must be submitted by the deadline of Aug 25th.  There is no formatting requirements for the abstract. When you login to submit the abstract, you just paste it a form field.  No PDF is required in Aug 25th.  The abstract submission is, however, required if you want your paper to be accepted for submission on Sept 1st.
+
 ## How Should The Paper Be Formatted?
 
 Authors must submit ONLY an anonymized version of the paper. The goal of the anonymized version is to, as much as possible, allow the author(s) of the paper an unbiased review. The anonymized version should have ALL references to the authors removed (including author's names and affiliation plus identifying information within the body of the paper such as websites or related publications). Self-citations need not be removed if they are worded so that the reviewer doesn't know if the writer is citing himself/herself. That is, instead of writing "We reported on our first experiment in 2007 in a previous paper [1]", the writer might write "In 2007, an initial experiment was done in this area as reported in [1].
