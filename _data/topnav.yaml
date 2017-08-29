@@ -41,10 +41,19 @@
     link: /docs/SIGCSE2018CFP-final.pdf
 - name: For Reviewers
   subheads:
-    # - name: Review Process
-    #   link: /reviewers/review-process.html
-    # - name: Reviewer Responsibilities
-    #   link: /reviewers/reviewer-responsibilities.html
+  - name: Bidding on Papers
+    link: https://docs.google.com/document/d/1C90-wGSir_ZOl24-ch2t-WL3l7vTWj3mobnge-vlm2I/edit?usp=sharing
+    divider: true
+  - name: Process for Papers
+    link: /reviewers/review-process.html
+  - name: Process for Workshops
+    link: /reviewers/review-workshops.html
+  - name: Process for Special Sessions
+    link: /reviewers/review-special-sessions.html
+  - name: Process for Panels
+    link: /reviewers/review-panels.html
+  # - name: Reviewer Responsibilities
+  #   link: /reviewers/reviewer-responsibilities.html
     # - name: APC Responsibilities
     #   link: /reviewers/apc-responsibilities.html
     # - name: Reviewer Signup
