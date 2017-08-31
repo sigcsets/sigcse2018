@@ -44,4 +44,9 @@ We have broken out submission guidelines by type. There are many ways to share t
   <div class="col-md-12 well">
       Dates for <b>notification of acceptance</b> and <b>camera-ready submission</b> can be found on the detail page for each specific submission type.
   </div>
+
+  ### Accommodations for Authors Affected by Hurricane Harvey
+
+Please see [this page](http://sigcse2018.sigcse.org/harvey.html) for information regarding accommodations for members of the SIGCSE community who have been affected by Hurricane Harvey. 
+
 </div>
