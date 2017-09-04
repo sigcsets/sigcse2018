@@ -6,13 +6,13 @@ showTitle: true
 {% include submissiondetails.html plural="Pre-Symposium and Affiliated Events" %}
 
 
-## What is a Pre-Symposium Event or Mini-Conference?
+## What is a Pre-Symposium or Affiliated Events?
 
-Pre-Symposium Events are an excellent venue for SIGCSE sub-communities to arrange their own mini-conference or meeting on Wednesday before SIGCSE gets started.  We encourage submission of events that describe existing and emerging subfields and the plan organizers have to build growth in their communities. We also encourage events that help develop new faculty and leaders in Computer Science Education.
+Pre-Symposium and Affiliated Events are an excellent venue for SIGCSE sub-communities to arrange their own affiliated event or meeting on Wednesday before SIGCSE gets started.  We encourage submission of events that describe existing and emerging subfields and the plan organizers have to build growth in their communities. We also encourage events that help develop new faculty and leaders in Computer Science Education.
 
-The SIGCSE 2017 organizers have a vision to encourage sub-communities to organize their own mini-conferences by submitting a pre-symposium event proposal that should include a description of the subfield and its importance and relevance, the proposed organizing committee and program committee, and the proposed format for the event.
+The SIGCSE 2017 organizers have a vision to encourage sub-communities to organize their own affiliated events by submitting a pre-symposium event proposal that should include a description of the subfield and its importance and relevance, the proposed organizing committee and program committee, and the proposed format for the event.
 
-If your mini-conference is accepted, mini-conferences would then release a “Call for Participation” inviting members of your community to submit papers, posters, or other types of submissions to your own event submission site.  Your organizing and program committees would be responsible for handling all mini-conference websites, submissions, decisions, notifications, and publication of the event proceedings.
+If your affiliated event is accepted, affiliated events would then release a “Call for Participation” inviting members of your community to submit papers, posters, or other types of submissions to your own event submission site.  Your organizing and program committees would be responsible for handling all affiliated event websites, submissions, decisions, notifications, and publication of the event proceedings.
 
 Proposals undergo review but not blind review.
 
@@ -43,11 +43,11 @@ The full proposal is used for the review process only. If the proposal is accept
 
 -   **Rough Agenda for the Event**: Timing details would be helpful here. Explain what the attendees can expect. Be sure to budget a realistic amount of time for questions from attendees.
 
--   **Mini-conference only: Types of submissions**: If your event will solicit contributions, list the types here.
+-   **Affiliated Event only: Types of submissions**: If your event will solicit contributions, list the types here.
 
--   **Mini-conference only: Topics for submissions**: If your event will solicit contributions, list the topics of interest here.
+-   **Affiliated Event only: Topics for submissions**: If your event will solicit contributions, list the topics of interest here.
 
--   **Mini-conference only: Program Committee**: If your event will solicit contributions, list the proposed reviewers/PC here.
+-   **Affiliated Event only: Program Committee**: If your event will solicit contributions, list the proposed reviewers/PC here.
 
 -   **Audio/Visual and Room Setup Requirements**: Please enter these only on the EasyChair submission form, and not in your proposal upload document.
 

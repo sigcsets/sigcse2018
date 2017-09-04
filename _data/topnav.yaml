@@ -29,7 +29,7 @@
     link: /authors/lightningtalks.html
   - name: Demos
     link: /authors/demos.html
-  - name: Affiliated Events
+  - name: Pre-Symposium and Affiliated Events
     link: /authors/presymposium.html
   - name: Nifty Assignments
     link: /authors/nifty.html
@@ -42,7 +42,7 @@
 - name: For Reviewers
   subheads:
   - name: Bidding on Papers
-    link: https://docs.google.com/document/d/1C90-wGSir_ZOl24-ch2t-WL3l7vTWj3mobnge-vlm2I/edit?usp=sharing
+    link: /reviewers/review-bidding.html
     divider: true
   - name: Process for Papers
     link: /reviewers/review-process.html
@@ -52,10 +52,8 @@
     link: /reviewers/review-special-sessions.html
   - name: Process for Panels
     link: /reviewers/review-panels.html
-  # - name: Reviewer Responsibilities
-  #   link: /reviewers/reviewer-responsibilities.html
-    # - name: APC Responsibilities
-    #   link: /reviewers/apc-responsibilities.html
+  - name: APC Responsibilities
+    link: /reviewers/apc-responsibilities.html
     # - name: Reviewer Signup
     #   link: /reviewers/signup.html
 - name: For Attendees
