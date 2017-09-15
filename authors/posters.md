@@ -21,7 +21,7 @@ to submit to the [ACM Student Research Competition (SRC)](studentresearchcompeti
 at SIGCSE {{site.data.main.year}}. Like normal posters, SRC posters are
 displayed at the conference, but the top poster authors also present
 their work and may win prizes and proceed to the international ACM
-Student Research Competition.
+Student Research Competition.  [Please note that this year there are also awards from the Council of Undergraduate Research (CUR) for undergraduates presenting posters.](#cur) 
 
 ## Poster Topic Ideas
 
@@ -42,8 +42,7 @@ Suggestions for poster design are given in [Research Posters 101](http://xrds.ac
 ## Poster Presentation
 
 Poster presentations at SIGCSE will be competitive and if your proposal
-is accepted, your poster will be displayed for a 2-hour time period
-Friday during the conference. You will be expected to "present" your
+is accepted, your poster will be displayed for a 2-hour time period during the conference. You will be expected to "present" your
 poster at that time. At least one author for each accepted poster must
 register for and attend the conference. The space available for your
 poster will be 4 feet high by 8 feet wide with a small shelf below.
@@ -101,6 +100,24 @@ posters can be edited in response to reviews.)
 -  [Proposal Example (PDF)]({{site.base}}/docs/sigcse-sample-poster.pdf)
 
 -  [Proposal Example (Word)]({{site.base}}/docs/sigcse-sample-poster.docx)
+
+<a name="cur"></a>
+
+### Council for Undergraduate Research Award
+
+The Council for Undergraduate Research’s (CUR) Math and Computer Science Division is partnering with SIGCSE TS to reward excellence in undergraduate research as part of the Posters track.  There are up to three $150 awards for undergraduate poster authors with significant contributions to the presented work.  
+
+Poster presentations by undergraduates will be judged by at least two judges.  Students will be evaluated on the following:
+
+* Organization: of the poster and the presentation
+* Delivery: of the poster presentation
+* Supporting Materials: explanations, examples, and/or illustrations that support discussion of the research
+* Significance: the intellectual merit, research question importance, and foundation for future work
+
+For consideration, please check the option __Presenting Author is an Undergraduate Student__ during submission of the poster.  The undergraduate student must be present during the poster presentation to be evaluated and be eligible for the award.  
+
+Please note that this award is separate from the [ACM Student Research Competition](https://sigcse2018.sigcse.org/authors/src.html).  Undergraduate students participating in the ACM Student Research Competition are not eligible for consideration of the CUR award.
+
 
 ## How Do I Submit My Proposal?
 
