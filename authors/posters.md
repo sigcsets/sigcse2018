@@ -103,7 +103,7 @@ posters can be edited in response to reviews.)
 
 <a name="cur"></a>
 
-### Council for Undergraduate Research Award
+## Council for Undergraduate Research Award
 
 The Council for Undergraduate Research’s (CUR) Math and Computer Science Division is partnering with SIGCSE TS to reward excellence in undergraduate research as part of the Posters track.  There are up to three $150 awards for undergraduate poster authors with significant contributions to the presented work.  
 
