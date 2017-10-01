@@ -69,11 +69,6 @@
     role: Lightning Talks
     inst: The College of New Jersey
     email: lightning@sigcse2018.org
-  
-  - name: Ann Sobel
-    role: Student Research Competition
-    inst:  Miami University (Ohio)
-    email: src@sigcse2018.org
 
   - name: Jessica Schmidt
     role: Student Research Competition
@@ -93,7 +88,7 @@
 - name: Organizing Committee
   members:
   - name: Alison Clear
-    role: Pre-Symposium Events
+    role: Pre-Symposium and Affiliated Events
     inst: Eastern Institute of Technology
     email: events@sigcse2018.org
 

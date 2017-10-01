@@ -193,6 +193,9 @@ details:
       Afternoon (1:30-5 pm, break 3-3:30 pm), or
       All Day (8:30 am-5 pm, lunch, two breaks)"
     specialsubmission: true
+  Nifty Assignments:
+    limits: "<a href='http://nifty.stanford.edu/info.html'>http://nifty.stanford.edu/info.html</a>"
+    length: "<a href='http://nifty.stanford.edu/info.html'>http://nifty.stanford.edu/info.html</a>"
 
 notifications:
   Student Research Competition: After submission (TBA)

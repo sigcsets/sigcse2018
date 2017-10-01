@@ -97,4 +97,4 @@ and page limits.
 
 {% include presenter-warning.html howmany = "ALL" kind = "special session" %}
 
-{% include submission-questions category="Panels and Special Sessions" %}
+{% include submission-questions category="Special Sessions" %}

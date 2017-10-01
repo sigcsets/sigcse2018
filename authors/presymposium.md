@@ -73,13 +73,8 @@ Follow us on  Twitter or  Facebook.
 
 {% include presenter-warning.html kind = "pre-symposium or affiliated event" %}
 
-{% include submission-questions category="Pre-Symposium and Affiliated Events Liaison" %}
+{% include submission-questions category="Pre-Symposium and Affiliated Events" %}
 
--   Rachelle Kristof Hippler
-
-    Bowling Green State University
-
-    sigcse2017-events@cs.vt.edu
 
 
 
