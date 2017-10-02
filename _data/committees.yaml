@@ -14,12 +14,12 @@
 - name: Program Co-Chairs
   members:
   - name: Elizabeth K. Hawthorne
-    # role: Program Co-Chair
+    role: Program Co-Chair
     inst: Union County College
     email: program@sigcse2018.org
 
   - name: Manuel Pérez-Quiñones
-    # role: Program Co-Chair
+    role: Program Co-Chair
     inst: UNC Charlotte
     email: program@sigcse2018.org
 
@@ -74,6 +74,11 @@
     role: Student Research Competition
     inst:  North Carolina State University
     email: src@sigcse2018.org
+
+  - name: Sarah Heckman
+    role: Student Research Competition
+    inst:  North Carolina State University
+    email: posters@sigcse2018.org
 
   - name: Nick Parlante
     role: Nifty Assignments
