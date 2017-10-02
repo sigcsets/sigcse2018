@@ -38,7 +38,7 @@ master:
 
 
   - time: "23:59 AoE (Baker Island, UTC-12h)"
-    notification: "Tuesday, October 3, 2017"
+    notification: "<strong>UPDATE</strong> - Saturday, October 7, 2017"
     updates:
     cameraready: "Monday, December 11th"
     abstractdue: "Friday, August 25, 2017"
@@ -51,7 +51,7 @@ master:
         include: papers
 
   - time: "23:59 AoE (Baker Island, UTC-12h)"
-    notification: "Tuesday, October 3, 2017"
+    notification: "<strong>UPDATE</strong> - Saturday, October 7, 2017"
     updates:
     cameraready: "Monday, December 11th"
     link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2018+Paper+Deadline&iso=20170901T2359&p1=3399"
