@@ -58,20 +58,23 @@
     #   link: /reviewers/signup.html
 - name: For Attendees
   subheads:
+  - name: Venue Information
+    link: /attendees/index.html
+  - name: Rates and Registration
+    link: /attendees/index.html#registering    
+  - name: Hotels
+    link: /attendees/index.html#reserving-a-room
+  - name: Roommate Database
+    link: /attendees/index.html#roommatedb
+  - name: Ground Transport
+    link: /attendees/index.html#travel
   - name: Conference Policies
     link: http://sigcse2018.sigcse.org/policies.html
-    # - name: Venue
-    #   link: /attendees/index.html
-    # - name: Rates and Registration
-    #   link: /attendees/index.html#registering
+    
+   
     # - name: Online Registration
     #   link: http://www.regonline.com/sigcse2017
-    # - name: Hotels
-    #   link: /attendees/index.html#reserving-a-room
-    # - name: Roommate Database
-    #   link: /attendees/index.html#roommatedb
-    # - name: Ground Transport
-    #   link: /attendees/index.html#travel
+
     # - name: Visitor Info / Attractions
     #   link: /attendees/visitor-info.html
     #   divider: true

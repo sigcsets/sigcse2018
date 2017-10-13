@@ -3,7 +3,7 @@ title: For Attendees
 showTitle: true
 ---
 
-This year, we are at the [Washington State Convention Center (WSCC)](http://www.wscc.com/), and the main conference hotel is the [Sheraton Seattle Hotel](http://www.sheratonseattle.com/) in Seattle, Washington.
+This year, we are at the [Baltimore Convention Center (WSCC)](http://www.bccenter.org/floorplans.php?id=12) and we are working with four conference hotels in Baltimore, MD.
 
 This page will contain everything you need for registration, reserving a room, obtaining visas, and finding a roommate. For now, we want to make sure that rate information is available early to attendees.
 
@@ -48,7 +48,7 @@ Onsite registration will be open <b>Wednesday</b> from 3:00PM to 9:30PM, <b>Thur
 -->
 
 
-SIGCSE {{site.data.sigcse.year}} takes place between {{site.data.sigcse.date.month}} {{site.data.sigcse.date.start}} and {{site.data.sigcse.date.month}} {{site.data.sigcse.date.end}} of {{site.data.sigcse.year}}.
+SIGCSE 2018 takes place February 21-24, 2018.
 
 As always, we encourage attendees to register early. This helps us with our planning, and in return, you get lower registration rates!
 
@@ -57,11 +57,9 @@ As always, we encourage attendees to register early. This helps us with our plan
 <span class="glyphicon glyphicon-home" aria-hidden="true"></span> <a href="{{site.data.sigcse.registration.url}}">Register now!</a>
 </div>
 {% else %}
-<div class="text-center">
-  <hr>
+{% callout info %}
   Registration will open soon!
-  <hr>
-</div>
+{% endcallout %}
 {% endif %}
 
 <p>Also, if you are not currently a SIGCSE member, you should <b>consider joining at the same time that you register</b> for the conference. Professionals can <b>save between $30 and $55</b>, while both professionals and students <b>save time</b> by not having to fill out a separate membership form.  The <a href="http://sigcse.org/sigcse/membership/benefits">benefits of SIGCSE membership</a>  are too numerous to list here, but they include the quarterly publications <i>ACM Inroads</i> and the <i>SIGCSE Bulletin</i>, free access to SIGCSE publication archives, access to the SIGCSE-ANNOUNCE and SIGCSE-MEMBERS mailing lists, and the opportunity to network within a community of computing professionals.</p>
@@ -75,225 +73,127 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 ### Registration Rates
 
 <div class = "row" style = "font-weight: bold;">
-    <div class = "col-sm-2"> When </div>
-    <div class = "col-sm-6"> Dates </div>
-    <div class = "col-sm-2"> Members </div>
-    <div class = "col-sm-2"> Non-Members </div>
+    <div class = "col-sm-6"> Registration Rates </div>
+    <div class = "col-sm-2"> Early - Jan 7 </div>
+    <div class = "col-sm-2"> Advance - Jan 21 </div>
+    <div class = "col-sm-2"> Late/Onsite </div>
 </div>
-{% for row in site.data.registration.improved %}
-  {% if row.alert %}
-  <div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-12 {{row.alert}} text-center">
-    {{row.date}}
-    </div>
-  </div>
-  {% else %}
-  <div class = "row">
-      <div class = "col-sm-2"> {{row.cat}} </div>
-      <div class = "col-sm-6"> {{row.date}} </div>
-      <div class = "col-sm-2"> ${{row.members}} </div>
-      <div class = "col-sm-2"> ${{row.nonmembers}} </div>
-  </div>
-  {% endif %}
-{% endfor %}
-
-<div class = "row" style = "padding-bottom: 20px;">&nbsp;</div>
-
-#### K-12 Educators, Workshops, and Students
-
-<div class="row" style="margin-top: 20px; margin-bottom: 20px;">
-  <div class="col-md-11 col-md-offset-1">
-    <div class="table-responsive">
-      <table>
-{% for e in site.data.registration.other %}
-        <tr class="{{e.alert}}">
-          <td style="padding-top: 10px; padding-right: 30px; padding-bottom: 10px;"><b>{{e.category}}</b></td>
-          <td>{{e.rates}}</td>
-        </tr>
-{% endfor %}
-      </table>
-    </div>
-  </div><!-- end row6 -->
-  <!--
-  <div class="col-md-4 col-md-offset-1">
-    <div class="text-center">
-      <img
-        src="/images/amazing-people-in-amazing-sigcse2015-shirts-300.png"
-        alt="Amazing People in Amazing SIGCSE 2015 Shirts"
-        width="100%"
-        class="image-responsive"><br>
-        <em>New this year - purchase a SIGCSE 2015 t-shirt for only $6.
-          <b>Pre-orders only</b>.  Order when you register for the conference.</em>
-    </div>
-  </div>
-  -->
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> Student* </div>
+    <div class = "col-sm-2"> $175 </div>
+    <div class = "col-sm-2"> $175 </div>
+    <div class = "col-sm-2"> $175 </div>
+</div>
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> K-12 Teacher Fri-Sat* </div>
+    <div class = "col-sm-2"> $150 </div>
+    <div class = "col-sm-2"> $175 </div>
+    <div class = "col-sm-2"> $200 </div>
+</div>
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> K-12 Teacher* </div>
+    <div class = "col-sm-2"> $275 </div>
+    <div class = "col-sm-2"> $300 </div>
+    <div class = "col-sm-2"> $325 </div>
+</div>
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> Community College Faculty* </div>
+    <div class = "col-sm-2"> $300 </div>
+    <div class = "col-sm-2"> $325 </div>
+    <div class = "col-sm-2"> $350 </div>
+</div>
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> Retired SIGCSE members* </div>
+    <div class = "col-sm-2"> $200 </div>
+    <div class = "col-sm-2"> $225 </div>
+    <div class = "col-sm-2"> $325 </div>
+</div>
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> ACM/SIG Members* </div>
+    <div class = "col-sm-2"> $325 </div>
+    <div class = "col-sm-2"> $375 </div>
+    <div class = "col-sm-2"> $425 </div>
+</div>
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> Non-ACM/SIG Members </div>
+    <div class = "col-sm-2"> $425 </div>
+    <div class = "col-sm-2"> $475 </div>
+    <div class = "col-sm-2"> $525 </div>
 </div>
 
+*Must be or become a member to receive this rate
 
+<div class = "row" style = "padding-bottom: 5;">&nbsp;</div>
 
-<!-- <div class="row" style="margin-top: 20px; margin-bottom: 20px;">
-  <div class="col-md-11 col-md-offset-1">
-    <div class="table-responsive">
-      <table>
-{% for e in site.data.registration.deadlines %}
-        <tr class="{{e.alert}}">
-          <td style="padding-top: 10px; padding-right: 30px; padding-bottom: 10px;"><b>{{e.category}}</b></td>
-          <td>{{e.date}}</td>
-        </tr>
-{% endfor %}
-      </table>
-    </div>
-  </div>
-</div> -->
+#### Workshop Registration
 
-
-<!-- {% if site.data.main.isregistrationopen %}
-<div class="text-center">
-  <hr>
-<h3><a href="{{site.data.main.registrationurl}}">The Registration Link</a></h3>
-<hr>
+<div class = "row" style = "font-weight: bold;">
+    <div class = "col-sm-6"> Workshop Registration Rates </div>
+    <div class = "col-sm-2"> Early** - Jan 7 </div>
+    <div class = "col-sm-2"> Advance** - Jan 21 </div>
+    <div class = "col-sm-2"> Late/Onsite </div>
 </div>
-{% else %}
-{% callout info %}
-A link for registration will be made available here when we finish dusting off the ol' PDP-11 that's been running things since 1971. Just replacing a few tubes, and we'll be ready to go...
-{% endcallout %}
-{% endif %} -->
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> Student / K12 / Comm College / Retired SIGCSE Member* </div>
+    <div class = "col-sm-2"> $60 </div>
+    <div class = "col-sm-2"> $75 </div>
+    <div class = "col-sm-2"> $80 </div>
+</div>
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> ACM/SIG Members* </div>
+    <div class = "col-sm-2"> $75 </div>
+    <div class = "col-sm-2"> $90 </div>
+    <div class = "col-sm-2"> $95 </div>
+</div>
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> Non-ACM/SIG Members* </div>
+    <div class = "col-sm-2"> $90 </div>
+    <div class = "col-sm-2"> $95 </div>
+    <div class = "col-sm-2"> $95 </div>
+</div>
+
+*NOTE: Workshop deadlines are earlier than regular registration deadlines!
 
 
 ### Regarding Visas
 
-The following is the official word from <a href="mailto:supportletters@acm.org">supportletters@acm.org</a> regarding letters of support for visas. Your requests should be emailed to <a href="mailto:supportletters@acm.org">supportletters@acm.org</a> with the information described below.
+ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee.
 
-<div class="well">
-  <p>
-Visa support letters are answered in the order they are received. You will receive a PDF letter by email within the next 4-5 business days.  Please note we do not fax visa support letters.  The PDF serves as a signed electronic version of the original letter which will be mailed to your current mailing address.  If you do not receive the letter by post mail on time for your visa appointment, please print out your PDF letter and take it with you.
- </p>
- <p>
-Please be sure you have included all of the following information below in your original email:
- </p>
+For Visa support letters, please email all requests to the Office of SIG Services at [supportletters@acm.org](mailto:supportletters@acm.org).  The information below should be included with the request:
 
-<ol>
-  <li>Your name as it appears on your passport </li>
+* Name (as it appears on attendee’s passport) and 
+* Mailing address
+* The name of the conference attendees is registering for
+* Attendee’s registration confirmation number (if available) OR
+* Authors may indicate their paper title. Speakers can provide the title of their talk.
+* Include a fax number or email address of where letter can be sent
 
-  <li>Your current postal mailing address</li>
-
-  <li>The name of the conference you wish to attend</li>
-
-  <li>Your Registration Confirmation Number</li>
-
-  <li>If you have any papers accepted for the conference, please provide the title and indicate whether you are the ‘sole author’ or a ‘co- author’</li>
-</ol>
-</div>
-
-Note that it could take some time for your request to be honored; leave plenty of time.
-
-&nbsp;
-
+Those requesting a letter should allow 7-10 business days to receive it. All requests are handled in the order they are received.
 
 
 <a name="reserving"></a>
 
 ## Reserving a Room
 
-There are four conference hotels with special conference room rates.  All
-four are close to the Washington State Convention Center and are within
-easy walking distance of each other.  The primary conference hotel is the
-**Sheraton Seattle**.
+Reserve your room by January 22, 2018 to receive these rates! There are four conference hotels with special conference room rates. All four are close to the Baltimore Convention Center and are within easy walking distance of each other. 
 
-{% callout info %}
-Several hotels have sold out of rooms in our conference block on some
-nights.  If you try to book online and do not see any rooms available
-at your preferred hotel, or you are quoted a different rate than the
-conference rate shown below, <b>please call the hotel instead</b>.  All
-of the hotels have agreed to honor the conference rate for available
-regular rooms (note: the conference block rooms are available Tuesday
-March 7 through Saturday March 11; non-conference rates may apply outside
-of these dates).
-{% endcallout %}
+Note: If you try to book online and do not see any rooms available at your preferred hotel, or you are quoted a different rate than the conference rate shown below, please call the hotel instead. (Note: the conference block rooms are available Tuesday Feb 21 through Saturday March 24; non-conference rates may apply outside of these dates).
 
-+   **<a href="http://www.sheratonseattle.com/">Sheraton Seattle</a>** (<a href="https://www.starwoodmeeting.com/events/start.action?id=1609202098&key=14E8C405">reservations</a>)<br/>
-    Room rate: <s>$185/night + tax</s> (only upgraded, more expensive rooms left)<br/>
-    Deadline: February 7, 2017<br/>
-    (if you phone direct and ask for the SIGCSE rate, you may still be able to get the group rate)<br/>
-    Address: 1400 6th Ave, Seattle, WA 98101<br/>
-    Phone: <a href="tel:+1-206-621-9000">+1-206-621-9000</a><br/>
-    Phone (direct): <a href="tel:+1-206-447-5547">+1-206-447-5547</a>
+#### Hyatt Regency Baltimore Inner Harbor
+[http://baltimore.hyatt.com/](http://baltimore.hyatt.com/)<br>
+300 Light Street, Baltimore, MD 21202, USA<br>Nightly Rate: $149 + tax<br>Reservations must be made by January 22, 2018.
 
-+   **<s><a href="http://seattle.grand.hyatt.com/">Grand Hyatt Seattle</a></s>** (<a href="https://aws.passkey.com/go/ACMSIGSCE2017GrandHyatt">reservations</a>) (now <b>SOLD OUT</b>)<br/>
-    Room rate: <s>$185/night + tax</s> (now <b>SOLD OUT</b>)<br/>
-    Deadline: <s>February 7, 2017</s> (now <b>SOLD OUT</b>)<br/>
-    Address: 721 Pine St, Seattle, WA 98101<br/>
-    Phone: <a href="tel:+1-206-774-1234">+1-206-774-1234</a>
+#### Holiday Inn Inner Harbor – Baltimore Downtown
+[http://www.innerharborhi.com/(http://www.innerharborhi.com/)<br>
+301 West Lombard St  Baltimore, Maryland 21201<br>Nightly Rate: $149 + tax<br>Reservations must be made by January 22, 2018.
 
-+   **<a href="http://olive8.hyatt.com/">Hyatt at Olive 8</a>** (<a href="https://aws.passkey.com/go/ACMSIGSCE2017Olive8">reservations</a>)<br/>
-    Room rate: $185/night + tax<br/>
-    Deadline: <b>February 17</b>, 2017 (note extension!)<br/>
-    Address: 1635 8th Ave, Seattle, WA 98101<br/>
-    Phone: <a href="tel:+1-206-695-1234">+1-206-695-1234</a>
+#### Marriott Inner Harbor
+[http://www.marriott.com/hotels/travel/bwiih-baltimore-marriott-inner-harbor-at-camden-yards](http://www.marriott.com/hotels/travel/bwiih-baltimore-marriott-inner-harbor-at-camden-yards)<br>
+110 S. Eutaw St., Baltimore, MD 21201<br>Nightly Rate: $165 + tax<br>Reservations must be made by January 22, 2018.
 
-+   **<s><a href="http://roosevelthotel.com/">The Roosevelt Hotel</a></s>** (<a href="https://reservations.travelclick.com/97459?hotelId=97459&groupid=1489846#/guestsandrooms">reservations</a>) (now <b>SOLD OUT</b>)<br/>
-    Room rate: <s>$159/night + tax</s> (now <b>SOLD OUT</b>)<br/>
-    Deadline: <s>February 7, 2017</s> (now <b>SOLD OUT</b>)<br/>
-    Address: 1531 7th Ave, Seattle, WA 98101<br/>
-    Phone: <a href="tel:+1-206-621-1200">+1-206-621-1200</a>
-
-<!--
-
-<p>So <a href="{{site.data.main.bookingURL}}">go reserve your room now</a>. Conference room rates are guaranteed until {{site.data.main.hotelguaranteedate}}.  Please make your reservations before that date to ensure the SIGCSE rate.</p>
-
-<p>If you encounter any difficulties in booking, don't be afraid to use the phone. The Sheraton staff will be glad to assist you. </p>
-
-
-</div>
-  <div class="col-md-2 col-md-offset-1 text-center">
-    <img src="{{site.base}}/images/memphis/memphis-38-200.png" width="200" class="image-responsive" ></img>
-  </div>
-</div>
-
-
-## *Probably* Needed: Overflow Options
-
-The conference hotel is pretty full, and these are our contracted overflow hotels. They're really close to the conference center.
-
-* **Mariott Courtyard** ([reservations](http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=SIGCSE%202016%5EMEMMP%60ACMACMA%7CACMACMB%60133.00-133.0%60USD%60false%604%60;MEMCD%60ACMACMA%7CACMACMB%60133.00%60USD%60false%604%603/1/16%603/7/16%602/1/16&app=resvlink&stop_mobi=yes))
-
-  Booking Code: ACMB
-
-  Deadline: Feburary 1st, 2016
-
-  75 Jefferson Avenue, Memphis, TN  38103
-
-  Phone: <a href="tel:901-522-2200">901-522-2200</a>
-
-* **Mariott SpringHill Suites** ([reservations](http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=SIGCSE%202016%5EMEMMP%60ACMACMA%7CACMACMB%60133.00-133.0%60USD%60false%604%60;MEMCD%60ACMACMA%7CACMACMB%60133.00%60USD%60false%604%603/1/16%603/7/16%602/1/16&app=resvlink&stop_mobi=yes))
-
-  Booking Code: ACMA
-
-  Deadline: Feburary 1st, 2016
-
-  85 West Court Avenue, Memphis, TN  38103
-
-  Phone: <a href="tel:901-522-2100">901-522-2100</a>
-
-### YET MORE HOTELS
-
-In no particular order, these additional hotels are generally within easy transportation distance (walking, bus) of the hotel. We recommend you use Google Maps to figure out what it looks like "on the ground" before you blindly reserve space into one of these.
-
-<ul>
-{% for hotel in site.data.additionalhotels %}
-<li> <b>{{hotel.name}}</b> <br>
-  <ul>
-    <li> Phone: {{hotel.phone}} </li>
-    <li> {{hotel.address}} </li>
-    {% if hotel.code %}
-    <li> CODE: {{hotel.code}} </li>
-    {% endif %}
-  </ul>
-</li>
-{% endfor %}
-</ul>
-
--->
+#### Sheraton Inner Harbor
+[http://sheraton.com](http://sheraton.com)<br>
+300 South Charles Street, Baltimore, MD. 21201<br>Nightly Rate: $169 + tax<br>Rate applies: Feb 18-27<br>Reservations must be made by January 22, 2018.<br>   
 
 <span class="anchor" id = "roommatedb"></span>
 
@@ -306,67 +206,16 @@ You can also use the [SIGCSE roommate database](http://sigcse.rit.edu/roommates/
 
 ## Getting to SIGCSE {{site.data.sigcse.year}}
 
-### {{site.data.sigcse.airport.name}} (Airport Code: {{site.data.sigcse.airport.code}})
+### Air Travel
 
-<div class="row">
-  <div class="col-md-12">
-<p>
-  Our airport is {{site.data.sigcse.airport.name}} (<a href="{{site.data.sigcse.airport.url}}">{{site.data.sigcse.airport.url}}</a>).
-</p>
-<p>
-  The airport's phone number is <a href="tel:{{site.data.sigcse.airport.phone}}">{{site.data.sigcse.airport.phone}}.</a>
-</p>
+Baltimore–Washington International Airport (Airport Code: BWI)<br>
+7035 Elm Road, Baltimore, MD 21240<br>
+[www.bwiairport.com](www.bwiairport.com)  
 
-<h3>Ground Transportation</h3>
+### Ground Transportation
 
-<p>
-There are many options for getting from the airport to the conference, including <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Public-Transit.aspx">light rail</a> ($3), <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Taxis-and-Limos.aspx">taxis</a> (~$40), <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Bus-Shuttle-Courtesy.aspx">shuttles</a> (~$20), and <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/tnc.aspx">rideshares</a> (Uber, Lyft, Wingz, etc.) (~$27-40). Light rail typically runs on time and takes 40 minutes.  Driving can take anywhere from 20-45 minutes depending on traffic.
-</p>
+There are many options for getting from the airport to the conference, and we will tell you more later!
 
-<h4>Link Light Rail</h4>
-
-<p>
-  The least expensive way to get from the airport to the convention center/conference hotels is by light rail.  Trains depart the airport station every 6-15 minutes from 5 a.m. to midnight Monday through Saturday (6 a.m. to 11:19pm on Sundays). Some walking is required: 10-15 minute walk from baggage claim to the airport light rail station, and then 5 minutes (1.5 to 2.5 blocks) from Westlake station to the conference hotels. The <a href="http://m.soundtransit.org/Fares-and-Passes/Link-fares">fare</a> is $3 one way from SeaTac Airport station to Westlake station (the station closest to the convention center and conference hotels) and takes about 40 minutes. 
-</p>
-
-<p>
-Schedules: <a href="http://m.soundtransit.org/sites/default/files/schedules/link-light-rail-northbound.pdf">Northbound to Downtown/UW</a>, <a href="http://m.soundtransit.org/sites/default/files/schedules/link-light-rail-southbound.pdf">Southbound to SeaTac Airport</a>, <a href="http://m.soundtransit.org/schedules?direction=outbound#40_100479">Interactive Schedule</a>. 
-</p>
-
-<p>
-<a href="http://www.portseattle.org/Sea-Tac/Maps-and-Directions/Pages/Terminal-to-Link-Light-Rail.aspx">This map</a> and <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Public-Transit.aspx">this video</a> show how to walk from the airport terminal to the light rail station. Follow the signs to “Link Light Rail”. In short, cross from the terminal over to the 4th floor of the parking garage using the skybridges found one level above the baggage claim (one level below check-in). The walkway is covered and well-lit, and is separated from the main area of the garage. <a href="http://www.portseattle.org/Sea-Tac/Passenger-Services/Pages/Accessibility.aspx">Wheelchair service is available</a>. Purchase your ticket from the machines as soon as you enter the light rail station, do this <b>before</b> heading up to the train platform. Return tickets can be purchased at any of the downtown tunnel stations. Hang on to your ticket, as you may be asked to show it to a fare inspector on request (light rail is a proof-of-payment, honor-based system).
-</p>
-
-<p>
-You may enjoy <a href="http://m.soundtransit.org/sites/default/files/documents/pdf/201404_startonlinkmap.pdf">reading about</a> some of the <a href="http://m.soundtransit.org/Rider-Guide/public-art/guide-art-link-light-rail">art in the light rail stations</a>.
-</p>
-
-<p>
-<b>To get to the hotels from Westlake light rail station</b>: Exit the train and walk towards the front of the train.  Take the escalator on your right (perpendicular to the train) signed: “5th Ave. & Pine St”. Once at the top of the escalator, head towards Nordstrom and continue following signs for “5th & Pine/Nordstrom” and escalators up until you emerge onto Pine Street, between 5th and 6th Ave. Turn to your left and walk to the corner of Pine and 6th, which puts you <b>1-2 blocks from all four conference hotels</b>. 
-</p>
-
-<p>From corner of Pine St. and 6th Ave:</p>
-<p>
-<li>Sheraton Seattle - cross Pine (towards Eileen Fisher) and walk one block on 6th.  Entrance on 6th.
-</li>
-<li>The Roosevelt Hotel - cross 6th (towards Pacific Place mall) and walk one block on Pine. Cross Pine to the entrance on corner of Pine and 7th.
-</li>
-<li>Grand Hyatt Seattle - is immediately across 7th Ave from the Roosevelt. Entrance on 7th and also on Pine.
-</li>
-<li>Hyatt at Olive 8 - cross 6th (towards Pacific Place mall) and walk two blocks on Pine. Turn left on 8th and walk half a block. Entrance on 8th.
-</li>
-</p>
-
-<h4>Shuttle Services</h4>
-<p>
-  <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Bus-Shuttle-Courtesy.aspx">Several companies</a> offer shared van shuttle service for around $20 including <a href="https://shuttleexpress.com/seattle/airport/downtown-airporter/">Shuttle Express Downtown Airporter</a> and <a href="http://www.speedishuttleseattle.com/">Speedi Shuttle</a>.
-</p>
-
-<h4>Rideshares</h4>
-<p>
-  <a href="https://www.lyft.com/cities/seattle">Lyft</a>, <a href="https://www.uber.com/airports/sea-tac/">Uber</a> and <a href="https://www.wingz.me/airport/sea/">Wingz</a> provide services at Sea-Tac Airport.  The <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/tnc.aspx">pickup area can be found here</a>. 
-</p>
-
-<h4>Note</h4>
-<em>Last year, ground transport information was researched by your webmaster, who knew nothing. This year, this information is provided by a colleague with expert, local knowledge. Hooray for local knowledge! Thank you Ruth!</em>
+#### App-based Ride Services
+Lyft and Uber provide services at BWI Airport. App-based ride services pick up and drop off passengers at the terminal curbs on the Departures/Ticketing Level of all terminals.
 
