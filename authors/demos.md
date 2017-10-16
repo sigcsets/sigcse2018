@@ -6,7 +6,7 @@ showTitle: true
 
 ## What is a Demo?
 
-Demos provide a way to showcase an educational tool or project in a live setting. Not designed to be sales pitches, demonstrations are a way for the community to see the relevance, potential and innovation of the tool and allow time for discussion with its creator. Demos take place during break periods.
+Demos provide a way to showcase an educational tool or project in a live setting. Not designed to be sales pitches, demonstrations are a way for the community to see the relevance, potential and innovation of the tool and allow time for discussion with its creator. Demos take place during break periods and will last 45 minutes.
 
 Proposals undergo review but not blind review.
 

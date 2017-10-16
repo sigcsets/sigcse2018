@@ -177,14 +177,16 @@ Those requesting a letter should allow 7-10 business days to receive it. All req
 
 Reserve your room by January 22, 2018 to receive these rates! There are four conference hotels with special conference room rates. All four are close to the Baltimore Convention Center and are within easy walking distance of each other. 
 
-Note: If you try to book online and do not see any rooms available at your preferred hotel, or you are quoted a different rate than the conference rate shown below, please call the hotel instead. (Note: the conference block rooms are available Tuesday Feb 21 through Saturday March 24; non-conference rates may apply outside of these dates).
+The conference block rooms are available Friday, February 16, through Wednesday, February 28; non-conference rates may apply outside of these dates
+
+Note: If you try to book online and do not see any rooms available at your preferred hotel, or you are quoted a different rate than the conference rate shown below, please call the hotel instead.  We have not yet been given a discount code for the hotels.  When it is available, it will be posted here.
 
 #### Hyatt Regency Baltimore Inner Harbor
 [http://baltimore.hyatt.com/](http://baltimore.hyatt.com/)<br>
 300 Light Street, Baltimore, MD 21202, USA<br>Nightly Rate: $149 + tax<br>Reservations must be made by January 22, 2018.
 
 #### Holiday Inn Inner Harbor – Baltimore Downtown
-[http://www.innerharborhi.com/(http://www.innerharborhi.com/)<br>
+[http://www.innerharborhi.com/](http://www.innerharborhi.com/)<br>
 301 West Lombard St  Baltimore, Maryland 21201<br>Nightly Rate: $149 + tax<br>Reservations must be made by January 22, 2018.
 
 #### Marriott Inner Harbor
