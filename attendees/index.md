@@ -129,30 +129,16 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Workshop Registration Rates </div>
-    <div class = "col-sm-2"> Early** - Jan 7 </div>
-    <div class = "col-sm-2"> Advance** - Jan 21 </div>
+    <div class = "col-sm-2"> Early - Jan 7 </div>
+    <div class = "col-sm-2"> Advance - Jan 21 </div>
     <div class = "col-sm-2"> Late/Onsite </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> Student / K12 / Comm College / Retired SIGCSE Member* </div>
+    <div class = "col-sm-6"> All Attendees </div>
     <div class = "col-sm-2"> $60 </div>
-    <div class = "col-sm-2"> $75 </div>
     <div class = "col-sm-2"> $80 </div>
-</div>
-<div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> ACM/SIG Members* </div>
-    <div class = "col-sm-2"> $75 </div>
-    <div class = "col-sm-2"> $90 </div>
     <div class = "col-sm-2"> $95 </div>
 </div>
-<div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> Non-ACM/SIG Members* </div>
-    <div class = "col-sm-2"> $90 </div>
-    <div class = "col-sm-2"> $95 </div>
-    <div class = "col-sm-2"> $95 </div>
-</div>
-
-*NOTE: Workshop deadlines are earlier than regular registration deadlines!
 
 
 ### Regarding Visas
