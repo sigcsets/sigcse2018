@@ -70,14 +70,15 @@
     link: /attendees/index.html#travel
   - name: Conference Policies
     link: http://sigcse2018.sigcse.org/policies.html
-    
-   
+  #   divider: true
+  # - name: Workshops
+  #   link: /attendees/workshops.html   
     # - name: Online Registration
     #   link: http://www.regonline.com/sigcse2017
 
     # - name: Visitor Info / Attractions
     #   link: /attendees/visitor-info.html
-    #   divider: true
+  
     # - name: Online Program
     #   link: http://easychair.org/smart-program/SIGCSE2017/
     # - name: Final Program (PDF)
@@ -89,8 +90,7 @@
     # - name: Supporter Sessions
     #   # link: /attendees/supporters.html
     #   link: /attendees/supporters.html
-    # - name: Workshops
-    #   link: /attendees/workshops.html
+
     # - name: BOFs
     #   link: http://easychair.org/smart-program/SIGCSE2017/index.html#session:13076
     # - name: Poster Session I

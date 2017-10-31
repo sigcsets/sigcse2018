@@ -282,8 +282,130 @@
 #       inst: "Peking University, China"
 #       email: "mzhang_cs@pku.edu.cn"
 
-# - name: Associate Program Chairs
-#   members:
+- name: Associate Program Chairs
+  members:
+    - name: Helen Hu
+      inst: Westminster College
+    - name: Sarah Heckman
+      inst: North Carolina State University
+    - name: David Levine
+      inst: Saint Bonaventure University
+    - name: Ellen Walker
+      inst: Hiram College
+    - name:  Simon
+      inst: University of Newcastle
+    - name: Lester Mccann
+      inst: University of Arizona
+    - name: Aaron Bloomfield
+      inst: University of Virginia
+    - name: Samuel Rebelsky
+      inst: Grinnell College
+    - name: S. Monisha Pulimood
+      inst: The College of New Jersey
+    - name: Sharon Hsiao
+      inst: Arizona State University
+    - name: Mark Sherriff
+      inst: University of Virginia
+    - name: Carl Alphonce
+      inst: University at Buffalo
+    - name: Stephen Edwards
+      inst: Virginia Tech
+    - name: Craig S. Miller
+      inst: DePaul University
+    - name: Adrienne Decker
+      inst: Rochester Institute of Technology
+    - name: Leo Porter
+      inst: University of California San Diego
+    - name: Bruce Maxim
+      inst: University of Michigan
+    - name: Eric Aaron
+      inst: Vassar College
+    - name: Marie Bienkowski
+      inst: SRI International
+    - name: Christine Alvarado
+      inst: University of California San Diego
+    - name: Luther Tychonievich
+      inst: University of Virginia
+    - name: Jian Zhang
+      inst: Texas Woman's University
+    - name: Kathi Fisler
+      inst: WPI
+    - name: Gary Lewandowski
+      inst: Xavier University
+    - name: Kevin Buffardi
+      inst: California State University - Chico
+    - name: Lisa Kaczmarczyk
+      inst: 
+    - name: Jan Vahrenhold
+      inst: Department of Computer Science
+    - name: Brad Richards
+      inst: Univ. of Puget Sound
+    - name: Andrew Ko
+      inst: University of Washington
+    - name: Cecily Heiner
+      inst: Southern Utah University
+    - name: Steve Cooper
+      inst: UNIVERSITY OF NEBRASKA–LINCOLN
+    - name: Meghan Allen
+      inst: The University of British Columbia
+    - name: Meghan Allen
+      inst: The University of British Columbia
+    - name: Robert Noonan
+      inst: William and Mary
+    - name: Leigh Ann Delyser
+      inst: NYC Foundation for CS Education
+    - name: Robert McCartney
+      inst: Department of Computer Science and Engineering
+    - name: Ingrid Russell
+      inst: University of Hartford
+    - name: Susan Haller
+      inst: SUNY at Potsdam
+    - name: Ursula Wolz
+      inst: Bennington College
+    - name: Tracy Camp
+      inst: Colorado School of Mines
+    - name: Alistair Campbell
+      inst: Hamilton College
+    - name: Frank Vahid
+      inst: UC Riverside
+    - name: Rajeev Agrawal
+      inst: US Army Engineer Research and Development Center
+    - name: Ruth Anderson
+      inst: University of Washington
+    - name: Jaime Spacco
+      inst: Knox College
+    - name: Lucia Dettori
+      inst: DePaul University
+    - name: Colleen Lewis
+      inst: Harvey Mudd College
+    - name: Christine Alvarado
+      inst: University of California San Diego
+    - name: Paul Tymann
+      inst: Rochester Institute of Technology
+    - name: Susan Rodger
+      inst: Duke University
+    - name: Henry Walker
+      inst: Grinnell College
+    - name: Henry Walker
+      inst: Grinnell College
+    - name: Joel Adams
+      inst: Calvin College
+    - name: Kristy Elizabeth Boyer
+      inst: University of Florida
+    - name: Tammy Vandegrift
+      inst: University of Portland
+    - name: Judy Sheard
+      inst: Monash University
+    - name: John Dougherty
+      inst: Haverford College
+    - name: Deepak Kumar
+      inst: Bryn Mawr College
+    - name: Luther Tychonievich
+      inst: University of Virginia
+    - name: Jody Paul
+      inst: Metropolitan State University of Denver
+    - name: Steve Cooper
+      inst: Stanford
 #   - name: Eric Aaron
 #     inst: Vassar College
 #     #email: eaaron@cs.vassar.edu
