@@ -70,9 +70,11 @@
     link: /attendees/index.html#travel
   - name: Conference Policies
     link: http://sigcse2018.sigcse.org/policies.html
-  #   divider: true
-  # - name: Workshops
-  #   link: /attendees/workshops.html   
+    divider: true
+  - name: Accepted Submissions
+    link: /attendees/accepted.html
+  - name: Workshops
+    link: /attendees/workshops.html   
     # - name: Online Registration
     #   link: http://www.regonline.com/sigcse2017
 

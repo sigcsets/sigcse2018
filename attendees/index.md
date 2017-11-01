@@ -209,7 +209,7 @@ You can also use the [SIGCSE roommate database](http://sigcse.rit.edu/roommates/
 
 Baltimore–Washington International Airport (Airport Code: BWI)<br>
 7035 Elm Road, Baltimore, MD 21240<br>
-[www.bwiairport.com](www.bwiairport.com)  
+[www.bwiairport.com](http://www.bwiairport.com)  
 
 ### Ground Transportation
 

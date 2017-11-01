@@ -1,0 +1,783 @@
+- title: "A Biology-themed Introductory CS Course at a Large, Diverse Public University"
+  authors: Tanya Berger-Wolf (University of Illinois at Chicago); Boris Igic (University of Illinois at Chicago); Cynthia Taylor (University of Illinois at Chicago); Robert Sloan (University of Illinois at Chicago); Rachel Poretsky (University of Illinois at Chicago)
+  type: Paper
+
+- title: "A Collaborative Course for Learning How to Teach Summer Java Coding Camps"
+  authors: Kulsoom Mansoor (University of Washington Bothell); Riley Gaggero (University of Washington Bothell); Karen Gourd (University of Washington Bothell); Ann Mcmahon (University of Washington Bothell); Kelvin Sung (University of Washington Bothell)
+  type: Paper
+
+- title: "A Computer Science Study Abroad with Service Learning: Design and Reflections"
+  authors: Lori Pollock (University of Delaware); James Atlas (University of Delaware); Tim Bell (University of Canterbury); Tracy Henderson (University of Canterbury)
+  type: Paper
+
+- title: "A Cross-Case Analysis of Instructional Strategies to Support Participation of K-8 Students with Disabilities in CS for All"
+  authors: Meg Ray (Cornell Tech); Maya Israel (University of Illinois at Urbana-Champaign); Chungeun Lee (University of Illinois at Urbana-Champaign); Virginie Do (Ecole Polytechnique)
+  type: Paper
+
+- title: "A Domain Analysis of Data Structure and Algorithm Explanations in the Wild"
+  authors: Jeffrey Young (Oregon State University); Eric Walkingshaw (Oregon State University)
+  type: Paper
+
+- title: "A Functional Approach to Data Science in Introductory Computer Science"
+  authors: Sarah Dahlby Albright (Grinnell College); Titus Klinge (Grinnell College); Samuel Rebelsky (Grinnell College)
+  type: Paper
+
+- title: "A K-12 Curriculum for Introducing Data Mining, Business Intelligence, Big Data and Related Ethics Plus Privacy Using RapidMiner and A Hollywood Theme"
+  authors: Amber Dryer (University of Wisconsin - Green Bay (UWGB)); Nicole Walia (University of Wisconsin - Green Bay (UWGB)); Ankur Chattopadhyay (University of Wisconsin - Green Bay (UWGB))
+  type: Paper
+
+- title: "A Landscape Study of NYC's CS4All Initiative: Findings and Implications for Policy and Practice"
+  authors: Cheri Fancsali (Research Alliance for New York City Schools); Linda Tigani (Research Alliance for New York City Schools); Paulina Toro Isaza (Research Alliance for New York City Schools)
+  type: Paper
+
+- title: "A Model for Increasing Gender Diversity in Technology"
+  authors: Penny Rheingans (UMBC); Erica D'Eramo (UMBC); Crystal Diaz-Espinoza (Baylor University); Danyelle Ireland (MBC)
+  type: Paper
+
+- title: "A National Study of Undergraduate Research Experiences in Computing: Implications for Culturally Relevant Pedagogy"
+  authors: Audrey Rorrer (UNC Charlotte); Joseph Allen (UNC Charlotte); Huifang Zuo (University of Chicago)
+  type: Paper
+
+- title: "A Robotics Experience for All the Students in an Elementary School"
+  authors: Cecily Heiner (Southern Utah University)
+  type: Paper
+
+- title: "A Study of Pair Programming Enjoyment and Attendance using Study Motivation and Strategy Metrics"
+  authors: Onni Aarne (University of Helsinki); Petrus Peltola (University of Helsinki); Juho Leinonen (University of Helsinki); Arto Hellas (University of Helsinki)
+  type: Paper
+
+- title: "A Summer Program to Attract Potential Computer Science Majors"
+  authors: Scott Vandenberg (Siena College); Sharon Small (Siena College); Meg Fryling (Siena College); Robin Flatland (Siena College); Maryanne Egan (Siena College)
+  type: Paper
+
+- title: "A Survey of Instructors' Experiences Supporting Student Learning using Humanitarian Free and Open Source Software Projects"
+  authors: Heidi Ellis (Western New England University); Lori Postner (Nassau Community College); Gregory Hislop (Drexel University)
+  type: Paper
+
+- title: "A Systematic Review of the Use of Bloom’s Taxonomy in Computer Science Education"
+  authors: Susana Masapanta-Carrión (Pontificia Universidad Católica del Ecuador); J. Ángel Velázquez-Iturbide (Universidad Rey Juan Carlos)
+  type: Paper
+
+- title: "A Tool for Solving Parsons Puzzles"
+  authors: Amruth Kumar (Ramapo College of New Jersey)
+  type: Paper
+
+- title: "A User Space-based Project for Practicing Core Memory Management Concepts"
+  authors: Sam Silvestro (University of Texas at San Antonio); Timothy Yuen (University of Texas at San Antonio); Corey Crosser (University of Texas at San Antonio); Dakai Zhu (University of Texas at San Antonio); Turgay Korkmaz (University of Texas at San Antonio); Tongping Liu (University of Texas at San Antonio)
+  type: Paper
+
+- title: "A Visual Introduction to Conceptual Database Design for All"
+  authors: Suzanne Dietrich (Arizona State University); Don Goelman (Villanova University)
+  type: Paper
+
+- title: "Achievement Goals in CS1: Replication and Extension"
+  authors: Daniel Zingaro (University of Toronto Mississauga); Michelle Craig (University of Toronto); Leo Porter (University of California, San Diego); Brett Becker (University College Dublin); Yingjun Cao (University of California, San Diego); Phill Conrad (University of California, Santa Barbara); Diana Cukierman (Simon Fraser University); Arto Hellas (University of Helsinki); Dastyni Loksa (University of Washington); Neena Thota (University of Massachusetts Amherst)
+  type: Paper
+
+- title: "Active learning in a discrete mathematics class"
+  authors: Saúl Blanco (Indiana University)
+  type: Paper
+
+- title: "Active Learning through Game Play in a Data Structures Course"
+  authors: Darina Dicheva (Winston-Salem State University); Austin Hodge (Winston-Salem State University)
+  type: Paper
+
+- title: "An Active and Collaborative Approach to Teaching Discrete Structures"
+  authors: Lijuan Cao (University of North Carolina Charlotte); Audrey Rorrer (University of North Carolina Charlotte)
+  type: Paper
+
+- title: "An Agile Conversion Masters Degree Programme in Software Development"
+  authors: Karsten Lundqvist (Victoria University of Wellington); Michael Homer (Victoria University of Wellington); Craig Anslow (Victoria University of Wellington); Kris Bubendorfer (Victoria University of Wellington); Dale Carnegie (Victoria University of Wellington)
+  type: Paper
+
+- title: "An Analysis of a Media-Based Approach to Teach Programming in Elementary Education"
+  authors: Luis Gustavo J. Araújo (UEFS - State University of Feira de Santana); Roberto A. Bittencourt (UEFS - State University of Feira de Santana); David M. B. Santos (UEFS - State University of Feira de Santana)
+  type: Paper
+
+- title: "An Analysis of Language Choice in Introductory Programming Courses at Australasian and UK Universities"
+  authors:  Simon (University of Newcastle); Raina Mason (Southern Cross University); Tom Crick (Cardiff Metropolitan University); James H. Davenport (University of Bath); Ellen Murphy (University of Bath)
+  type: Paper
+
+- title: "An Experience Report on a Boot-Camp Style Programming Course"
+  authors: Yu-Cheng Tu (University of Auckland); Gillian Dobbie (University of Auckland); Ian Warren (University of Auckland); Andrew Meads (University of Auckland); Cameron Grout (University of Waikato)
+  type: Paper
+
+- title: "An Explicit Strategy to Scaffold Novice Program Tracing"
+  authors: Benjamin Xie (University of Washington); Greg L. Nelson (University of Washington); Andrew J. Ko (University of Washington)
+  type: Paper
+
+- title: "Analysis of Collaborative Learning in a Computational Thinking Class"
+  authors: Bushra Chowdhury (Virginia Tech); Austin Cory Bart (Virginia Tech); Dennis Kafura (Virginia Tech)
+  type: Paper
+
+- title: "Applying the Mathematical Work of Teaching Framework to Develop a Computer Science Pedagogical Content Knowledge Assessment"
+  authors: Yvonne Kao (WestEd); Katie D'Silva (WestEd); Aleata Hubbard (WestEd); Joseph Green (WestEd); Kimkinyona Cully (WestEd)
+  type: Paper
+
+- title: "ArTEMiS - An Automatic Assessment Management System for Interactive Learning"
+  authors: Stephan Krusche (Technische Universität München); Andreas Seitz (Technische Universität München); Bernd Bruegge (Technische Universität München)
+  type: Paper
+
+- title: "Assessing Bootstrap:Algebra Students on Scaffolded and Unscaffolded   Word Problems"
+  authors: Emmanuel Schanzer (Bootstrap); Kathi Fisler (WPI); Shriram Krishnamurthi (Brown University)
+  type: Paper
+
+- title: "Assessing the Impact of a National Cybersecurity Competition on Students’ Career Interests"
+  authors: Michael Dunn (Air Force Institute of Technology); Laurence Merkle (Air Force Institute of Technology)
+  type: Paper
+
+- title: "Authenticity and Personal Creativity: How EarSketch Affects Student Persistence"
+  authors: Tom McKlin (The Findings Group); Brian Magerko (Georgia Institute of Technology); Taneisha Lee (The Findings Group); Dana Wanzer (The Findings Group); Doug Edwards (Georgia Institute of Technology); Jason Freeman (Georgia Institute of Technology)
+  type: Paper
+
+- title: "BlueBook: A Computerized Replacement for Paper Tests in Computer Science"
+  authors: Chris Piech (Stanford University); Chris Gregg (Stanford University)
+  type: Paper
+
+- title: "Brain-Computer Interface for All"
+  authors: Chris Crawford (University of Alabama); Christina Gardner-Mccune (University of Florida); Juan Gilbert (University of Florida)
+  type: Paper
+
+- title: "Bricklayer: Elementary students learn math through programming and art"
+  authors: Michelle Friend (University of Nebraska Omaha); Michael Matthews (University of Nebraska Omaha); Betty Love (University of Nebraska Omaha); Victor Winter (University of Nebraska Omaha)
+  type: Paper
+
+- title: "Bringing computer science education to secondary school: a teacher first approach."
+  authors: Tom Neutens (Ghent University); Francis Wyffels (Ghent University)
+  type: Paper
+
+- title: "Broadening Participation in Computing via Professional Development for Community College CS/IT Faculty"
+  authors: Beth Quinn (National Center for Women & IT); Wendy Dubow (National Center for Women & IT); Jamie Huber-Ward (National Center for Women & IT)
+  type: Paper
+
+- title: "Catch 'em early: internship and assistantship CS mentoring programs for underclassmen"
+  authors: Meg Fryling (Siena College); Mary Anne L. Egan (Siena College); Robin Flatland (Siena College); Sharon Small (Siena College); Scott Vandenberg (Siena College)
+  type: Paper
+
+- title: "Challenges Arising from Prerequisite Testing in Cybersecurity Games"
+  authors: Valdemar Švábenský (Masaryk University); Jan Vykopal (Masaryk University)
+  type: Paper
+
+- title: "Coding or Hacking? Exploring Inaccurate Views on Computing and Computer Scientists among K-6 Learners in Chile"
+  authors: Francisco J. Gutierrez (Department of Computer Science, University of Chile); Jocelyn Simmonds (Department of Computer Science, University of Chile); Cecilia Casanova (REACT Lab, Department of Computer Science, University of Chile); Cecilia Sotomayor (REACT Lab, Department of Computer Science, University of Chile); Nancy Hitschfeld (Department of Computer Science, University of Chile)
+  type: Paper
+
+- title: "Combining Agile Software Development and Service Learning: A Case Study in Experiential IS Education"
+  authors: Spenser Robinson (University of Nebraska Omaha); Margeret Hall (University of Nebraska Omaha)
+  type: Paper
+
+- title: "Comparative Heatmap Visualizations of Student Engagement with Lecture Video and the Instructors Who Love Them"
+  authors: Jinyue Xia (UNC Charlotte); David Wilson (UNC Charlotte)
+  type: Paper
+
+- title: "Computational Thinking for All - An Experience Report on Scaling up Teaching Computational Thinking to All Students in a Major City in Sweden"
+  authors: Fredrik Heintz (Linköping University); Linda Mannila (Linköping University)
+  type: Paper
+
+- title: "Computer Science Curricular Guidance for Associate-Degree Transfer Programs"
+  authors: Cara Tang (Portland Community College); Cindy Tucker (Bluegrass Community and Technical College); Christian Servin (El Paso Community College); Markus Geissler (Cosumnes River College)
+  type: Paper
+
+- title: "Connect the Dots to Prove It"
+  authors: Mark McCartin-Lim (University of Massachusetts at Amherst)
+  type: Paper
+
+- title: "Connecting Colleges/Universities and Local High Schools: A New Model for High School CS Teacher Development"
+  authors: Robin Flatland (Siena College); Ira Goldstein (Siena College); Maryanne L. Egan (Siena College); Scott Vandenberg (Siena College); Meg Fryling (Siena College); Sharon Small (Siena College)
+  type: Paper
+
+- title: "Creativity, Customization, and Ownership: Game Design in Bootstrap:Algebra"
+  authors: Emmanuel Schanzer (Bootstrap); Shriram Krishnamurthi (Brown University); Kathi Fisler (Brown University)
+  type: Paper
+
+- title: "CS for All: Catering to Diversity through Assignment Choices  "
+  authors: Sohail Alhazmi (RMIT University); Margaret Hamilton (RMIT University); Charles Thevathayan (RMIT)
+  type: Paper
+
+- title: "Culturally-Centric Outreach and Engagement for Under-served Groups in STEM"
+  authors: Danielle Cummings (US Air Force Academy); Loretta H Cheeks (Strong TIES); Rosario Robinson (The Anita Borg Institute)
+  type: Paper
+
+- title: "Curriculum-Aligned Work-Integrated Learning: A New Kind of Industry-Academic Degree Partnership"
+  authors: Gail Carmichael (Shopify); Christine Jordan (Shopify); Andrea Ross (Shopify); Alison Evans Adnani (Shopify)
+  type: Paper
+
+- title: "Demonstrating the Ability of Elementary School Students to Reason about Programs"
+  authors: Ashish Aggarwal (UNIVERSITY OF FLORIDA); Christina Gardner-Mccune (University of Florida)
+  type: Paper
+
+- title: "Design and evaluation of an undergraduate course on software development practice"
+  authors: Paul Gestwicki (Ball State University)
+  type: Paper
+
+- title: "Designing an Introductory Programming Course to Improve Non-Majors' Experiences"
+  authors: Jessica Dawson (Department of Computer Science, University of British Columbia); Meghan Allen (Department of Computer Science, University of British Columbia); Alice Campbell (Department of Computer Science, University of British Columbia); Anasazi Valair (Department of Computer Science, University of British Columbia)
+  type: Paper
+
+- title: "Developing Course-Level Learning Goals for Basic Data Structures in CS2"
+  authors: Leo Porter (UC San Diego); Daniel Zingaro (University of Toronto, Mississauga); Cynthia Lee (Stanford University); Cynthia Taylor (University of Illinois at Chicago); Kevin Webb (Swarthmore College); Michael Clancy (University of California, Berkeley)
+  type: Paper
+
+- title: "Developing Software Engineering Skills using Real Tools for Automated Grading"
+  authors: Sarah Heckman (North Carolina State University); Jason King (North Carolina State University)
+  type: Paper
+
+- title: "DIVAS: Outreach to the Natural Sciences through Image Processing"
+  authors: Mark Meysenburg (Doane University); Tessa Durham Brooks (Doane University); Raychelle Burks (St. Edward's University); Erin Doyle (Doane University); Timothy Frey (Doane University)
+  type: Paper
+
+- title: "Diversity Across a Decade: A Case Study on Undergraduate Computing Culture at the University of Illinois"
+  authors: Heather Metcalf (Association for Women in Science); Tanya Crenshaw (New Relic); Erin Chambers (St. Louis University); Cinda Heeren (University of British Columbia)
+  type: Paper
+
+- title: "Diversity-focused Online Professional Development for Community college Computing Faculty: participant motivations and perceptions"
+  authors: Yunjeong Chang (University of Virginia); Leslie Cintron (University of Virginia); Jim Cohoon (University of Virginia); Luther Tychonievich (University of Virginia)
+  type: Paper
+
+- title: "Docendo Discimus: Students Learn by Teaching Peers Through Video"
+  authors: Pablo Frank-Bolton (The George Washington University); Rahul Simha (The George Washington University)
+  type: Paper
+
+- title: "Does Native Language Play a Role in Learning a Programming Language?"
+  authors: Adalbert Gerald Soosai Raj (The University of Wisconsin-Madison); Jignesh Patel (University of Wisconsin); Richard Halverson (The University of Wisconsin-Madison)
+  type: Paper
+
+- title: "Effects of Active Learning Environments in Computer Science Education"
+  authors: Qiang Hao (Western Washington University); Bradley Barnes (University of Georgia); Ewan Wright (University of Hong Kong); Eunjung Kim (Pusan National University)
+  type: Paper
+
+- title: "Effects of Teacher Training in a Computer Science Principles Curriculum on Teacher and Student Skills, Confidence, and Beliefs"
+  authors: Karla Hamlen (Cleveland State University); Nigamanth Sridhar (Cleveland State University); Lisa Bievenue (University of Illinois at Urbana-Champaign); Debbie Jackson (Cleveland State University); Anil Lalwani (Cleveland State University)
+  type: Paper
+
+- title: "Enhanced Robotics! Improving Building and Programming Learning Experiences for Students with Visual Impairments "
+  authors: Stephanie Ludi (University of North Texas); Debra Bernstein (TERC); Karen Mutch-Jones (TERC)
+  type: Paper
+
+- title: "Enhancing Interest in Cybersecurity Careers: A Peer Mentoring Perspective"
+  authors: Vandana Janeja (UMBC, Is Department); Abu Zaher Md Faridee (UMBC, IS Department); Aryya Gangopadhyay Gangopadhyay (UMBC, IS Department); Carolyn Seaman (UMBC, IS Department); Amy Everhart (UMBC, IS Department)
+  type: Paper
+
+- title: "Enhancing Robotic Experiences Throughout the Computing Curriculum"
+  authors: Michael Doran (University of South Alabama); George Clark (University of South Alabama)
+  type: Paper
+
+- title: "Enhancing Security Education Through Designing SDN Security Labs in CloudLab"
+  authors: Younghee Park (San Jose State University); Hongxin Hu (Clemson University); Xiaohong Yuan (North Carolina A&T University); Hongda Li (Clemson University)
+  type: Paper
+
+- title: "Equal Outcomes 4 All: A Study of Student Learning in ECS"
+  authors: Steven McGee (The Learning Partnership); Randi McGee-Tekula (The Learning Partnership); Jennifer Duck (The Learning Partnership); Catherine McGee (The Learning Partnership); Lucia Dettori (DePaul University); Ronald I. Greenberg (Loyola University); Eric Snow (SRI International); Daisy Rutstein (SRI International); Dale Reed (University of Illinois Chicago); Brenda Wilkerson (Chicago Public Schools); Don Yanek (Chicago Public Schools); Andrew Rasmussen (Chicago Public Schools); Dennis Brylow (Marquette University)
+  type: Paper
+
+- title: "Ethics Education in Context: A Case Study of Novel Ethics Activities for the CS Classroom"
+  authors: Michael Skirpan (University of Colorado); Nathan Beard (University of Colorado); Srinjita Bhaduri (University of Colorado); Casey Fiesler (University of Colorado); Tom Yeh (University of Colorado)
+  type: Paper
+
+- title: "Evaluating the Tracing of Recursion in the Substitution Notional Machine"
+  authors: Preston Tunnell Wilson (Brown University); Kathi Fisler (Brown University); Shriram Krishnamurthi (Brown University)
+  type: Paper
+
+- title: "Evaluating the Use of Specification-Based Test Generation in Software Engineering Courses"
+  authors: Gene Fisher (California Polytechnic State University, San Luis Obispo); Corrigan Johnson (California Polytechnic State University, San Luis Obispo)
+  type: Paper
+
+- title: "Evaluating Two Methods for Integrating Secure Programming Education"
+  authors: Madiha Tabassum (University of North Carolina at Charlotte); Stacey Watson (University of North Carolina at Charlotte); Bill Chu (University of North Carolina at Charlotte); Heather Richter Lipford (University of North Carolina at Charlotte)
+  type: Paper
+
+- title: "Examining the Impact of Computational Creativity Exercises on College Computer Science Students’ Learning, Achievement, Self-Efficacy, and Creativity"
+  authors: Markeya Peteranetz (University of Nebraska-Lincoln); Shiyuan Wang (Rowan University); Duane Shell (University of Nebraska-Lincoln); Abraham Flanigan (University of Nebraska-Lincoln); Leen-Kiat Soh (Department of Computer Science and Engineering, University of Nebraska)
+  type: Paper
+
+- title: "Examining the State of CS Education  in Virginia’s High Schools"
+  authors: Chris Rhoton (Georgia Institute of Technology)
+  type: Paper
+
+- title: "Experiences in Teaching the Internet of Things Courses"
+  authors: Farha Ali (Lander University)
+  type: Paper
+
+- title: "Exploring Active Learning Approaches to Computer Science Classes"
+  authors: Ricardo Caceffo (Unicamp); Guilherme Gama (Unicamp); Rodolfo Azevedo (Unicamp)
+  type: Paper
+
+- title: "Exploring Instructional Support in an Educational Game for K-12 Computing Education"
+  authors: Rui Zhi (North Carolina State University); Nicholas Lytle (North Carolina State University); Thomas Price (North Carolina State University)
+  type: Paper
+
+- title: "Fix the First, Ignore the Rest: Dealing with Multiple Compiler Error Messages"
+  authors: Brett Becker (University College Dublin); Kate Sanders (Rhode Island College); Robert McCartney (Department of Computer Science and Engineering, University of Connecticut); Tianyi Tao (Fudan University); Changheng Song (Fudan University); Cormac Murray (University College Dublin)
+  type: Paper
+
+- title: "Flipped Class Effects on Retention after CS1"
+  authors: Celine Latulipe (UNC Charlotte); Audrey Rorrer (UNC Charlotte); Bruce Long (UNC Charlotte)
+  type: Paper
+
+- title: "Formal research experiences for first year students: A key to greater diversity in computing?"
+  authors: Jane Stout (Computing Research Association); Burcin Tamer (Computing Research Association); Christine Alvarado (University of California San Diego)
+  type: Paper
+
+- title: "Future-Oriented Motivation and Retention in Computer Science"
+  authors: Markeya Peteranetz (University of Nebraska-Lincoln); Abraham Flanigan (University of Nebraska-Lincoln); Duane Shell (University of Nebraska-Lincoln); Leen-Kiat Soh (Department of Computer Science and Engineering, University of Nebraska)
+  type: Paper
+
+- title: "Game based Cybersecurity Training for High School Students"
+  authors: Ge Jin (Purdue University Northwest); Manghui Tu (Purdue University Northwest); Tae-Hoon Kim (Purdue University Northwest); Justin Heffron (Purdue University Northwest); Jonathan White (Purdue University Northwest)
+  type: Paper
+
+- title: "Game Development with a Serious Focus"
+  authors: Devorah Kletenik (Brooklyn College, City University of New York); Deborah Sturm (College of Staten Island (CUNY))
+  type: Paper
+
+- title: "GUI-Based vs. Text-Based Assignments in CS1"
+  authors: Robert Ball (Weber State University); Linda Duhadway (Weber State University); Spencer Hilton (Weber State University); Brian Rague (Weber State University)
+  type: Paper
+
+- title: "Helping Underrepresented Students Succeed in AP CSA and Beyond"
+  authors: Barbara Ericson (Georgia Institute of Technology); Tom Mcklin (The Findings Group, LLC)
+  type: Paper
+
+- title: "How Near Peer Mentoring Affects Middle School Mentees"
+  authors: Jody Clarke-Midura (Utah State University); Fred Poole (Utah State University); Katarina Pantic (Utah State University); Megan Hamilton (Utah State University); Vincent Sun (Utah State University); Vicki Allan (Utah State University)
+  type: Paper
+
+- title: "Implementing Malloc: Students and System Programming"
+  authors: Brian Railing (Carnegie Mellon University); Randal Bryant (Carnegie Mellon University)
+  type: Paper
+
+- title: "Improving Classroom Preparedness Using Guided Practice"
+  authors: Saturnino Garcia (University of San Diego)
+  type: Paper
+
+- title: "Improving Research and Experience Reports of Pre-College Computing Activities: A Gap Analysis"
+  authors: Monica McGill (Knox College); Adrienne Decker (Rochester Institute of Technology); Zachary Abbott (Bradley University)
+  type: Paper
+
+- title: "Including Coding Questions in Video Quizzes for a Flipped CS1"
+  authors: Lisa Lacher (University of Houston - Clear Lake); Albert Jiang (Trinity University); Yu Zhang (Trinity University); Mark Lewis (Trinity University)
+  type: Paper
+
+- title: "Incorporating Computational Thinking in the Classrooms of Puerto Rico: How a MOOC served as an outreach and recruitment tool for Computer Science Education"
+  authors: Patricia Ordóñez (University of Puerto Rico Río Piedras Campus); Joseph Carroll Miranda (University of Puerto Rico Río Piedras Campus); María López Delgado (University of Puerto Rico Río Piedras Campus); Eliud Gerena López (University of Puerto Rico Río Piedras Campus); Grace Rodríguez Gómez (University of Puerto Rico Río Piedras Campus)
+  type: Paper
+
+- title: "Increasing Student Self-Efficacy in Computational Thinking via STEM Outreach Programs"
+  authors: Russell Feldhausen (Kansas State University); Joshua Levi Weese (Kansas State University); Nathan H. Bean (Kansas State University)
+  type: Paper
+
+- title: "Informal Mentoring of Adolescents about Computing: Relationships, Roles, Qualities, and Impact"
+  authors: Andrew Ko (University of Washington); Leanne Hwa (University of Washington); Katie Davis (University of Washington); Jason Yip (University of Washington)
+  type: Paper
+
+- title: "Instructional Design + Knowledge Components: A Systematic Method for Refining Instruction"
+  authors: Luke Gusukuma (Virginia Tech); Austin Cory Bart (Virginia Tech); Dennis Kafura (Virginia Tech)
+  type: Paper
+
+- title: "Integrating A Career Preparedness Module into CS2 Curricula Through The Teaching C++ and Java Side-by-Side"
+  authors: Ryan Rybarczyk (Indiana University-Purdue University Indianapolis); Lingma Acheson (Indiana University-Purdue University Indianapolis)
+  type: Paper
+
+- title: "Integrating Project Based Learning and Project Management for Software Engineering Teaching: An Experience Report"
+  authors: Maria Lydia Fioravanti (University of São Paulo); Bruno Sena (University of São Paulo); Leo Natan Paschoal (University of São Paulo); Laíza Ribeiro Silva (University of São Paulo); Ana Paula Allian (University of São Paulo); Elisa Yumi Nakagawa (University of São Paulo); Simone Rocio Senger de Souza (University of São Paulo); Seiji Isotani (University of São Paulo); Ellen Francine Barbosa (University of São Paulo)
+  type: Paper
+
+- title: "Introducing Computational Thinking through Non-Programming Science Activities"
+  authors: Youwen Ouyang (California State University San Marcos); Katherine Hayden (California State University San Marcos); Julie Remold (SRI)
+  type: Paper
+
+- title: "Introducing the Computer Science Concept of Variables in Middle School Science Classrooms"
+  authors: Philip Buffum (North Carolina State University); Kimberly Price (University of Florida); Xiaoxi Zheng (University of Florida); Kristy Boyer (University of Florida); Eric Wiebe (North Carolina State University); Bradford Mott (North Carolina State University); David Blackburn (University of Florida); James Lester (North Carolina State University)
+  type: Paper
+
+- title: "Key Concepts for a Data Science Ethics Curriculum"
+  authors: Jeffrey Saltz (Syracuse University); Neil Dewar (Syracuse University); Robert Heckman (Syracuse University)
+  type: Paper
+
+- title: "Lightweight Techniques to Support Students in Large Classes"
+  authors: Mia Minnes (UC San Diego); Christine Alvarado (UC San Diego); Leo Porter (UC San Diego)
+  type: Paper
+
+- title: "Looking Beyond Representation: How Women’s Perceptions of Leadership Change During the Introductory Computing Course"
+  authors: Jennifer Blaney (UCLA)
+  type: Paper
+
+- title: "Low-Cost Programmable Air Quality Sensor Kits in Science Education"
+  authors: Bjørn Fjukstad (UiT The Arctic University of Norway); Nina Angelvik (UiT The Arctic University of Norway); Maria Wulff Hauglann (UiT The Arctic University of Norway); Joachim Sveia Knutsen (Kongsbakken Videregående Skole); Morten Grønnesby (UiT The Arctic University of Norway); Hedinn Gunhildrud (Science Centre of Northern Norway); Lars Ailo Bongo (UiT The Arctic University of Norway)
+  type: Paper
+
+- title: "Map-based Algorithm Visualization with METAL Highway Data"
+  authors: James Teresco (Siena College); Razieh Fathi (University at Buffalo); Lukasz Ziarek (SUNY Buffalo); Mariarose Bamundo (Siena College); Arjol Pengu (Siena College); Clarice Tarbay (Siena College)
+  type: Paper
+
+- title: "Mixed approaches to CS0: Exploring topic and pedagogy variance after six years of CS0"
+  authors: Zoe Wood (Cal Poly - San Luis Obispo); John Clements (Cal Poly - San Luis Obispo); Zachary Peterson (Cal Poly - San Luis Obispo); David Janzen (Cal Poly - San Luis Obispo); Hugh Smith (Cal Poly - San Luis Obispo); Michael Haungs (Cal Poly - San Luis Obispo); Julie Workman (Cal Poly - San Luis Obispo); John Bellardo (Cal Poly - San Luis Obispo); Bruce Debruhl (Cal Poly - San Luis Obispo)
+  type: Paper
+
+- title: "Models for Early Identification of Struggling Novice Programmers"
+  authors: Jonathan Munson (Manhattanville College); Josh Zitovsky (Manhattanville College)
+  type: Paper
+
+- title: "MRS: Automated assessment of interactive classroom exercises"
+  authors: Debzani Deb (Winston-salem state university); Muztaba Fuad (Winston-Salem State University); James Etim (Winston-salem state university); Clay Gloster (NC A&T State University)
+  type: Paper
+
+- title: "Novice programmers' reasoning about reversing conditional statements"
+  authors: Cruz Izu (The University of Adelaide); Claudio Mirolo (University of Udine); Amali Weerasinghe (The University of Adelaide)
+  type: Paper
+
+- title: "On the use of semantic-based AIG to automatically generate programming exercises"
+  authors: Laura Zavala (Medgar Evers College, CUNY); Benito Mendoza (City College of Technology, CUNY)
+  type: Paper
+
+- title: "On the Use of Virtual Machine Introspection for OS Kernel Security Education"
+  authors: Manish Bhatt (University of New Orleans); Irfan Ahmed (University of New Orleans); Zhiqiang Lin (University of Texas at Dallas)
+  type: Paper
+
+- title: "Portable Parallel Computing with the Raspberry Pi"
+  authors: Suzanne Matthews (United States Military Academy); Joel Adams (Calvin College); Richard Brown (St. Olaf College); Elizabeth Shoop (Macalester College)
+  type: Paper
+
+- title: "Priming the Pump: Reflections on Training K5 Teachers In Computer Science"
+  authors: Michele Roberts (Indiana University); Kiki Prottsman (Code.org); Jeff Gray (University of Alabama)
+  type: Paper
+
+- title: "Programming the Central Dogma: An Integrated Unit on Computer Science and Molecular Biology Concepts"
+  authors: Anna Ritz (Reed College)
+  type: Paper
+
+- title: "Providing Meaningful Feedback for Autograding of Programming Assignments"
+  authors: Georgiana Haldeman (Rutgers University); Monica Babes-Vroman (Rutgers University); Stephen Bartos (Rutgers University); Jay Shah (Rutgers University); Danielle Yucht (Rutgers University); Andrew Tjang (Rutgers University); Thu Nguyen (Rutgers University)
+  type: Paper
+
+- title: "PVC: Visualizing Memory Space on Web Browsers for C Novices"
+  authors: Ryosuke Ishizue (Department of Computer Science and Engineering, Waseda University); Kazunori Sakamoto (National Institute of Informatics); Hironori Washizaki (Waseda University); Yoshiaki Fukazawa (Waseda University)
+  type: Paper
+
+- title: "Python versus C++: An analysis of student struggle on small coding exercises in introductory programming courses"
+  authors: Nabeel Alzahrani (Univ. of California, Riverside); Frank Vahid (Univ. of California, Riverside); Alex Edgcomb (Univ. of California, Riverside); Roman Lysecky (Univ. of Arizona); Kevin Nguyen (UCR)
+  type: Paper
+
+- title: "Quantified Self: An Interdisciplinary Immersive Theater Project Supporting a Collaborative Learning Environment for CS Ethics"
+  authors: Michael Skirpan (University of Colorado); Jacqueline Cameron (University of Colorado Boulder); Tom Yeh (University of Colorado)
+  type: Paper
+
+- title: "Quantifying the Benefits of Prior Programming Experience in an Introductory Computer Science Course"
+  authors: Christopher Wilcox (Colorado State University); Albert Lionelle (Colorado State University)
+  type: Paper
+
+- title: "Quick-Sort: A Pet Peeve"
+  authors: Arthur Nunes-Harwitt (RIT); Matt Gambogi (Apple, Inc.); Travis Whitaker (Alphasheets, Inc.)
+  type: Paper
+
+- title: "Recommendations of a Diversity, Equity, and Inclusion Working Group based on Student Data from a National CS Education Program "
+  authors: Nwannediya Ada Ibe (TEALS); Rebecca Howsmon (TEALS); Lauren Penney (TEALS); Nathaniel Granor (TEALS); Leigh Ann Delyser (CSNYC); Kevin Wang (TEALS)
+  type: Paper
+
+- title: "Reconciling the Promise and Pragmatics of Enhancing Computing Pedagogy with Data Science"
+  authors: Austin Bart (Virginia Tech); Dennis Kafura (Virginia Tech); Cliff Shaffer (Virginia Tech); Eli Tilevich (Virginia Tech)
+  type: Paper
+
+- title: "Recursion or Iteration: Does it Matter What Students Choose?"
+  authors: Ramy Esteero (University of Toronto Mississauga); Mohammed Khan (University of Toronto Mississauga); Mohamed Mohamed (University of Toronto Mississauga); Larry Yueli Zhang (University of Toronto Mississauga); Daniel Zingaro (University of Toronto Mississauga)
+  type: Paper
+
+- title: "Reflections on 17 years of ICT capstone project coordination: effective strategies for managing clients, teams and assessment"
+  authors: Nicole Herbert (University of Tasmania)
+  type: Paper
+
+- title: "Scratch Microworlds:  Designing Project-Based Introductions to Coding"
+  authors: Moran Tsur (Massachusetts Institute of Technology); Natalie Rusk (Massachusetts Institute of Technology)
+  type: Paper
+
+- title: "Scrumage: A method for incorporating multiple, simultaneous pedagogical styles in the classroom"
+  authors: Shannon Duvall (Elon University); Dugald Hutchings (Elon University); Robert Duvall (Duke University)
+  type: Paper
+
+- title: "Social Help-seeking Strategies in a Programming MOOC"
+  authors: Matti Nelimarkka (Helsinki Institute of Information Technology HIIT, Aalto University); Arto Hellas (University of Helsinki)
+  type: Paper
+
+- title: "Social Software Design to Facilitate Service-learning in Interdisciplinary Computer Science Courses"
+  authors: Brian Thoms (CSU Channel Islands); Evren Eryilmaz (CSU Sacramento)
+  type: Paper
+
+- title: "Sound Design for Video Games: An Interdisciplinary Course for Computer Science and Art Students"
+  authors: Richert Wang (University of California, Santa Barbara); Vincent Olivieri (University of California, Irvine)
+  type: Paper
+
+- title: "Strategies for basing the CS theory course on non-decision problems"
+  authors: John MacCormick (Dickinson College)
+  type: Paper
+
+- title: "Student Misconceptions of Dynamic Programming"
+  authors: Shamama Zehra (University of Toronto Mississauga); Aishwarya Ramanathan (University of Toronto Mississauga); Larry Yueli Zhang (University of Toronto Mississauga); Daniel Zingaro (University of Toronto Mississauga)
+  type: Paper
+
+- title: "Subgoal Labeled Worked Examples in K-3 Education"
+  authors: Johanna Joentausta (University of Helsinki); Arto Hellas (University of Helsinki)
+  type: Paper
+
+- title: "Supporting differentiated instruction in programming classes through permanent progress monitoring"
+  authors: Nuno Gil Fonseca (CISUC / ESTGOH); Luis Macedo (University of Coimbra); António Mendes (University of Coimbra)
+  type: Paper
+
+- title: "Supporting Self-Regulated Learning with Visualizations in Online Learning Environments"
+  authors: Kalle Ilves (University of Helsinki); Juho Leinonen (University of Helsinki); Arto Hellas (University of Helsinki)
+  type: Paper
+
+- title: "Teaching Cyber Security Using Competitive Software Obfuscation and Reverse Engineering Activities"
+  authors: Muhammad Rizwan Asghar (The University of Auckland); Andrew Luxton-Reilly (The University of Auckland)
+  type: Paper
+
+- title: "Teaching Inclusive Thinking to Undergraduate Students in Computing Programs"
+  authors: Stephanie Ludi (University of North Texas); Matt Huenerfauth (Rochester Institute of Technology); Vicki Hanson (Rochester Institute of Technology); Nidhi Palan (Rochester Institute of Technology); Paula Garcia (Rochester Institute of Technology)
+  type: Paper
+
+- title: "Teaching NoSQL Databases to Undergraduate Students - A Novel Approach"
+  authors: Sriram Mohan (Rose-Hulman Institute of Technology)
+  type: Paper
+
+- title: "The Components of a Successful S-STEM Program: What Works at XXXXXXX"
+  authors: Rahman Tashakkori (Appalachian State University); Cindy Norris (Appalachian State University); Mary E. Searcy (Appalachian State University)
+  type: Paper
+
+- title: "The Computational Algorithmic Thinking (CAT) Tree: A methodological approach to articulating complex cognitive skills and capabilities over time"
+  authors: Jakita Thomas (Auburn University)
+  type: Paper
+
+- title: "The effect of a web-based coding tool with automatic feedback on students' performance and perceptions"
+  authors: Luciana Benotti (Universidad Nacional de Cordoba); Federico Aloi (Universidad Nacional de Quilmes); Franco Bulgarelli (Mumuki Org); Marcos J Gómez (Universidad Nacional de Córdoba)
+  type: Paper
+
+- title: "The Effect of Reporting Known Issues on Students’ Work"
+  authors: Iris Gaber (mta.ac.il); Amir Kirsh (Academic College of Tel-Aviv-Yaffo)
+  type: Paper
+
+- title: "The Effects of Enhanced Compiler Error Messages on a Syntax Error Debugging Test"
+  authors: Brett Becker (University College Dublin); Kyle Goslin (CCT College Dublin); Graham Glanville (CCT College Dublin)
+  type: Paper
+
+- title: "The Importance of Producing Shared Code through Pair Programming"
+  authors: Mehmet Celepkolu (University of Florida); Kristy Elizabeth Boyer (University of Florida)
+  type: Paper
+
+- title: "The Persistent Effect of Pre-College Computing Experience on College CS Course Grades"
+  authors: Christine Alvarado (UC San Diego); Gustavo Umbelino (UC San Diego); Mia Minnes (UC San Diego)
+  type: Paper
+
+- title: "Thematic Analysis of Novice Students' Reflections on Pair Programming"
+  authors: Mehmet Celepkolu (University of Florida); Kristy Elizabeth Boyer (University of Florida)
+  type: Paper
+
+- title: "Timely Feedback in Unstructured Cybersecurity Exercises"
+  authors: Jan Vykopal (Masaryk University, Institute of Computer Science); Radek Ošlejšek (Masaryk University, Faculty of Informatics); Karolína Burská (Masaryk University, Faculty of Informatics); Kristína Zákopčanová (Masaryk University, Faculty of Informatics)
+  type: Paper
+
+- title: "Tracing vs. Writing Code: Beyond the Learning Hierarchy"
+  authors: Brian Harrington (University of Toronto Scarborough); Nick Cheng (University of Toronto Scarborough)
+  type: Paper
+
+- title: "Two-Stage Programming Projects: Individual Work Followed by Peer Collaboration"
+  authors: Apeksha Awasthi (North Carolina State University); Lina Battestilli (North Carolina State University); Paul Cao (University of California San Diego)
+  type: Paper
+
+- title: "Understanding computing in a hybrid world, on the undergraduate curricula Front-End Development"
+  authors: Laura Benvenuti (Hogeschool van Amsterdam); Eric Barendsen (Open Universiteit); Johan Versendaal (Open Universiteit)
+  type: Paper
+
+- title: "Understanding Professional Identities and Goals of Computer Science Undergraduate Students"
+  authors: Amanpreet Kapoor (University of Florida); Christina Gardner-Mccune (University of Florida)
+  type: Paper
+
+- title: "Understanding the New ABET Computer Science Criteria"
+  authors: Michael Oudshoorn (Northwest Missouri State University); Stan Thomas (Wake Forest University); Rajendra Raj (Rochester Institute of Technology); Allen Parrish (United States Naval Academy)
+  type: Paper
+
+- title: "Understanding the Software Development Industry’s Perspective on Coding Boot Camps versus Traditional 4-year Colleges"
+  authors: Quinn Burke (College of Charleston, SC); Cinamon Bailey (College of Charleston, SC); Louise Ann Lyon (ETR Associates); Emily Green (ETR Associates)
+  type: Paper
+
+- title: "Unencapsulated Collection - A Teachable Design Smell"
+  authors: Giuseppe De Ruvo (Department of Electrical and Computer Engineering, The University of Auckland); Ewan Tempero (The University of Auckland); Andrew Luxton-Reilly (University of Auckland); Nasser Giacaman (The University of Auckland)
+  type: Paper
+
+- title: "Updating Introductory Computer Science with Creative Computation"
+  authors: Dianna Xu (Bryn Mawr College); Ursula Wolz (Bennington College); Deepak Kumar (Bryn Mawr College); Ira Greenberg (Southern Methodist University)
+  type: Paper
+
+- title: "Upward Mobility for Underrepresented Students: A Model for a Cohort-Based Bachelor’s Degree in Computer Science"
+  authors: Sathya Narayanan (California State University Monterey Bay); Kathryn Cunningham (Georgia Institute of Technology, California State University Monterey Bay); Sonia Arteaga (Hartnell College); Joe Welch (Central Texas College, Hartnell College); Leslie Maxwell (California State University Monterey Bay); Zechariah Chawinga (California State University Monterey Bay); Bude Su (California State University Monterey Bay)
+  type: Paper
+
+- title: "Using a computer-based testing facility to improve student learning in a programming languages and compilers course"
+  authors: Terence Nip (University of Illinois at Urbana-Champaign); Elsa Gunter (University of Illinois at Urbana-Champaign); Geoffrey Herman (University of Illinois at Urbana-Champaign); Jason Morphew (University of Illinois at Urbana-Champaign); Matthew West (University of Illinois at Urbana-Champaign)
+  type: Paper
+
+- title: "Using Music to Engage Students in an Introductory Undergraduate Programming Course for Non-Majors"
+  authors: Sebastien Siva (Georgia Gwinnett College); Tacksoo Im (Georgia Gwinnett College); Tom McKlin (The Findings Group); Jason Freeman (Georgia Institute of Technology); Brian Magerko (Georgia Institute of Technology)
+  type: Paper
+
+- title: "Using Online Practice Spaces to Investigate Challenges in Enacting Principles of Equitable Computer Science Teaching"
+  authors: Kevin Robinson (MIT Teaching Systems Lab); Justin Reich (MIT Teaching Systems Lab)
+  type: Paper
+
+- title: "Using programming assignment work patterns to understand excessive collaboration in large CS classes"
+  authors: Lisa Yan (Stanford University); Nick McKeown (Stanford University); Chris Piech (Stanford University)
+  type: Paper
+
+- title: "Visualization, Assessment and Analytics in Data Structures Learning Modules"
+  authors: Matthew Mcquaigue (The University of North Carolina at Charlotte); David Burlinson (The University of  North  Carolina at Charlotte); Kalpathi Subramanian (The University of  North Carolina at Charlotte); Erik Saule (The University of  North Carolina at Charlotte); Jamie Payton (Temple University)
+  type: Paper
+
+- title: "What We Can Learn About Student Learning From Open-Ended Programming Projects in Middle School Computer Science"
+  authors: Shuchi Grover (ACT Next); Satabdi Basu (SRI international); Patricia Schank (SRI international)
+  type: Paper
+
+- title: "Who Teaches Accessibility? A Survey of U.S. Computing Faculty"
+  authors: Kristen Shinohara (Rochester Institute of Technology); Saba Kawas (University of Washington); Andrew J. Ko (University of Washington); Richard E. Ladner (University of Washington)
+  type: Paper
+
+- title: "2018 Panel of Computing Students with Disabilities"
+  authors: Richard Ladner (University of Washington)
+  type: Panel
+
+- title: "Alternative Paths to Computing Careers and Their Role in Broadening Participation"
+  authors: Kathleen J. Lehman (University of California, Los Angeles); Maureen Doyle (Northern Kentucky University); Louise Ann Lyon (ETR); Kyle Thayer (University of Washington, Seattle); Colleen Lewis (Harvey Mudd College)
+  type: Panel
+
+- title: "AP Computer Science Principles – Are You Ready?"
+  authors: Paul Tymann (RIT); Dale Reed (University of Illinois at Chicago); Chinma Uche (Academy of Aerospace and Engineering); Carl Yarbrough (Alabama School of Fine Arts)
+  type: Panel
+
+- title: "AP Computer Science: Two Complementary Courses"
+  authors: Crystal Furman (The College Board); Timothy Gallagher (Winter Springs High School); Richard Kick (Newbury Park High School)
+  type: Panel
+
+- title: "Best Practices in Academia To Remedy Gender Bias in Tech"
+  authors: Ursula Wolz (Bennington College); Lina Battestilli (North Carolina State University); Bruce Maxwell (Colby College); Susan Rodger (Duke University); Michelle Trim (University of Massachusetts)
+  type: Panel
+
+- title: "Code Crafters Curriculum: A Textile Crafts Approach To Computer Science"
+  authors: Ursula Wolz (Bennington College); Gwen Charles (Textile Study Group of New York); Laura Feire (RiverSound Solutions, LLC); Eleanor Nicolson (Grinnell College)
+  type: Panel
+
+- title: "CS4NC Summit 2017: Lessons Learned in Developing a Coordinated Statewide CS For All Initiative"
+  authors: Dave Frye (The Friday Institute for Educational Innovation); Mary Lou Maher (University of North Carolina at Charlotte); Deborah Seehorn (Computer Science Teachers Association); Sam Morris (The Friday Institute for Educational Innovation)
+  type: Panel
+
+- title: "Fostering Meaningful Collaboration in an Interdisciplinary Capstone Course"
+  authors: Liz Hutter (Valparaiso University); Halcyon Lawrence (Georgia Institute of Technology); Melinda McDaniel (Georgia Institute of Technology); Marguerite Murrell (Georgia Institute of Technology)
+  type: Panel
+
+- title: "Holistic Approaches to Computer Science"
+  authors: John Barr (Ithaca College); Ali Erkan (Ithaca College); Valerie Barr (Mount Holyoke College); Michael Goldweber (Xavier University); Deepak Kumar (Bryn Mawr College)
+  type: Panel
+
+- title: "Integrating Social Good into CS Education"
+  authors: Douglas Fisher (Vanderbilt University); Jacqueline Cameron (University of Colorado, Boulder); Tamara Clegg (University of Maryland, College Park); Stephanie August (National Science Foundation)
+  type: Panel
+
+- title: "Leveraging the Raspberry Pi for CS Education"
+  authors: Joel Adams (Calvin College); Richard Brown (St Olaf College); Jalal Kawash (University of Calgary); Suzanne Matthews (US Military Academy); Elizabeth Shoop (Macalester College)
+  type: Panel
+
+- title: "Maryland Computing Education Expansion: From Grassroots to the MCCE"
+  authors: Jan Plane (University of Maryland College Park); Rebecca Zarch (SageFox Consulting Group); Dianne O'Grady-Cunniff (Charles County Public Schools); Scott Nichols (Maryland State Department of Education); Pat Yongpradit (Code.org); Marie desJardins (University of Maryland, Baltimore County)
+  type: Panel
+
+- title: "Perfect Harmony: Team Teaching Computing & Music "
+  authors: James Caristi (Valparaiso University); Jesse Heines (Univ. of Massachusetts Lowell); Aaron Koehl (College of William & Mary); Richard Weiss (The Evergreen State College)
+  type: Panel
+
+- title: "Preparing, Visualizing, and Using Real-world Data in Introductory Courses"
+  authors: Austin Cory Bart (Virginia Tech); Kalpathi Subramanian (The University of North Carolina at Charlotte); Ruth E. Anderson (University of Washington); Nadeem Abdul Hamid (Berry College)
+  type: Panel
+
+- title: "Rising CS Enrollments: Meeting the Challenges"
+  authors: Eric Roberts (Stanford University); Tracy Camp (Colorado School of Mines); David Culler (University of California, Berkeley); Charles Isbell (Georgia Institute of Technology); Jodi Tims (Baldwin Wallace University)
+  type: Panel
+
+- title: "Team-Teaching with Colleagues in the Arts and Humanities"
+  authors: Keith O'Hara (Bard College); Sven Anderson (Bard College); David Musicant (Carleton College); Amber Stubbs (Simmons College); Thomas Way (Villanova University)
+  type: Panel
+
+- title: "Technology We Can’t Live Without!, revisited"
+  authors: Ria Galanos (Thomas Jefferson High School for Science and Technology); Michael Ball (University of California, Berkeley); John Dougherty (Haverford College); Joe Hummel (University of Illinois, Chicago); David Malan (Harvard University)
+  type: Panel
+
+- title: "The Authentic Inclusion and Role of Community Colleges in National Efforts to Broaden Participation in Computing"
+  authors: Amardeep Kahlon (Austin Community College); Deborah Boisvert (University of Massachusetts, Boston); Louise Ann Lyon (Education, Training and Research); Melanie Williamson (Bluegrass Community and Technical College System)
+  type: Panel
+
+- title: "The role of Researcher-Practitioner Partnerships in CS4All: Lessons from the Field"
+  authors: Lucia Dettori (DePaul University); Don Yanek (Chicago Public Schools); Helen Hu (Westminster College); Dennis Brylow (Marquette University)
+  type: Panel
+
+- title: "Writing in CS: Why and How?"
+  authors: Mia Minnes (UC San Diego); Bruce Maxwell (Colby College); Stephanie Taylor (Colby College); Phillip Barry (University of Minnesota)
+  type: Panel
+
+- title: "Asking \"CS4What?\" as a Basis for CS4All: Workshop Tools to Support Sustainable K-12 CS Implementations"
+  authors: Rafi Santo (New York University); Sara Vogel (City University of New York); Leigh Ann Delyser (New York City Foundation for Computer Science Education); June Ahn (New York University)
+  type: Special Session
+
+- title: "Connecting Evaluation and Computing Education Research: Why is it so Important?"
+  authors: Adrienne Decker (Rochester Institute of Technology); Monica M McGill (Knox College); Jason Ravitz (Google, Inc.); Eric Snow (SRI International); Rebecca Zarch (SageFox Consulting Group)
+  type: Special Session
+
+- title: "CS as a Graduation Requirement: A Catalyst for Systemic Change"
+  authors: Lucia Dettori (DePaul University); Ron Greenberg (The Learning Partnership); Steven Mcgee (The Learning Partnership); Dale Reed (University of Illinois at Chicago); Brenda Wilkerson (Chicago Public Schools); Don Yanek (Chicago Public Schools)
+  type: Special Session
+
+- title: "Draft Report of the SIGCSE Committee on Computing Education in the Liberal Arts"
+  authors: Doug Baldwin (SUNY Geneseo)
+  type: Special Session
+
+- title: "Evaluating CS4All Initiatives—Challenges and Opportunities"
+  authors: Cheri Fancsali (Research Alliance for New York City Schools); Wendy Martin (Education Development Center); Linda Tigani (Research Alliance for New York City Schools)
+  type: Special Session
+
+- title: "Five Slides About: Abstraction, Arrays, Uncomputability, Networks, Digital Portfolios, and CS Principles Explore Performance Task"
+  authors: Colleen Lewis (Harvey Mudd College); Leslie Aaronson (NCWIT); Eric Allatta (Academy for Software  Engineering); Zachary Dodds (Harvey Mudd College); Jeffrey Forbes (Duke University); Kyla McMullen (University of Florida); Mehran Sahami (Stanford University)
+  type: Special Session
+
+- title: "How am I Going to Grade All These Assignments? Thinking About Rubrics in the Large"
+  authors: John Cigas (Park University); Adrienne Decker (Rochester Institute of Technology); Crystal Furman (The College Board); Timothy Gallagher (Winter Springs High School)
+  type: Special Session
+
+- title: "IT2017 Report: Implementing A Competency-Based Information Technology Program"
+  authors: Mihaela Sabin (University of New Hampshire); John Impagliazzo (Hofstra University); Hala Alrumaih (Al Imam Mohammad Ibn Saud Islamic University); Cara Tang (Portland Community College); Ming Zhang (Peking University)
+  type: Special Session
+
+- title: "NSF/IEEE-TCPP Curriculum Initiative on Parallel and Distributed Computing – Status Report"
+  authors: Sushil Prasad (Georgia State University); Charles Weems (University of Massachusetts); John Dougherty (Haverford College); Deb Debzani (Winston-Salem State University)
+  type: Special Session
+
+- title: "Repositories You Shouldn't Be Living Without"
+  authors: Adrienne Decker (Rochester Institute of Technology); Monica M McGill (Knox College); Leigh Ann Delyser (CSforAllConsortium); Beth Quinn (NCWIT); Miles Berry (University of Roehampton); Kathy Haynie (Haynie Research and Evaluation); Tom McKlin (The Findings Group)
+  type: Special Session
+
+- title: "SIGCSE Filk Circle: Computing in Verse"
+  authors: John P. Dougherty (Haverford College); Pat Virtue (University of California, Berkeley); Steven A. Wolfman (University of British Columbia)
+  type: Special Session
+
+- title: "Special Session:  Joint Task Force on Cybersecurity Education"
+  authors: Diana Burley (The George Washington University); Matt Bishop (University of California at Davis); Siddharth Kaza (Towson University); Scott Buck (Intel); Allen Parrish (US Naval Academy); David Gibson (US Air Force Academy); Herbert Mattord (Kennesaw State University)
+  type: Special Session
+
+- title: "Special Session: Exploring and Discovering  Concepts via POGIL"
+  authors: Helen Hu (Westminster College); Clifton Kussmaul (Muhlenberg College); Lisa Olivieri (Chestnut Hill College)
+  type: Special Session
+
+- title: "Striving for Excellence in Introductory Computer Science Courses Using Culturally Responsive Teaching (CRT)"
+  authors: Alla Webb (Montgomery College); Ray Gonzales (Montgomery College)
+  type: Special Session
+
+- title: "The CECE Report: Creating a Map of Informatics in European Schools"
+  authors: Michael Caspersen (Aarhus University); Judith Gal-Ezer (The Open University of Israel); Enrico Nardelli (Univ. Roma Tor Vergata); Jan Vahrenhold (Department of Computer Science, Westfälische Wilhelms-Universität Münster); Mirko Westermeier (Department of Computer Science, Westfälische Wilhelms-Universität Münster)
+  type: Special Session
+
+- title: "What Would You Say if... Responding to Microaggressions, Bias, and Other Nonsense"
+  authors: Colleen Lewis (Harvey Mudd College); Catherine Ashcraft (NCWIT); Kyla McMullen (University of Florida)
+  type: Special Session
