@@ -131,9 +131,9 @@ NOTE: Registration is unvailable from Feb 14-Feb 20.
 
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Workshop Registration Rates </div>
-    <div class = "col-sm-2"> Early - Jan 7 </div>
-    <div class = "col-sm-2"> Advance - Jan 21 </div>
-    <div class = "col-sm-2"> Late/Onsite </div>
+    <div class = "col-sm-2"> Early: before Jan 15 </div>
+    <div class = "col-sm-2"> Advance: Jan 16-Feb 13 </div>
+    <div class = "col-sm-2"> Late/Onsite: Feb 21-23 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
     <div class = "col-sm-6"> All Attendees </div>
@@ -183,7 +183,8 @@ Deadline: February 1, 2017<br>
 Address: 301 West Lombard St  Baltimore, Maryland 21201
 
 #### Hyatt Regency Baltimore Inner Harbor
-How to Book: [Hyatt Regency Baltimore Online Booking](https://aws.passkey.com/go/SIGCSE2018)<br>
+How to Book: Due to some booking issues, the link is currently down.<br>
+<!-- [Hyatt Regency Baltimore Online Booking](https://aws.passkey.com/go/SIGCSE2018) -->
 Nightly Rate: $149 + tax<br>
 Deadline: February 1, 2017<br>
 Address: 300 Light Street, Baltimore, MD 21202, USA
