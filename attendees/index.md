@@ -74,9 +74,9 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Registration Rates </div>
-    <div class = "col-sm-2"> Early - Jan 7 </div>
-    <div class = "col-sm-2"> Advance - Jan 21 </div>
-    <div class = "col-sm-2"> Late/Onsite </div>
+    <div class = "col-sm-2"> Early: before Jan 15 </div>
+    <div class = "col-sm-2"> Advance: Jan 16-Feb 13 </div>
+    <div class = "col-sm-2"> Late/Onsite: Feb 21-23 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
     <div class = "col-sm-6"> Student* </div>
@@ -122,6 +122,8 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 </div>
 
 *Must be or become a member to receive this rate
+
+NOTE: Registration is unvailable from Feb 14-Feb 20.
 
 <div class = "row" style = "padding-bottom: 5;">&nbsp;</div>
 
