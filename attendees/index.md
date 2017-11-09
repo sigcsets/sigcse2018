@@ -183,8 +183,8 @@ Deadline: February 1, 2017<br>
 Address: 301 West Lombard St  Baltimore, Maryland 21201
 
 #### Hyatt Regency Baltimore Inner Harbor
-How to Book: Due to some booking issues, the link is currently down.<br>
-<!-- [Hyatt Regency Baltimore Online Booking](https://aws.passkey.com/go/SIGCSE2018) -->
+How to Book: [Hyatt Regency Baltimore Online Booking](https://aws.passkey.com/gt/212834873?gtid=ca0950f50f717ddac623650c685f43c1)<br>
+__NOTE:__ At this time, we have sold out of rooms on the 19th and the 20th within our block.  If attendees try and add those nights, our room rate will not show as available.<br>
 Nightly Rate: $149 + tax<br>
 Deadline: February 1, 2017<br>
 Address: 300 Light Street, Baltimore, MD 21202, USA
