@@ -173,26 +173,26 @@ Note: If you try to book online and do not see any rooms available at your prefe
 #### Sheraton Inner Harbor
 How to Book: [Sheraton Inner Harbor Online Booking](https://www.starwoodmeeting.com/events/start.action?id=1708268943&key=14D6CE04)<br>
 Room Rate: $169 + tax<br>
-Deadline: February 1, 2017<br>
+Deadline: February 1, 2018<br>
 Address: 300 South Charles Street, Baltimore, MD. 21201
 
 #### Holiday Inn Inner Harbor – Baltimore Downtown
 How to Book: [Holiday Inn Online Booking](https://www.ihg.com/holidayinn/hotels/us/en/baltimore/baldt/hoteldetail?qAdlt=1&qBrs=6c.hi.ex.rs.ic.cp.in.sb.cw.cv.ul.vn.ki.sp.nd.ct&qChld=0&qFRA=1&qGRM=0&qGrpCd=ACM&qIta=99801505&qPSt=0&qRRSrt=rt&qRef=df&qRms=1&qRpn=1&qRpp=20&qSHp=1&qSmP=3&qSrt=sDD&qWch=0&srb_u=1&icdv=99801505) and use group code __ACM__ or call 1-800-HOLIDAY or direct 410-685-3500 and use group code __ACM__<br>
 Nightly Rate: $149 + tax<br>
-Deadline: February 1, 2017<br>
+Deadline: February 1, 2018<br>
 Address: 301 West Lombard St  Baltimore, Maryland 21201
 
 #### Hyatt Regency Baltimore Inner Harbor
 How to Book: [Hyatt Regency Baltimore Online Booking](https://aws.passkey.com/gt/212834873?gtid=ca0950f50f717ddac623650c685f43c1)<br>
 __NOTE:__ At this time, we have sold out of rooms on the 19th and the 20th within our block.  If attendees try and add those nights, our room rate will not show as available.<br>
 Nightly Rate: $149 + tax<br>
-Deadline: February 1, 2017<br>
+Deadline: February 1, 2018<br>
 Address: 300 Light Street, Baltimore, MD 21202, USA
 
 #### Marriott Inner Harbor
 How to Book: [Marriott Online Booking](https://aws.passkey.com/go/ACMSIGCSE2018Conference)<br>
 Nightly Rate: $165 + tax<br>
-Deadline: February 1, 2017<br>
+Deadline: February 1, 2018<br>
 Address: 110 S. Eutaw St., Baltimore, MD 21201
 
 
