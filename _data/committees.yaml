@@ -376,8 +376,6 @@
       inst: DePaul University
     - name: Colleen Lewis
       inst: Harvey Mudd College
-    - name: Christine Alvarado
-      inst: University of California San Diego
     - name: Paul Tymann
       inst: Rochester Institute of Technology
     - name: Susan Rodger
@@ -396,12 +394,8 @@
       inst: Haverford College
     - name: Deepak Kumar
       inst: Bryn Mawr College
-    - name: Luther Tychonievich
-      inst: University of Virginia
     - name: Jody Paul
       inst: Metropolitan State University of Denver
-    - name: Steve Cooper
-      inst: Stanford
 #   - name: Eric Aaron
 #     inst: Vassar College
 #     #email: eaaron@cs.vassar.edu
