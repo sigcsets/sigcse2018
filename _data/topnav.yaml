@@ -71,8 +71,8 @@
   - name: Conference Policies
     link: http://sigcse2018.sigcse.org/policies.html
     divider: true
-  - name: Accepted Submissions
-    link: /attendees/accepted.html
+  - name: Draft Conference Program
+    link: http://easychair.org/smart-program/SIGCSE2018/
   - name: Workshops
     link: /attendees/workshops.html   
     # - name: Online Registration
