@@ -3,7 +3,7 @@ title: Student Volunteers
 showTitle: true
 ---
 
-Student volunteers are an important part of the SIGCSE Symposium and have been for many years. Each volunteer works for 5-6 hours, helping with various conference management activities. You’ll interact with the conference organizers and presenters and will meet other students from all over the world. More information about the experience, the benefits, and how to sign up are provided below.
+Student volunteers are an important part of the SIGCSE Symposium and have been for many years. Each volunteer works for up to 9 hours, helping with various conference management activities. You’ll interact with the conference organizers and presenters and will meet other students from all over the world. More information about the experience, the benefits, and how to sign up are provided below.
 
 <!-- >
 <div class="text-center">
@@ -57,7 +57,7 @@ See the main [SIGCSE Attendees]({{site.base}}/attendees/index.html) page for inf
 
 ### What are the benefits of student volunteering?
 
-In exchange for 5-6 hours of volunteer service, you will receive:
+In exchange for up to 9 hours of volunteer service, you will receive:
 
 * Refunded registration fee.
 
@@ -98,7 +98,7 @@ Not much, but we’ll do what we can. If you have a skill we are interested in t
 
 ### When during the conference will I do my student volunteer work?
 
-This will depend on conference needs; some time periods are busier than others. Your duties may be broken into separate time periods and even across separate days. We guarantee no more than 6 hours of assigned work per volunteer but target an average of 5 hours.
+This will depend on conference needs; some time periods are busier than others. Your duties may be broken into separate time periods and even across separate days. We guarantee no more than 9 hours of assigned work per volunteer.
 
 Please note that we’ll take your preferences into account whenever possible, as well as the times you specified that you will be arriving at and leaving the conference. You will also have the opportunity to specify when you are presenting a paper or poster. Given those constraints we will make our schedule.
 
