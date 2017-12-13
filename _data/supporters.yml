@@ -1,8 +1,33 @@
 Platinum:
+  - name: GitHub
+    image: github-200.png
+    link: "https://github.com/"  
+  - name: "Google, Inc."
+    image: google-200.png
+    link: "https://www.google.com/edu/cs/"
+  - name: "Intel"
+    image: intel-200.png
+    link: "https://intel.com/"
     
 Gold:
+  - name: "Oracle Academy"
+    image: oracle-200.png
+    link: "http://www.oracle.com/academy/" 
+  - name: "Vocareum, Inc"
+    image: vocareum-new-200.png
+    link: "https://www.vocareum.com/"
+  - name: "zyBooks"
+    image: zybooks-200.png
+    link: "https://www.zybooks.com/"
 
 Silver:
+  - name: ABET
+    image: abet-new-100.png
+    link: "http://www.abet.org/"
+  - name: Mimir
+    blurb: ""
+    image: mimir-200.png
+    link: "https://class.mimir.io"
 
 Bronze:
 
