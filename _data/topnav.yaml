@@ -70,6 +70,8 @@
     link: /attendees/index.html#travel
   - name: Conference Policies
     link: http://sigcse2018.sigcse.org/policies.html
+  - name: Student Volunteers
+    link: /info/studentvolunteers.html
     divider: true
   - name: Draft Conference Program
     link: http://easychair.org/smart-program/SIGCSE2018/
@@ -108,8 +110,7 @@
     # - name: Kids' Camp
     #   link: /attendees/kidscamp.html
     #   divider: true
-    # - name: Student Volunteers
-    #   link: /info/studentvolunteers.html
+
 - name: For Exhibitors
   subheads:
     - name: Prospectus
