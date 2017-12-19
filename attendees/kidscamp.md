@@ -39,7 +39,7 @@ Kids’ Camp Dates and Times:
 
     8:00am - 2:00pm
 
-## Fees
+<!--## Fees
 
 There is a registration fee of $100 for the first child, and $50 for each
 additional child.  This fee is non-refundable.  This fee covers all three days
@@ -47,7 +47,7 @@ of childcare.  However, please register your child(ren) only for the days you
 plan to attend.
 
 There will be a late fee of **$5.00 for every 5 minutes** a parent is late
-in picking up his/her child at the end of a session.
+in picking up his/her child at the end of a session.-->
 
 ## Kids' Camp Theme
 
