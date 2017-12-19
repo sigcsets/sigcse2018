@@ -8,32 +8,36 @@ SIGCSE 2017, generously supported by the SIGCSE Board!
 
 ## Registration
 
-Kids Camp registration is available at
+<!--Kids Camp registration is available at
 
 [https://www.jotform.com/KiddieCorp/sigcsekids](https://www.jotform.com/KiddieCorp/sigcsekids)
+
+-->
+
+__Registration will open soon!__
 
 Kiddie Corp will be providing childcare
 programs for Kids' Camp. To learn more about Kiddie Corp, please visit
 [http://www.kiddiecorp.com/](http://www.kiddiecorp.com/). The early
 egistration deadline is approaching quickly.
 
-The SIGCSE 2017 Kids’ Camp will be in the Washington State Conference Center,
+The SIGCSE 2018 Kids’ Camp will be in the Baltimore Conference Center,
 close to the main technical sessions. The exact
 location will be available at the registration table.
 
 Kids’ Camp Dates and Times:
 
-* Thursday, March 9
+* Thursday, February 22
 
     8:00am - 6:00pm
 
-* Friday, March 10
+* Friday, February 23
 
     8:00am - 6:00pm
 
-* Saturday, March 11
+* Saturday, February 24
 
-    8:00am - 4:00pm
+    8:00am - 2:00pm
 
 ## Fees
 
@@ -47,14 +51,16 @@ in picking up his/her child at the end of a session.
 
 ## Kids' Camp Theme
 
-The camp organizers are developing the activities for this year's event
-around the theme of **Superheroes**.
+The theme for this year's activities is has yet to be determined.
+
+<!--The camp organizers are developing the activities for this year's event
+around the theme of **Superheroes**.-->
 
 ## Frequently Asked Questions
 
 1. How old/young can my child(ren) be to register?
 
-    Care will be provided for children ages 6 months to 12 yrs. If you have an older child who wants to attend, please contact us.
+    Care will be provided for children ages 6 months to 16 yrs. If you have an older child who wants to attend, please contact us.
 
 1. How much does it cost?
 
@@ -66,7 +72,7 @@ around the theme of **Superheroes**.
 
 1. What will my child(ren) be doing while I am attending the conference?
 
-    SIGCSE Kid Campers will participate in drama, play, and arts & crafts activities. Older kids can participate in our planned computing activities, which include game or story development using Scratch, many CS Unplugged activities, and Google's CS First activities. Student volunteers will help with the computing activities. We will also have the ever-popular scavenger hunt.
+    SIGCSE Kid Campers will participate in drama, play, and arts & crafts activities. Older kids can participate in our planned computing activities, which may include game or story development using Scratch, many CS Unplugged activities, and Google's CS First activities. Student volunteers will help with the computing activities. We will also have the ever-popular scavenger hunt.
 
 1. Do I need to bring anything for my child(ren)?
 
@@ -76,9 +82,9 @@ around the theme of **Superheroes**.
 
     Daycare provider ratios will be:
 
-      * 1:2 for children ages 6 to 11 months old
-      * 1:3 for children 1 to 2 years old
-      * 1:5 for children 3 to 12 years old
+      * 1:5 for children 3 to 5 years old
+      * 1:7 for children 6 to 12 years old
+      * 1:10 for children 13 to 16 years old
 
     Student volunteers for the computing activities will be additional helpers and are not included in this ratio.
 

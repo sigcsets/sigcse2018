@@ -74,7 +74,7 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Registration Rates </div>
-    <div class = "col-sm-2"> Early: before Jan 15 </div>
+    <div class = "col-sm-2"> Early: Dec 18-Jan 15 </div>
     <div class = "col-sm-2"> Advance: Jan 16-Feb 13 </div>
     <div class = "col-sm-2"> Late/Onsite: Feb 21-23 </div>
 </div>
@@ -131,7 +131,7 @@ NOTE: Registration is unvailable from Feb 14-Feb 20.
 
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Workshop Registration Rates </div>
-    <div class = "col-sm-2"> Early: before Jan 15 </div>
+    <div class = "col-sm-2"> Early: Dec 18-Jan 15 </div>
     <div class = "col-sm-2"> Advance: Jan 16-Feb 13 </div>
     <div class = "col-sm-2"> Late/Onsite: Feb 21-23 </div>
 </div>
@@ -163,7 +163,7 @@ Those requesting a letter should allow 7-10 business days to receive it. All req
 
 ## Reserving a Room
 
-Reserve your room by January 22, 2018 to receive these rates! There are four conference hotels with special conference room rates. All four are close to the Baltimore Convention Center and are within easy walking distance of each other. 
+Reserve your room by February 1, 2018 to receive these rates! There are four conference hotels with special conference room rates. All four are close to the Baltimore Convention Center and are within easy walking distance of each other. 
 
 The conference block rooms are available Friday, February 16, through Wednesday, February 28; non-conference rates may apply outside of these dates
 
@@ -182,8 +182,8 @@ Nightly Rate: $149 + tax, complimentary WiFi<br>
 Deadline: February 1, 2018<br>
 Address: 301 West Lombard St  Baltimore, Maryland 21201
 
-#### Hyatt Regency Baltimore Inner Harbor
-How to Book: [Hyatt Regency Baltimore Online Booking](https://aws.passkey.com/gt/212834873?gtid=ca0950f50f717ddac623650c685f43c1)<br>
+#### Hyatt Regency Baltimore Inner Harbor - SOLD OUT!!
+<!--How to Book: [Hyatt Regency Baltimore Online Booking](https://aws.passkey.com/gt/212834873?gtid=ca0950f50f717ddac623650c685f43c1)<br>-->
 Nightly Rate: $149 + tax, complimentary WiFi<br>
 Deadline: February 1, 2018<br>
 Address: 300 Light Street, Baltimore, MD 21202, USA

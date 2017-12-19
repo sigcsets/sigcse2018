@@ -8,6 +8,9 @@ Platinum:
   - name: "Intel"
     image: intel-200.png
     link: "https://intel.com/"
+  - name: "Microsoft"
+    image: microsoft-200.png
+    link: "https://microsoft.com/"
     
 Gold:
   - name: "Oracle Academy"

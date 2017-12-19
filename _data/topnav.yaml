@@ -107,8 +107,8 @@
     # - name: Conference Proceedings
     #   link: http://dl.acm.org/citation.cfm?id=3017680
     #   divider: true
-    # - name: Kids' Camp
-    #   link: /attendees/kidscamp.html
+  - name: Kids' Camp
+    link: /attendees/kidscamp.html
     #   divider: true
 
 - name: For Exhibitors
