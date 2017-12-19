@@ -82,6 +82,8 @@ around the theme of **Superheroes**.-->
 
     Daycare provider ratios will be:
 
+      * 1:2 for children 6 to 11 months old
+      * 1:3 for children 1 to 2 years old
       * 1:5 for children 3 to 5 years old
       * 1:7 for children 6 to 12 years old
       * 1:10 for children 13 to 16 years old
