@@ -5,6 +5,9 @@ Platinum:
   - name: "Google, Inc."
     image: google-200.png
     link: "https://www.google.com/edu/cs/"
+  - name: "Infosys Foundation USA"
+    image: infosys-200.png
+    link: "http://www.infosys.org/infosys-foundation-usa/"
   - name: "Intel"
     image: intel-200.png
     link: "https://intel.com/"
