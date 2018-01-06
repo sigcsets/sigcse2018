@@ -4,17 +4,13 @@ showTitle: true
 ---
 
 We are pleased to announce that we will once again have Kids’ Camp at
-SIGCSE 2017, generously supported by the SIGCSE Board!
+SIGCSE 2018, generously supported by the SIGCSE Board!
 
 ## Registration
 
-<!--Kids Camp registration is available at
-
-[https://www.jotform.com/KiddieCorp/sigcsekids](https://www.jotform.com/KiddieCorp/sigcsekids)
-
--->
-
-__Registration will open soon!__
+<div class="alert alert-success text-center">
+<span class="glyphicon glyphicon-ok" aria-hidden="true"></span> <a href="https://form.jotform.com/KiddieCorp/ACM-SIGCSE18kids">CLICK HERE TO REGISTER FOR KIDS CAMP 2018!</a>
+</div>
 
 Kiddie Corp will be providing childcare
 programs for Kids' Camp. To learn more about Kiddie Corp, please visit
@@ -42,10 +38,10 @@ Kids’ Camp Dates and Times:
 ## Fees
 
 The fee is $50.00 TOTAL for all days per family; unlimited hours, for those
-who register before February 7, 2018.
+who register on or before February 7, 2018.
 
-The fee will increase to $100.00 TOTAL for all days per family, for those
-who register on or after February 7, 2018. 
+The fee is $100.00 TOTAL for all days per family, for those
+who register after February 7, 2018. 
 
 
 ## Kids' Camp Theme

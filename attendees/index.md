@@ -177,6 +177,7 @@ Deadline: February 1, 2018<br>
 Address: 300 South Charles Street, Baltimore, MD. 21201
 
 #### Holiday Inn Inner Harbor – Baltimore Downtown
+NOTE: Tuesday night is sold out!<br>
 How to Book: [Holiday Inn Online Booking](https://www.ihg.com/holidayinn/hotels/us/en/baltimore/baldt/hoteldetail?qAdlt=1&qBrs=6c.hi.ex.rs.ic.cp.in.sb.cw.cv.ul.vn.ki.sp.nd.ct&qChld=0&qFRA=1&qGRM=0&qGrpCd=ACM&qIta=99801505&qPSt=0&qRRSrt=rt&qRef=df&qRms=1&qRpn=1&qRpp=20&qSHp=1&qSmP=3&qSrt=sDD&qWch=0&srb_u=1&icdv=99801505) and use group code __ACM__ or call 1-800-HOLIDAY or direct 410-685-3500 and use group code __ACM__<br>
 Nightly Rate: $149 + tax, complimentary WiFi<br>
 Deadline: February 1, 2018<br>
@@ -189,6 +190,7 @@ Deadline: February 1, 2018<br>
 Address: 300 Light Street, Baltimore, MD 21202, USA
 
 #### Marriott Inner Harbor
+NOTE: Tuesday night is sold out!<br>
 How to Book: [Marriott Online Booking](https://aws.passkey.com/go/ACMSIGCSE2018Conference)<br>
 Nightly Rate: $165 + tax, complimentary WiFi<br>
 Deadline: February 1, 2018<br>
