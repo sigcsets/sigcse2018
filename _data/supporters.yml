@@ -16,6 +16,9 @@ Platinum:
     link: "https://microsoft.com/"
     
 Gold:
+  - name: "IBM"
+    image: ibm-200.png
+    link: "http://ibm.com"
   - name: "Oracle Academy"
     image: oracle-200.png
     link: "http://www.oracle.com/academy/" 
