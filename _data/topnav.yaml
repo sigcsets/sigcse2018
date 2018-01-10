@@ -73,12 +73,14 @@
   - name: Student Volunteers
     link: /info/studentvolunteers.html
     divider: true
+  - name: Program At-A-Glance
+    link: /attendees/at-a-glance.html   
   - name: Draft Conference Program
     link: http://easychair.org/smart-program/SIGCSE2018/
   - name: Workshops
     link: /attendees/workshops.html   
-    # - name: Online Registration
-    #   link: http://www.regonline.com/sigcse2017
+  - name: Online Registration
+    link: http://www.regonline.com/sigcse2018
 
     # - name: Visitor Info / Attractions
     #   link: /attendees/visitor-info.html
