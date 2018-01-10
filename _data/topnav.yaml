@@ -81,9 +81,9 @@
     link: /attendees/workshops.html   
   - name: Online Registration
     link: http://www.regonline.com/sigcse2018
-
-    # - name: Visitor Info / Attractions
-    #   link: /attendees/visitor-info.html
+    divider: true
+  - name: Visitor Info / Attractions
+    link: /attendees/visitor-info.html
   
     # - name: Online Program
     #   link: http://easychair.org/smart-program/SIGCSE2017/
