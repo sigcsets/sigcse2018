@@ -142,6 +142,9 @@ NOTE: Registration is unvailable from Feb 14-Feb 20.
     <div class = "col-sm-2"> $95 </div>
 </div>
 
+### Cancellation Policy
+
+Cancellation requests must be made by February 7, 2018. A processing fee of US$100 will be assessed. Regrettably cancellations received after that date cannot be honored. The conference committee recognizes that sometimes last minute cancellations can't be avoided due to weather, travel disruptions, and/or health issues. However, the conference incurs expenses for which it is liable based on registration counts on February 8, 2018. Therefore, no refunds are possible after February 7, 2018 for any reason. Attendees are strongly advised to purchase travel insurance to cover their non-refundable expenses.
 
 ### Regarding Visas
 
