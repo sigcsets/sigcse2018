@@ -44,6 +44,11 @@ showTitle: true
     <td><strong>Location</strong></td>
 </tr>
 <tr>
+    <td>7:00 am - 8:15 am</td>
+    <td>Speaker Breakfast</td>
+    <td>Rooms #324, 325, 326</td>
+</tr>
+<tr>
     <td>7:30 am - 5:50 pm</td>
     <td>Registration</td>
     <td>Charles St Lobby</td>
@@ -132,6 +137,11 @@ showTitle: true
     <td><strong>Time</strong></td>
     <td><strong>Event</strong></td>
     <td><strong>Location</strong></td>
+</tr>
+<tr>
+    <td>7:00 am - 8:15 am</td>
+    <td>Speaker Breakfast</td>
+    <td>Rooms #324, 325, 326</td>
 </tr>
 <tr>
     <td>8:00 am - 5:00 pm</td>
@@ -242,6 +252,11 @@ showTitle: true
     <td><strong>Time</strong></td>
     <td><strong>Event</strong></td>
     <td><strong>Location</strong></td>
+</tr>
+<tr>
+    <td>7:00 am - 8:30 am</td>
+    <td>Speaker Breakfast</td>
+    <td>Rooms #324, 325, 326</td>
 </tr>
 <tr>
     <td>8:30 am - 11:45 am</td>
