@@ -276,7 +276,7 @@
   easychair: 638
   order: 2
   date: Saturday, February 24, 3:00 pm - 6:00 pm
-  title: "Reconciling Data Science and CS1: A Tour of Pyret"
+  title: "From Spreadsheets to Programs: Data Science and CS1 in Pyret"
   room: 303
   presenters: Joe Politz, University of California San Diego; Kathi Fisler, Shriram Krishnamurthi, Brown University; and Benjamin Lerner, Northeastern University
   abstract: Data Science is at the center of many current curricular efforts. It is emerging as an integrated field that has far-reaching and important applications, from news media to policy making to business. While these applications can provide compelling uses of computer science techniques, an introduction to one is not an introduction to the other. How do topics like data structures and program design emerge from data science applications? How do we transition from data science applications to computer science topics? How can data science be integrated into other contexts with little overhead? This workshop presents assignments and curricula in the Pyret programming language designed to address these questions.
