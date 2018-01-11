@@ -1,12 +1,13 @@
 ---
-title: Visitor Information
+title: Baltimore Visitor Information
 showTitle: true
 ---
+
 <p>
-<b>Lots of Great Info Here:</b> <a href="https://baltimore.org/">https://baltimore.org/</a>
+<b>Map of Attractions and Restaurants:</b><br><a href="https://drive.google.com/open?id=1Ty55_UVY3B-nJ_yjfhW8_x_c5Rw&usp=sharing"><img src="https://sigcse2018.sigcse.org/images/map.png"/></a>
 </p>
 <p>
-<b>Map of Attractions and Restaurants:</b> <a href="https://drive.google.com/open?id=1Ty55_UVY3B-nJ_yjfhW8_x_c5Rw&usp=sharing">here</a>
+<b>Official Baltimore Travel Info:</b> <a href="https://baltimore.org/">https://baltimore.org/</a>
 </p>
 <p>
 <b>Weather and Walking</b>- The temperature in late February ranges from 25-45 F, with a definite possibility of snow.  The conference hotels are all close to the venue, but no covered walkways to avoid the weather.  Baltimore's Inner Harbor is walkable, and with plenty of attractions, so bring your walking shoes.
@@ -99,9 +100,9 @@ There are also some unique transportation options, like the <a href="https://bal
   <li> Trails: <a href="http://www.gwynnsfallstrail.org/">Gwynns Falls Trail</a> (download the <a href="http://itunes.apple.com/us/app/gwynns-falls-trail/id525489952?mt=8">iPhone app</a> for more info), 
 <a href="https://jonesfallstrail.us/">Jones Falls Trail</a> - both trails pass through the Inner Harbor
   </li>
-  <li>Runners - Try some of the routes suggested <a href="http://greatruns.com/location/baltimore-maryland/">here</a> and <a href="http://www.charmcityrun.com/blog/2015/9/23/places-to-run-in-the-baltimore-area#block-yui_3_17_2_1_1443014649784_147116">here</a>
+  <li>Runners - Suggested Routes: <a href="http://greatruns.com/location/baltimore-maryland/">greatruns.com</a> and <a href="http://www.charmcityrun.com/blog/2015/9/23/places-to-run-in-the-baltimore-area#block-yui_3_17_2_1_1443014649784_147116">charmcityrun.com</a>
   </li>
 </ul>
 
 
-<p>Questions? Drop a note to the  Local Arrangements Co-Chairs, Katie Gibson and Stacy Branham! (local@sigcse2018.org)</p>
+<p>Questions? Drop a note to the  Local Arrangements Co-Chairs, Katie Gibson and Stacy Branham! (<a href="mailto:local@sigcse2018.org">local@sigcse2018.org</a>)</p>

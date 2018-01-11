@@ -286,7 +286,7 @@ showTitle: true
 <tr>
     <td>12:00 pm - 2:00 pm</td>
     <td>Luncheon &amp; Closing Keynote</td>
-    <td>On your own</td>
+    <td>&nbsp;</td>
 </tr>
 <tr>
     <td>3:00 pm - 6:00 pm</td>
