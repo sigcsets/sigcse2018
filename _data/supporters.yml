@@ -36,8 +36,10 @@ Silver:
   - name: ABET
     image: abet-new-100.png
     link: "http://www.abet.org/"
+  - name: CodeHS
+    image: codehs-200.png
+    link: "https://codehs.com/"
   - name: Mimir
-    blurb: ""
     image: mimir-200.png
     link: "https://class.mimir.io"
 
