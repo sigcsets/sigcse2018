@@ -52,7 +52,7 @@ SIGCSE 2018 takes place February 21-24, 2018.
 
 As always, we encourage attendees to register early. This helps us with our planning, and in return, you get lower registration rates!
 
-<div class = "alert alert-warning text-center" style="margin-top: 23px">
+<div class = "alert alert-success text-center" style="margin-top: 23px">
     <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
       <a href="https://www.regonline.com/sigcse2018">REGISTRATION IS NOW OPEN!</a><br>
       
