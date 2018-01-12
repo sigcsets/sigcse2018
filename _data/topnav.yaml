@@ -60,7 +60,7 @@
   subheads:
   - name: Venue Information
     link: /attendees/index.html
-  - name: Rates and Registration
+  - name: Registration and Rates
     link: /attendees/index.html#registering    
   - name: Hotels
     link: /attendees/index.html#reserving-a-room
