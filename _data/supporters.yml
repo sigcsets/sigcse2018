@@ -16,6 +16,9 @@ Platinum:
     link: "https://microsoft.com/"
     
 Gold:
+  - name: "Codio"
+    image: codio-200.png
+    link: "https://codio.com/"
   - name: "IBM"
     image: ibm-200.png
     link: "http://ibm.com"
