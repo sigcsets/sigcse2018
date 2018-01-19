@@ -180,7 +180,7 @@ showTitle: true
 </tr>
 <tr>
     <td>12:00 pm - 1:45 pm</td>
-    <td>CRA Faculty Lunch</td>
+    <td>CRA Faculty Lunch **</td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -311,3 +311,8 @@ showTitle: true
 
 
 </table>
+<br>
+<br>
+<strong>Notes:<strong>
+
+** Hear about the Best Practices Memo for Teaching Faculty at Research Universities that is currently under development and give your input.  <br>To register for this event: [https://goo.gl/forms/bBudELWpU95Bje8Q2](https://goo.gl/forms/bBudELWpU95Bje8Q2)  <br>For additional information: contact Penny Rheingans ([rheingan@cs.umbc.edu](mailto:rheingan@cs.umbc.edu))  
