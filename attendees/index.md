@@ -178,7 +178,7 @@ The conference block rooms are available Friday, February 16, through Wednesday,
 
 Note: If you try to book online and do not see any rooms available at your preferred hotel, or you are quoted a different rate than the conference rate shown below, please call the hotel instead. Alternatively, you can also reach out to the Lodging Manger, [Brooke Daley](mailto:bdaley@executivevents.com) who can check on availability with the hotel.
 
-#### Marriott Inner Harbor
+#### Marriott Inner Harbor - SOLD OUT!!
 How to Book: [Marriott Online Booking](https://aws.passkey.com/go/ACMSIGCSE2018Conference)<br>
 Nightly Rate: $165 + tax, complimentary WiFi<br>
 Deadline: February 1, 2018<br>
