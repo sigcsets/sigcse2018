@@ -172,9 +172,11 @@ Those requesting a letter should allow 7-10 business days to receive it. All req
 
 ## Reserving a Room
 
+#### As of January 26, all conference hotel rooms have sold out!
+
 Reserve your room by February 1, 2018 to receive these rates! There are four conference hotels with special conference room rates. All four are close to the Baltimore Convention Center and are within easy walking distance of each other. 
 
-The conference block rooms are available Friday, February 16, through Wednesday, February 28; non-conference rates may apply outside of these dates
+The conference block rooms are available Friday, February 16, through Wednesday, February 28; non-conference rates may apply outside of these dates.
 
 Note: If you try to book online and do not see any rooms available at your preferred hotel, or you are quoted a different rate than the conference rate shown below, please call the hotel instead. Alternatively, you can also reach out to the Lodging Manger, [Brooke Daley](mailto:bdaley@executivevents.com) who can check on availability with the hotel.
 
@@ -190,7 +192,7 @@ Room Rate: $169 + tax, complimentary WiFi<br>
 Deadline: February 1, 2018<br>
 Address: 300 South Charles Street, Baltimore, MD. 21201
 
-#### Holiday Inn Inner Harbor – Baltimore Downtown (Few Spots Remaining)
+#### Holiday Inn Inner Harbor – Baltimore Downtown - SOLD OUT!!
 NOTE: Tuesday night is sold out!<br>
 How to Book: [Holiday Inn Online Booking](https://www.ihg.com/holidayinn/hotels/us/en/baltimore/baldt/hoteldetail?qAdlt=1&qBrs=6c.hi.ex.rs.ic.cp.in.sb.cw.cv.ul.vn.ki.sp.nd.ct&qChld=0&qFRA=1&qGRM=0&qGrpCd=ACM&qIta=99801505&qPSt=0&qRRSrt=rt&qRef=df&qRms=1&qRpn=1&qRpp=20&qSHp=1&qSmP=3&qSrt=sDD&qWch=0&srb_u=1&icdv=99801505) and use group code __ACM__ or call 1-800-HOLIDAY or direct 410-685-3500 and use group code __ACM__<br>
 Nightly Rate: $149 + tax, complimentary WiFi<br>
