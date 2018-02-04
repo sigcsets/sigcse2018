@@ -174,6 +174,17 @@ Those requesting a letter should allow 7-10 business days to receive it. All req
 
 #### As of January 26, all conference hotel rooms have sold out!
 
+#### UPDATE - Other Suggested Hotels
+
+Here are some hotels that you may want to consider if you were not able to book a room with one of the four conference hotels.  They are in the same general area near the convention center.  We do not have room blocks at these hotels, so attendees must call hotels directly to inquire about nightly rates and availability.
+
+- Royal Sonesta Harbor Court:  [https://www.sonesta.com/us/maryland/baltimore/royal-sonesta-harbor-court-baltimore](https://www.sonesta.com/us/maryland/baltimore/royal-sonesta-harbor-court-baltimore)
+- Lord Baltimore: [http://www.lordbaltimorehotel.com/](http://www.lordbaltimorehotel.com/)
+- Hotel Monaco: [http://www.monaco-baltimore.com/](http://www.monaco-baltimore.com/)
+- Radisson: [https://www.radisson.com/baltimore-hotel-md-21201/usabhmd](https://www.radisson.com/baltimore-hotel-md-21201/usabhmd)
+
+#### Official Conference Hotel Information
+
 Reserve your room by February 1, 2018 to receive these rates! There are four conference hotels with special conference room rates. All four are close to the Baltimore Convention Center and are within easy walking distance of each other. 
 
 The conference block rooms are available Friday, February 16, through Wednesday, February 28; non-conference rates may apply outside of these dates.
