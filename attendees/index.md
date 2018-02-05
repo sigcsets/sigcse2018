@@ -232,14 +232,37 @@ You can also use the [SIGCSE roommate database](http://sigcse.rit.edu/roommates/
 
 ### Air Travel
 
-Baltimore–Washington International Airport (Airport Code: BWI)<br>
-7035 Elm Road, Baltimore, MD 21240<br>
-[www.bwiairport.com](http://www.bwiairport.com)  
+[Baltimore–Washington International Airport (BWI)](http://www.bwiairport.com)<br>
+7035 Elm Road, Baltimore, MD 21240
 
-### Ground Transportation
+Other local options include [Dulles International Airport (IAD)](http://www.flydulles.com/iad/dulles-international-airport) and [Reagan National Airport (DCA)](http://flyreagan.com/dca/reagan-national-airport), which will require an additional 1-2 hours of travel by car or train. 
 
-There are many options for getting from the airport to the conference, and we will tell you more later!
+### Travel from Airport to Venue
 
-#### App-based Ride Services
-Lyft and Uber provide services at BWI Airport. App-based ride services pick up and drop off passengers at the terminal curbs on the Departures/Ticketing Level of all terminals.
+From Baltimore-Washington International Airport (BWI):
+
+* [SuperShuttle](https://www.supershuttle.com/locations/baltimorebwi/) (~$15-25, reserve in advance)
+* [BWI Taxi](http://www.bwiairporttaxi.com/) (~$35)
+* [MTA Light Rail](https://www.bwiairport.com/to-from-bwi/transportation/transit/mta-light-rail) ($1.60, ~7 minute walk to/from stations)
+* [Lyft](https://www.lyft.com/airports/bwi) or [Uber](https://www.uber.com/airports/bwi/) (~$30)
+
+From Dulles International Airport (IAD):
+
+* [SuperShuttle](https://www.supershuttle.com/locations/baltimorebwi/) (~$150, reserve in advance)
+* [Washington Flyer Taxi](http://www.flydulles.com/iad/washington-flyer-taxi-service) (~$170)
+
+From Reagan National Airport (DCA):
+
+* [SuperShuttle](https://www.supershuttle.com/locations/baltimorebwi/) (~$150, reserve in advance)
+* [Taxi](http://www.flyreagan.com/dca/taxi-service) ($~110)
+* [DC Metro](https://www.wmata.com/) and [MARC train](https://mta.maryland.gov/marc-train) (~$15)
+
+#### Local Transport
+
+* [MTA](https://mta.maryland.gov/) (Bus, Metro, and Light Rail)
+* [Yellow Cab](http://www.yellowcabofbaltimore.com/), [Lyft](https://www.lyft.com/), [Uber](https://www.uber.com/)
+* [Baltimore Bike Share](https://www.bmorebikeshare.com/)
+* [Water Taxi](http://www.baltimorewatertaxi.com/)
+* [Accessible transportation (a review)](https://wheelchairtravel.org/baltimore-md/)
+
 
