@@ -243,12 +243,12 @@ From Baltimore-Washington International Airport (BWI):
 
 From Dulles International Airport (IAD):
 
-* [SuperShuttle](https://www.supershuttle.com/locations/baltimorebwi/) (~$150, reserve in advance)
+* [SuperShuttle](https://www.supershuttle.com/locations/washington-dca-iad/) (~$150, reserve in advance)
 * [Washington Flyer Taxi](http://www.flydulles.com/iad/washington-flyer-taxi-service) (~$170)
 
 From Reagan National Airport (DCA):
 
-* [SuperShuttle](https://www.supershuttle.com/locations/baltimorebwi/) (~$150, reserve in advance)
+* [SuperShuttle](https://www.supershuttle.com/locations/washington-dca-iad/) (~$150, reserve in advance)
 * [Taxi](http://www.flyreagan.com/dca/taxi-service) ($~110)
 * [DC Metro](https://www.wmata.com/) and [MARC train](https://mta.maryland.gov/marc-train) (~$15)
 
