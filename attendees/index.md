@@ -269,3 +269,6 @@ Bus and train are affordable ways to see other parts of the US East Coast before
 * [Bolt Bus](https://www.boltbus.com/) (up to New York and New Jersey)
 * [Greyhound](https://www.greyhound.com/north) (throughout the US)
 
+### Nursing Moms
+
+A lactation area and refrigerator will be provided in the Charles St. VIP room (in the same room with Kids' Camp but partitioned off), Level 100 in the Baltimore Convention Center. This is near registration and Exhibit Hall A. 

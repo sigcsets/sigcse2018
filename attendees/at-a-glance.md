@@ -45,7 +45,7 @@ showTitle: true
 </tr>
 <tr>
     <td>7:00 am - 8:15 am</td>
-    <td>Speaker Breakfast</td>
+    <td>Speaker Breakfast (for Thursday presenters only)</td>
     <td>Rooms #324, 325, 326</td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@ showTitle: true
 </tr>
 <tr>
     <td>7:00 am - 8:15 am</td>
-    <td>Speaker Breakfast</td>
+    <td>Speaker Breakfast (for Friday presenters only)</td>
     <td>Rooms #324, 325, 326</td>
 </tr>
 <tr>
@@ -187,6 +187,11 @@ showTitle: true
     <td>12:00 pm - 1:45 pm</td>
     <td>International Lunch</td>
     <td>&nbsp;</td>
+</tr>
+<tr>
+    <td>1:00 pm - 1:45 pm</td>
+    <td>"How to Volunteer with SIGCSE" Special Session</td>
+    <td>Room 323</td>
 </tr>
 <tr>
     <td>1:45 pm - 3:00 pm</td>
@@ -255,7 +260,7 @@ showTitle: true
 </tr>
 <tr>
     <td>7:00 am - 8:30 am</td>
-    <td>Speaker Breakfast</td>
+    <td>Speaker Breakfast (for Saturday presenters only)</td>
     <td>Rooms #324, 325, 326</td>
 </tr>
 <tr>

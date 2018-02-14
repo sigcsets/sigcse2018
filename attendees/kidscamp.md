@@ -85,3 +85,6 @@ around the theme of **Superheroes**.-->
 
     Student volunteers for the computing activities will be additional helpers and are not included in this ratio.
 
+### Nursing Moms
+
+A lactation area and refrigerator will be provided in the Charles St. VIP room (in the same room with Kids' Camp but partitioned off), Level 100 in the Baltimore Convention Center. This is near registration and Exhibit Hall A. 
