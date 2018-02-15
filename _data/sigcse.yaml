@@ -35,7 +35,7 @@ deadlines:
     date: "Friday, October 20, 2017"
 
 registration:
-  isopen: true
+  isopen: false
   url: https://www.regonline.com/sigcse2018
 
 volunteers:

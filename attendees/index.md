@@ -64,7 +64,7 @@ As always, we encourage attendees to register early. This helps us with our plan
 </div>-->
 {% else %}
 {% callout info %}
-  Registration will open soon!
+  Online registration is closed. Registration is now only available on-site.
 {% endcallout %}
 {% endif %}
 
