@@ -233,7 +233,7 @@ From Baltimore-Washington International Airport (BWI):
 
 * [SuperShuttle](https://www.supershuttle.com/locations/baltimorebwi/) (~$15-25, reserve in advance)
 * [BWI Taxi](http://www.bwiairporttaxi.com/) (~$35)
-* [MTA Light Rail](https://www.bwiairport.com/to-from-bwi/transportation/transit/mta-light-rail) ($1.60, ~7 minute walk to/from stations)
+* [MTA Light Rail](https://www.bwiairport.com/to-from-bwi/transportation/transit/mta-light-rail) ($1.80, ~7 minute walk to/from stations)
 * [Lyft](https://www.lyft.com/airports/bwi) or [Uber](https://www.uber.com/airports/bwi/) (~$30)
 
 From Dulles International Airport (IAD):
