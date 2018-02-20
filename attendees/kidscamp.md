@@ -87,4 +87,4 @@ around the theme of **Superheroes**.-->
 
 ### Nursing Moms
 
-A lactation area and refrigerator will be provided in the Charles St. VIP room (in the same room with Kids' Camp but partitioned off), Level 100 in the Baltimore Convention Center. This is near registration and Exhibit Hall A. 
+A lactation area and refrigerator will be provided in the South Show Office, off of the Charles St. Lobby, near registration.
