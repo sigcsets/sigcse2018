@@ -86,7 +86,7 @@ showTitle: true
     <tr>
         <td>1:45 pm - 3:00 pm</td>
         <td>Technical Sessions</td>
-        <td><a href="https://sigcse2018.sigcse.org/agenda.html">Agenda</a>/td>
+        <td><a href="https://sigcse2018.sigcse.org/agenda.html">Agenda</a></td>
     </tr>
     <tr>
         <td>1:45 pm - 5:00 pm</td>
@@ -124,7 +124,6 @@ showTitle: true
         <td>Ballroom III-IV</td>
     </tr>
 
-
 </table>
 <br>
 
@@ -140,7 +139,7 @@ showTitle: true
 </tr>
 <tr>
     <td>7:00 am - 8:15 am</td>
-    <td>Speaker Breakfast (for Friday presenters only)</td>
+    <td>Speaker Breakfast (Friday presenters only)</td>
     <td>Rooms #324, 325, 326</td>
 </tr>
 <tr>
@@ -151,7 +150,7 @@ showTitle: true
 <tr>
     <td>8:15 am - 9:45 am</td>
     <td>Outstanding Contributor Awardee Keynote</td>
-    <td>&nbsp;</td>
+    <td>Ballroom I-II</td>
 </tr>
 <tr>
     <td>10:00 am - 10:45 am</td>
@@ -171,7 +170,7 @@ showTitle: true
 <tr>
     <td>10:45 am - 12:00 pm</td>
     <td>Technical Sessions</td>
-    <td>&nbsp;</td>
+    <td><a href="https://sigcse2018.sigcse.org/agenda.html">Agenda</a></td>
 </tr>
 <tr>
     <td>12:00 pm - 1:45 pm</td>
@@ -180,8 +179,8 @@ showTitle: true
 </tr>
 <tr>
     <td>12:00 pm - 1:45 pm</td>
-    <td>CRA Faculty Lunch **</td>
-    <td>&nbsp;</td>
+    <td><a href="https://goo.gl/forms/bBudELWpU95Bje8Q2">CRA Faculty Lunch</a> **</td>
+    <td>Rooms #324, 325, 326</td>
 </tr>
 <tr>
     <td>12:00 pm - 1:45 pm</td>
@@ -196,7 +195,7 @@ showTitle: true
 <tr>
     <td>1:45 pm - 3:00 pm</td>
     <td>Technical Sessions</td>
-    <td>&nbsp;</td>
+    <td><a href="https://sigcse2018.sigcse.org/agenda.html">Agenda</a></td>
 </tr>
 <tr>
     <td>3:00 pm - 3:45 pm</td>
@@ -216,32 +215,32 @@ showTitle: true
 <tr>
     <td>3:45 pm - 5:00 pm</td>
     <td>Technical Sessions</td>
-    <td>&nbsp;</td>
+    <td><a href="https://sigcse2018.sigcse.org/agenda.html">Agenda</a></td>
 </tr>
 <tr>
     <td>5:10 pm - 6:00 pm</td>
     <td>SIGCSE Business Meeting</td>
-    <td>&nbsp;</td>
+    <td>Room 308</td>
 </tr>
 <tr>
     <td>6:00 pm - 7:00 pm</td>
     <td>NCWIT Reception</td>
-    <td>&nbsp;</td>
+    <td>Main Terrace, Level 300</td>
 </tr>
 <tr>
     <td>6:10 pm - 7:00 pm</td>
     <td>CCSC Business Meeting</td>
-    <td>&nbsp;</td>
+    <td>Room 308</td>
 </tr>
 <tr>
     <td>7:00 pm - 8:00 pm</td>
     <td>Community College Reception</td>
-    <td>&nbsp;</td>
+    <td>Sharp Terrace, Level 300</td>
 </tr>
 <tr>
     <td>7:00 pm - 10:00 pm</td>
     <td>Workshops 301-310</td>
-    <td>&nbsp;</td>
+    <td><a href="https://sigcse2018.sigcse.org/agenda.html">Agenda</a></td>
 </tr>
 
 
@@ -271,17 +270,22 @@ showTitle: true
 <tr>
     <td>8:45 am - 10:00 am</td>
     <td>Undergraduate ACM SRC Semifinalists</td>
-    <td>&nbsp;</td>
+    <td>Room 321</td>
 </tr>
 <tr>
     <td>8:45 am - 10:00 am</td>
     <td>Graduate ACM SRC Semifinalists</td>
-    <td>&nbsp;</td>
+    <td>Room 318</td>
+</tr>
+<tr>
+    <td>8:45 am - 10:00 am</td>
+    <td>Nifty Assignments</td>
+    <td>Room 308</td>
 </tr>
 <tr>
     <td>8:45 am - 10:00 am</td>
     <td>Technical Sessions</td>
-    <td>&nbsp;</td>
+    <td><a href="https://sigcse2018.sigcse.org/agenda.html">Agenda</a></td>
 </tr>
 <tr>
     <td>10:00 am - 10:45 am</td>
@@ -296,22 +300,17 @@ showTitle: true
 <tr>
     <td>10:45 am - 12:00 pm</td>
     <td>Technical Sessions</td>
-    <td>&nbsp;</td>
-</tr>
-<tr>
-    <td>10:45 am - 12:00 pm</td>
-    <td>Lightning Talks</td>
-    <td>&nbsp;</td>
+    <td><a href="https://sigcse2018.sigcse.org/agenda.html">Agenda</a></td>
 </tr>
 <tr>
     <td>12:00 pm - 2:00 pm</td>
     <td>Luncheon &amp; Closing Keynote</td>
-    <td>&nbsp;</td>
+    <td>Ballroom I-II</td>
 </tr>
 <tr>
     <td>3:00 pm - 6:00 pm</td>
     <td>Workshops 401-410</td>
-    <td>&nbsp;</td>
+    <td><a href="https://sigcse2018.sigcse.org/agenda.html">Agenda</a></td>
 </tr>
 
 
