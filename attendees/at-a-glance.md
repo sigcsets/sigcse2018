@@ -38,91 +38,91 @@ showTitle: true
 </div>
 
 <table style="width:60%">
-<tr>
-    <td><strong>Time</strong></td>
-    <td><strong>Event</strong></td>
-    <td><strong>Location</strong></td>
-</tr>
-<tr>
-    <td>7:00 am - 8:15 am</td>
-    <td>Speaker Breakfast (for Thursday presenters only)</td>
-    <td>Rooms #324, 325, 326</td>
-</tr>
-<tr>
-    <td>7:30 am - 5:50 pm</td>
-    <td>Registration</td>
-    <td>Charles St Lobby</td>
-</tr>
-<tr>
-    <td>8:15 am - 9:45 am</td>
-    <td>Opening Keynote</td>
-    <td>&nbsp;</td>
-</tr>
-<tr>
-    <td>10:00 am - 10:45 am</td>
-    <td>Break, Exhibits &amp; Demos</td>
-    <td>Exhibit Hall</td>
-</tr>
-<tr>
-    <td>10:00 am - 11:30 am</td>
-    <td>NSF Showcase #1</td>
-    <td>Exhibit Hall</td>
-</tr>
-<tr>
-    <td>10:45 am - 12:00 pm</td>
-    <td>Technical Sessions</td>
-    <td>&nbsp;</td>
-</tr>
-<tr>
-    <td>12:00 pm - 1:45 pm</td>
-    <td>First Timer’s Lunch &amp; Lifetime Service Awardee Keynote</td>
-    <td>&nbsp;</td>
-</tr>
-<tr>
-    <td>12:00 pm - 1:45 pm</td>
-    <td>Lunch Break</td>
-    <td>On your own</td>
-</tr>
-<tr>
-    <td>1:45 pm - 3:00 pm</td>
-    <td>Technical Sessions</td>
-    <td>&nbsp;</td>
-</tr>
-<tr>
-    <td>1:45 pm - 5:00 pm</td>
-    <td>Student Research Posters</td>
-    <td>Exhibit Hall</td>
-</tr>
-<tr>
-    <td>3:00 pm - 3:45 pm</td>
-    <td>Break, Exhibits &amp; Demos</td>
-    <td>Exhibit Hall</td>
-</tr>
-<tr>
-    <td>3:00 pm - 4:30 pm</td>
-    <td>NSF Showcase #2</td>
-    <td>Exhibit Hall</td>
-</tr>
-<tr>
-    <td>3:45 pm - 5:00 pm</td>
-    <td>Technical Sessions</td>
-    <td>&nbsp;</td>
-</tr>
-<tr>
-    <td>5:30 pm - 6:20 pm</td>
-    <td>Birds of a Feather: Flock 1</td>
-    <td>&nbsp;</td>
-</tr>
-<tr>
-    <td>6:30 pm - 7:20 pm</td>
-    <td>Birds of a Feather: Flock 2</td>
-    <td>&nbsp;</td>
-</tr>
-<tr>
-    <td>7:30 pm - 9:30 pm</td>
-    <td>SIGCSE Reception</td>
-    <td>&nbsp;</td>
-</tr>
+      <tr>
+        <td><strong>Time</strong></td>
+        <td><strong>Event</strong></td>
+        <td><strong>Location</strong></td>
+    </tr>
+    <tr>
+        <td>7:00 am - 8:15 am</td>
+        <td>Speaker Breakfast (Thurs presenters only)</td>
+        <td>Rooms #324, 325, 326</td>
+    </tr>
+    <tr>
+        <td>7:30 am - 5:50 pm</td>
+        <td>Registration</td>
+        <td>Charles St Lobby</td>
+    </tr>
+    <tr>
+        <td>8:15 am - 9:45 am</td>
+        <td>Opening Keynote</td>
+        <td>Ballroom I-II</td>
+    </tr>
+    <tr>
+        <td>10:00 am - 10:45 am</td>
+        <td>Break, Exhibits &amp; Demos</td>
+        <td>Exhibit Hall</td>
+    </tr>
+    <tr>
+        <td>10:00 am - 11:30 am</td>
+        <td>NSF Showcase #1</td>
+        <td>Exhibit Hall</td>
+    </tr>
+    <tr>
+        <td>10:45 am - 12:00 pm</td>
+        <td>Technical Sessions</td>
+        <td><a href="https://sigcse2018.sigcse.org/agenda.html">Agenda</a></td>
+    </tr>
+    <tr>
+        <td>12:00 pm - 1:45 pm</td>
+        <td>First Timer’s Lunch</td>
+        <td>Ballroom III-IV</td>
+    </tr>
+    <tr>
+        <td>12:00 pm - 1:45 pm</td>
+        <td>Lunch Break</td>
+        <td>On your own</td>
+    </tr>
+    <tr>
+        <td>1:45 pm - 3:00 pm</td>
+        <td>Technical Sessions</td>
+        <td><a href="https://sigcse2018.sigcse.org/agenda.html">Agenda</a>/td>
+    </tr>
+    <tr>
+        <td>1:45 pm - 5:00 pm</td>
+        <td>Student Research Posters</td>
+        <td>Exhibit Hall</td>
+    </tr>
+    <tr>
+        <td>3:00 pm - 3:45 pm</td>
+        <td>Break, Exhibits &amp; Demos</td>
+        <td>Exhibit Hall</td>
+    </tr>
+    <tr>
+        <td>3:00 pm - 4:30 pm</td>
+        <td>NSF Showcase #2</td>
+        <td>Exhibit Hall</td>
+    </tr>
+    <tr>
+        <td>3:45 pm - 5:00 pm</td>
+        <td>Technical Sessions</td>
+        <td><a href="https://sigcse2018.sigcse.org/agenda.html">Agenda</a></td>
+    </tr>
+    <tr>
+        <td>5:30 pm - 6:20 pm</td>
+        <td>Birds of a Feather: Flock 1</td>
+        <td><a href="https://sigcse2018.sigcse.org/agenda.html">Agenda</a></td>
+    </tr>
+    <tr>
+        <td>6:30 pm - 7:20 pm</td>
+        <td>Birds of a Feather: Flock 2</td>
+        <td><a href="https://sigcse2018.sigcse.org/agenda.html">Agenda</a></td>
+    </tr>
+    <tr>
+        <td>7:30 pm - 9:30 pm</td>
+        <td>SIGCSE Reception</td>
+        <td>Ballroom III-IV</td>
+    </tr>
 
 
 </table>
