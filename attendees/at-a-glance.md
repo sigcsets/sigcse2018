@@ -263,6 +263,11 @@ showTitle: true
     <td>Rooms #324, 325, 326</td>
 </tr>
 <tr>
+    <td>7:00 am - 8:30 am</td>
+    <td>Community College Breakfast</td>
+    <td>Room #327-329</td>
+</tr>
+<tr>
     <td>8:30 am - 11:45 am</td>
     <td>Registration</td>
     <td>Charles St Lobby</td>
