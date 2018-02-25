@@ -35,6 +35,11 @@ The abstract is the summary of the Lightning talk that will appear on the confer
 
 * [Sample proposal (Word)]({{site.base}}/docs/sigcse-sample-lightning-talk.docx)
 
+### 2018 Lightning Talks
+
+* [SIGCSE 2018 Lightning Talks - Session 1]({{site.base}}/docs/2018-lightning-talks/2018_LightningTalks_1.pdf)
+* [SIGCSE 2018 Lightning Talks - Session 2]({{site.base}}/docs/2018-lightning-talks/2018_LightningTalks_2.pdf)
+
 ### 2017 Lightning Talks
 
 * Joel Ross, Andrew Ko, David Stearns - [Accessibility as a First-Class Concern in Teaching GUIs and Software Engineering]({{site.base}}/docs/2017-lightning-talks/01-Ross-SIGCSE-lightning-talk-v2.pdf)
