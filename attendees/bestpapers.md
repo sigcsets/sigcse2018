@@ -35,3 +35,30 @@ _Friday 10:45-12:00 Session: Diversity #1, Room: 316_
 
 __3rd Best paper:__ "DIVAS: Outreach to the Natural Sciences through Image Processing" by Mark Meysenburg, Tessa Durham Brooks, Raychelle Burks, Erin Doyle, and Timothy Frey.
 _Friday 15:45-17:00 Session: Professional Development, Room: 318_
+
+### Council for Undergraduate Research Poster Awards
+
+* Mohsen Dorodchi, Aileen Benedict and Devansh Desai (UNC Charlotte) Reflections are Good!: Analysis of Combination of Grades and Students’ Reflections using Learning Analytics
+* Darren Tirto, Alex Hamme, Keith O'Hara and Sven Anderson (Bard College, United States) Language, Thinking, Code: Interactive Essays with Twine
+* Caelin Bryant, Jonathan Gilmour, Beatriz Herce-Hagiwara, Anh Thu Pham, Halle Remash, Marli Remash, Jonah Zimmerman, Sarah Dahlby Albright and Samuel Rebelsky (Grinnell College, United States) A Middle-School Camp Experience Emphasizing Data Science for Social Good 
+
+### Student Research Competition: Undergrads
+
+* 1st Place: Blaine Billings (College of Charleston) Modelling Correct Operation of Webcams for Security Purposes. 
+* 2nd Place: Gabrielle Zahuantitla and Aryanna Holder (SUNY Old Westbury) A Four Point Student-led Strategy for Attracting Diverse Small College Commuter Campus Students to Computer Science. 
+* 3rd Place: Blayde Dill (University of Alabama) Developing a Blocked Based Language for the Adafruit Circuit Playground. 
+
+### Student Research Competition: Grads
+
+* 1st Place: Rick Parker (University of Colorado) Developing Software Engineers: A Study of the CS Senior Capstone and Its Influence on Student Professionalization. 
+* 2nd Place: Ayaan M. Kazerouni (Virginia Tech) Toward Continuous Assessment of the Programming Process. 
+* 3rd Place: Adam Koehler (University of California, Riverside) Teaching Programming Style in CS 1 with Erroneous Examples.
+
+### Best Lightning Talk 1
+* Michael Ball (University of California, Berkeley) IRT In 5 Minutes: Easy Ways to Better Understand An Assessment. 
+
+### Best Lightning Talk 2
+* Robert Ravenscroft (Rhode Island College) An HTML5 Browser Application for Modeling and Teaching Linked Lists. 
+
+### Best Demo
+* Rita Garcia (University of Adelaide, Adelaide, Australia) Parsons Problems usage within a MOOC Pedagogy.
