@@ -1,6 +1,7 @@
 ---
 title: "Guidelines: Lightning Talks"
 showTitle: true
+layout: default
 ---
 
 {% include submissiondetails.html plural="Lightning Talks" %}
@@ -31,29 +32,29 @@ The abstract is the summary of the Lightning talk that will appear on the confer
 
 ### Sample Proposal
 
-* [Sample proposal (PDF)]({{site.base}}/docs/sigcse-sample-lightning-talk.pdf)
+* [Sample proposal (PDF)]({{"/docs/sigcse-sample-lightning-talk.pdf"|absolute_url}})
 
-* [Sample proposal (Word)]({{site.base}}/docs/sigcse-sample-lightning-talk.docx)
+* [Sample proposal (Word)]({{"/docs/sigcse-sample-lightning-talk.docx"|absolute_url}})
 
 ### 2018 Lightning Talks
 
-* [SIGCSE 2018 Lightning Talks - Session 1]({{site.base}}/docs/2018-lightning-talks/2018_LightningTalks_1.pdf)
-* [SIGCSE 2018 Lightning Talks - Session 2]({{site.base}}/docs/2018-lightning-talks/2018_LightningTalks_2.pdf)
+* [SIGCSE 2018 Lightning Talks - Session 1]({{"/docs/2018-lightning-talks/2018_LightningTalks_1.pdf"|absolute_url}})
+* [SIGCSE 2018 Lightning Talks - Session 2]({{"/docs/2018-lightning-talks/2018_LightningTalks_2.pdf"|absolute_url}})
 
 ### 2017 Lightning Talks
 
-* Joel Ross, Andrew Ko, David Stearns - [Accessibility as a First-Class Concern in Teaching GUIs and Software Engineering]({{site.base}}/docs/2017-lightning-talks/01-Ross-SIGCSE-lightning-talk-v2.pdf)
-* Megan Lawrence and Mary Bellard - [Teach Access: Preparing Computing Students for Industry]({{site.base}}/docs/2017-lightning-talks/02-SIGCSE_Teach-Accessv2.pdf)
-* Julia Bernd and Jonathan Corley - [Teach Global Impact: A Resource for CSP (or Any CS Class!)]({{site.base}}/docs/2017-lightning-talks/03-Bernd_Corley_Teach_Global_Impact_revised.pdf)
-* Saty Raghavachary - [Curriculum design for 'Explorations in Computing' (a new General Education course at USC)]({{site.base}}/docs/2017-lightning-talks/04-slides_saty-v2.pdf)
-* Brian Broll and Ákos Lédeczi - [Bringing Real-Time Collaboration to Visual Programming]({{site.base}}/docs/2017-lightning-talks/05-Broll-Updated-SIGCSE17-Lightning-Talk.pdf)
-* Patty Hicks - [Moving From Business Education to Computer Science Concepts in the Middle Grades]({{site.base}}/docs/2017-lightning-talks/06-P-Hicks-Slides-for-Lightning-Talk.pdf)
-* Dee A. B. Weikle - [Using the 5 Practices to Improve Facilitation of POGIL Activities]({{site.base}}/docs/2017-lightning-talks/07-Intersection5P-POGILWeikle0309.pdf)
-* Chen-Hsiang (Jones) Yu - [Lessons learned from an EPIC course - Mobile Application Development for Mobile Health]({{site.base}}/docs/2017-lightning-talks/08-2017_SIGCSE_Lightning_Talk_Yu.pdf)
-* Douglas H. Fisher - [Establishing conventions for citing educational materials]({{site.base}}/docs/2017-lightning-talks/09-DougFisherSIGCSEPresentation.pdf)
-* Kendra Walther - [Class-Sourcing Exams: Student-Generated Exam Questions]({{site.base}}/docs/2017-lightning-talks/10-walther-classSourcing.pdf)
-* Anurag Nagar - [Developing Big Data Curriculum with Open Source Infrastructure]({{site.base}}/docs/2017-lightning-talks/DevelopingBigDataCurriculum.pdf)
-* John MacCormick - [Seeking evidence for basing the CS theory course on non-decision problems]({{site.base}}/docs/2017-lightning-talks/11-maccormick-lightning-talk-slides.pdf)
+* Joel Ross, Andrew Ko, David Stearns - [Accessibility as a First-Class Concern in Teaching GUIs and Software Engineering]({{"/docs/2017-lightning-talks/01-Ross-SIGCSE-lightning-talk-v2.pdf"|absolute_url}})
+* Megan Lawrence and Mary Bellard - [Teach Access: Preparing Computing Students for Industry]({{"/docs/2017-lightning-talks/02-SIGCSE_Teach-Accessv2.pdf"|absolute_url}})
+* Julia Bernd and Jonathan Corley - [Teach Global Impact: A Resource for CSP (or Any CS Class!)]({{"/docs/2017-lightning-talks/03-Bernd_Corley_Teach_Global_Impact_revised.pdf"|absolute_url}})
+* Saty Raghavachary - [Curriculum design for 'Explorations in Computing' (a new General Education course at USC)]({{"/docs/2017-lightning-talks/04-slides_saty-v2.pdf"|absolute_url}})
+* Brian Broll and Ákos Lédeczi - [Bringing Real-Time Collaboration to Visual Programming]({{"/docs/2017-lightning-talks/05-Broll-Updated-SIGCSE17-Lightning-Talk.pdf"|absolute_url}})
+* Patty Hicks - [Moving From Business Education to Computer Science Concepts in the Middle Grades]({{"/docs/2017-lightning-talks/06-P-Hicks-Slides-for-Lightning-Talk.pdf"|absolute_url}})
+* Dee A. B. Weikle - [Using the 5 Practices to Improve Facilitation of POGIL Activities]({{"/docs/2017-lightning-talks/07-Intersection5P-POGILWeikle0309.pdf"|absolute_url}})
+* Chen-Hsiang (Jones) Yu - [Lessons learned from an EPIC course - Mobile Application Development for Mobile Health]({{"/docs/2017-lightning-talks/08-2017_SIGCSE_Lightning_Talk_Yu.pdf"|absolute_url}})
+* Douglas H. Fisher - [Establishing conventions for citing educational materials]({{"/docs/2017-lightning-talks/09-DougFisherSIGCSEPresentation.pdf"|absolute_url}})
+* Kendra Walther - [Class-Sourcing Exams: Student-Generated Exam Questions]({{"/docs/2017-lightning-talks/10-walther-classSourcing.pdf"|absolute_url}})
+* Anurag Nagar - [Developing Big Data Curriculum with Open Source Infrastructure]({{"/docs/2017-lightning-talks/DevelopingBigDataCurriculum.pdf"|absolute_url}})
+* John MacCormick - [Seeking evidence for basing the CS theory course on non-decision problems]({{"/docs/2017-lightning-talks/11-maccormick-lightning-talk-slides.pdf"|absolute_url}})
 
 ## How Do I Submit My Proposal?
 

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Pre-Symposium and Affiliated Events
 showTitle: true
 ---
@@ -57,9 +58,9 @@ The abstract is the description of the Demo that will appear on the conference w
 
 ### Sample Proposal
 
--  [Proposal Example (PDF)]({{site.base}}/docs/sigcse-sample-event.pdf)
+-  [Proposal Example (PDF)]({{"/docs/sigcse-sample-event.pdf"|absolute_url}})
 
--  [Proposal Example (Word)]({{site.base}}/docs/sigcse-sample-event.docx)
+-  [Proposal Example (Word)]({{"/docs/sigcse-sample-event.docx"|absolute_url}})
 
 ## How Do I Submit My Proposal?
 

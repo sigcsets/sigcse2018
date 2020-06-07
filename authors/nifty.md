@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Guidelines: Nifty Assignments"
 showTitle: true
 ---

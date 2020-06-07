@@ -1,0 +1,16 @@
+title: SIGCSE 2018
+email: webmaster@sigcse.org
+description: ACM SIGCSE Technical Symposium 2018
+
+baseurl: ""
+# The base hostname & protocol for your site
+url: "http://sigcse2018.sigcse.org"
+
+exclude: ["Gemfile", "Gemfile.lock", "documentation", "pending", "bin"]
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"

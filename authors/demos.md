@@ -1,6 +1,7 @@
 ---
 title: "Guidelines: Demos"
 showTitle: true
+layout: default
 ---
 {% include submissiondetails.html plural="Demos" %}
 
@@ -40,9 +41,9 @@ The abstract is the description of the Demo that will appear on the conference w
 
 ### Sample Proposal
 
-* [Sample proposal (PDF)]({{site.base}}/docs/sigcse-sample-demo.pdf)
+* [Sample proposal (PDF)]({{"/docs/sigcse-sample-demo.pdf"|absolute_url}})
 
-* [Sample proposal (Word)]({{site.base}}/docs/sigcse-sample-demo.docx)
+* [Sample proposal (Word)]({{"/docs/sigcse-sample-demo.docx"|absolute_url}})
 
 ## How Do I Submit My Proposal?
 

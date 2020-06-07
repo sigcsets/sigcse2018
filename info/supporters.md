@@ -6,7 +6,7 @@ title: Prospectus
 # The Premier Event in <br> Computer Science Education
 
 <div class = "alert alert-success">
- <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span> <a href = "{{ '/docs/sigcse-2018-prospectus.pdf' | prepend: site.baseurl }}">Download the full prospectus as a PDF</a>.
+ <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span> <a href = "{{ '/docs/sigcse-2018-prospectus.pdf' | absolute_url }}">Download the full prospectus as a PDF</a>.
 </div>
 
 <div class = "row">

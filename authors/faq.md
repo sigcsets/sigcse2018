@@ -1,6 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 showTitle: true
+layout: default
 ---
 
 ### Paper Submissions

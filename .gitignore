@@ -3,3 +3,5 @@ _site
 .sass-cache
 _venv
 _tools/pylinkchecker/build
+bin
+.jekyll-cache/

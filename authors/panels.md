@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Guidelines: Panels"
 showTitle: true
 ---
@@ -60,9 +61,9 @@ and page limits.
 
 ### Sample Proposal
 
-* [Sample proposal (PDF)]({{site.base}}/docs/sigcse-sample-panel.pdf)
+* [Sample proposal (PDF)]({{"/docs/sigcse-sample-panel.pdf"|absolute_url}})
 
-* [Sample proposal (Word)]({{site.base}}/docs/sigcse-sample-panel.docx)
+* [Sample proposal (Word)]({{"/docs/sigcse-sample-panel.docx"|absolute_url}})
 
 ## How Do I Submit My Proposal?
 

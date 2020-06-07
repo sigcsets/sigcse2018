@@ -13,7 +13,7 @@ the possibility of schedule changes into account when planning for the
 conference.
 
 <div class = "alert alert-success text-center">
- <span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> <a href = "{{ '/docs/sigcse2017-draft-program.pdf' | prepend: site.baseurl }}">Preliminary program (PDF)</a>
+ <span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> <a href = "{{ '/docs/sigcse2017-draft-program.pdf' | absolute_url }}">Preliminary program (PDF)</a>
 </div>
 
 # Award-winning Speakers

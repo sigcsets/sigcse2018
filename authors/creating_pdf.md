@@ -1,5 +1,6 @@
 ---
 title: Creating PDF Documents
+layout: default
 ---
 
 Adobe Portable Document Format (PDF) documents are a standardized and

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Guidelines: Posters"
 showTitle: true
 ---
@@ -97,9 +98,9 @@ posters can be edited in response to reviews.)
 
 ### Sample Proposal
 
--  [Proposal Example (PDF)]({{site.base}}/docs/sigcse-sample-poster.pdf)
+-  [Proposal Example (PDF)]({{"/docs/sigcse-sample-poster.pdf"|absolute_url}})
 
--  [Proposal Example (Word)]({{site.base}}/docs/sigcse-sample-poster.docx)
+-  [Proposal Example (Word)]({{"/docs/sigcse-sample-poster.docx"|absolute_url}})
 
 <a name="cur"></a>
 

@@ -143,9 +143,9 @@ Workshop can be edited in response to reviews.)
 
 ### Sample Proposal
 
--  [Proposal Example (PDF)]({{site.base}}/docs/sigcse-sample-workshop.pdf)
+-  [Proposal Example (PDF)]({{"/docs/sigcse-sample-workshop.pdf"|absolute_url}})
 
--  [Proposal Example (Word)]({{site.base}}/docs/sigcse-sample-workshop.docx)
+-  [Proposal Example (Word)]({{"/docs/sigcse-sample-workshop.docx"|absolute_url}})
 
 
 ## How Do I Submit My Proposal?

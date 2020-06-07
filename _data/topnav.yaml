@@ -69,12 +69,12 @@
   - name: Transportation
     link: /attendees/index.html#travel
   - name: Conference Policies
-    link: http://sigcse2018.sigcse.org/policies.html
+    link: /policies.html
   - name: Student Volunteers
     link: /info/studentvolunteers.html
     divider: true
   - name: SIGCSE 2018 Full Schedule
-    link: http://sigcse2018.sigcse.org/agenda.html
+    link: /agenda.html
   - name: SIGCSE 2018 At-A-Glance
     link: /attendees/at-a-glance.html   
   - name: SIGCSE 2018 Best Papers

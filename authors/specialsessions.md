@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Guidelines: Special Sessions"
 showTitle: true
 ---
@@ -87,9 +88,9 @@ and page limits.
 
 ### Sample Proposal
 
--  [Proposal Example (PDF)]({{site.base}}/docs/sigcse-sample-special-session.pdf)
+-  [Proposal Example (PDF)]({{"/docs/sigcse-sample-special-session.pdf"|absolute_url}})
 
--  [Proposal Example (Word)]({{site.base}}/docs/sigcse-sample-special-session.docx)
+-  [Proposal Example (Word)]({{"/docs/sigcse-sample-special-session.docx"|absolute_url}})
 
 ## How Do I Submit My Proposal?
 

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Guidelines: Student Research Competition"
 showTitle: true
 ---
